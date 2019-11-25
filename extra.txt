@@ -1,2 +1,0 @@
-this is extra file just for git tests
-D:\x\o2
