@@ -2,17 +2,20 @@
   "name": "o2",
   "version": "0.1.0",
   "private": true,
+  "main": "src/main.js",
   "dependencies": {
     "electron": "^7.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "shards-react": "^1.0.3"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts ebuild",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "ebuild": "react-scripts build && electron ."
   },
   "eslintConfig": {
     "extends": "react-app"
