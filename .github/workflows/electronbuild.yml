@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Install dependencies
+        run: npm install
+      - name: Electron Build
+        uses: samuelmeuli/action-electron-builder@v1.0.0
+        with:
+          github_token: 8f669858b657de83cabe2625bef7371219b13722 
