@@ -2,7 +2,7 @@
   "name": "o2",
   "version": "0.1.0",
   "private": true,
-  "main": "main.js",
+  "main": "public/electron.js",
   "dependencies": {
     "bootstrap": "^4.4.0",
     "newman-reporter-htmlextra": "^1.9.2",
