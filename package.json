@@ -2,23 +2,28 @@
   "name": "o2",
   "version": "0.1.0",
   "private": true,
-  "main": "src/main.js",
+  "main": "main.js",
   "dependencies": {
     "bootstrap": "^4.4.0",
-    "electron": "^7.1.2",
     "newman-reporter-htmlextra": "^1.9.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0",
     "reactstrap": "^8.1.1"
   },
+  "devDependencies": {
+    "electron": "^7.1.2",
+    "electron-builder": "^21.2.0"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && electron-builder --windows",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "erun": "electron .",
-    "ebuild": "react-scripts build && electron ."
+    "ebuild": "react-scripts build && electron .",
+    "postinstall": "electron-builder install-app-deps",
+    "release": "electron-builder --windows"
   },
   "eslintConfig": {
     "extends": "react-app"
