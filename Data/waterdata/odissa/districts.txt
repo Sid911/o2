@@ -1,0 +1,3 @@
+ANUGUL=http://cgwb.gov.in/AQM/NAQUIM_REPORT/Odisha/Aungul.pdf
+
+all=http://cgwb.gov.in/District_Profile/Orissa/Kalahandi.pdf
