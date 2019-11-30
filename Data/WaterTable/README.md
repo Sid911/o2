@@ -208,7 +208,8 @@ source : [Central Ground Water Board (CGWB)](http://cgwb.gov.in/)
 - Vaishali : http://cgwb.gov.in/District_Profile/Bihar/Vaishali.pdf
 - West Champaran : http://cgwb.gov.in/District_Profile/Bihar/WEST%20CHAMPARAN.pdf
 
-#### WEST BENGAL
+#### WEST BENGAL 2013
+
 - Bankura : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf 
 - Barddhaman : http://cgwb.gov.in/District_Profile/WestBangal/Barddhaman.pdf
 - Birbhum : http://cgwb.gov.in/District_Profile/WestBangal/Birbhum.pdf
@@ -216,14 +217,110 @@ source : [Central Ground Water Board (CGWB)](http://cgwb.gov.in/)
 - Darjeeling : http://cgwb.gov.in/District_Profile/WestBangal/Darjeeling.pdf
 - Howrah : http://cgwb.gov.in/District_Profile/WestBangal/Howrah.pdf
 - Hugli : http://cgwb.gov.in/District_Profile/WestBangal/Hugli.pdf
-- Koch Bihar : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
-- Kolkata Municipal Corporation : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
+- Koch Bihar : http://cgwb.gov.in/District_Profile/WestBangal/Koch_Behar.pdf.pdf
+- Kolkata Municipal Corporation : http://cgwb.gov.in/District_Profile/WestBangal/Kolkata%20Municipal%20Corporation.pdf
 - Malda : http://cgwb.gov.in/District_Profile/WestBangal/Malda.pdf
 - Murshidabad : http://cgwb.gov.in/District_Profile/WestBangal/Murshidabad.pdf
 - Nadia : http://cgwb.gov.in/District_Profile/WestBangal/Nadia.pdf
-- North 24 Pargana : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
-- Paschim Medinipur : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
-- Purba Medinipur : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
+- North 24 Pargana : http://cgwb.gov.in/District_Profile/WestBangal/North%2024%20Parganas.pdf
+- Paschim Medinipur : http://cgwb.gov.in/District_Profile/WestBangal/Purba%20Medinipur.pdf
+- Purba Medinipur : http://cgwb.gov.in/District_Profile/WestBangal/Purba%20Medinipur.pdf
 - Purulia : http://cgwb.gov.in/District_Profile/WestBangal/Purulia.pdf
-- South Parganas : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
-- Uttar Dinajpur : http://cgwb.gov.in/District_Profile/WestBangal/Bankura.pdf
+- South Parganas : http://cgwb.gov.in/District_Profile/WestBangal/south_parganas.pdf
+- Uttar Dinajpur : http://cgwb.gov.in/District_Profile/WestBangal/uttar%20Dinajpur.pdf
+
+> 2014-15 : http://cgwb.gov.in/Regions/GW-year-Books/GWYB-2014-15/GWYB%202014-15(WB%20AND%20AN).pdf
+
+#### Andra Pradesh 
+- Anantapur : http://cgwb.gov.in/District_Profile/AP/Ananthapur.pdf
+- Chittoor : http://cgwb.gov.in/District_Profile/AP/Chittoor.pdf
+- East Godavari : http://cgwb.gov.in/District_Profile/AP/East%20Godavari.pdf
+- Guntur : http://cgwb.gov.in/District_Profile/AP/Guntur.pdf
+- Kadapa : http://cgwb.gov.in/District_Profile/AP/Kadapa.pdf
+- Krishna : http://cgwb.gov.in/District_Profile/AP/Krishna.pdf
+- Kurnool : http://cgwb.gov.in/District_Profile/AP/Kurnool.pdf
+- Nellore : http://cgwb.gov.in/District_Profile/AP/Nellore.pdf
+- Prakasam : http://cgwb.gov.in/District_Profile/AP/Prakasam.pdf
+- Srikakulam : http://cgwb.gov.in/District_Profile/AP/Srikakulam.pdf
+- Visakhapatnam : http://cgwb.gov.in/District_Profile/AP/Visakhapatnam.pdf
+- Viziyanagarm : http://cgwb.gov.in/District_Profile/AP/Viziyanagarm.pdf
+- West Godavari : http://cgwb.gov.in/District_Profile/AP/West%20Godavari.pdf
+
+
+#### Karnataka
+	
+- BAGALKOTE : http://cgwb.gov.in/District_Profile/karnataka/2012/BAGALKOTE_BROCHURE_2012.pdf
+- BANGALORE RURAL : http://cgwb.gov.in/District_Profile/karnataka/2012/BANGALORE_RURAL-2012.pdf
+- BANGALORE URBAN : http://cgwb.gov.in/District_Profile/karnataka/2012/BANGALORE_URBAN-2012.pdf
+- BELGAUM : http://cgwb.gov.in/District_Profile/karnataka/2012/Belgaum_brochure%202012.pdf
+- BELLARY : http://cgwb.gov.in/District_Profile/karnataka/2012/BELLARY_BROCHURE%202012.pdf
+- BIDAR : http://cgwb.gov.in/District_Profile/karnataka/2012/BIDAR_BROCHURE%202012.pdf
+- Bijapur : http://cgwb.gov.in/District_Profile/karnataka/Bijapur-brochure.pdf
+- C R NAGARA : http://cgwb.gov.in/District_Profile/karnataka/2012/C%20R%20Nagar_BROCHURE%202012.pdf
+- CHIKMNGULUR : http://cgwb.gov.in/District_Profile/karnataka/2012/CHIKMAGALUR-2012.pdf
+- CHITRADURGA : http://cgwb.gov.in/District_Profile/karnataka/2012/CHITRADURGA-2012.pdf
+- DAKSHIN KANADA : http://cgwb.gov.in/District_Profile/karnataka/2012/DAKSHINA_KANNADA_BROCHURE%202012.pdf
+- DAVANAGERE : http://cgwb.gov.in/District_Profile/karnataka/2012/DAVANAGERE_BROCHURE%20-%202012.pdf
+- DHARWAD : http://cgwb.gov.in/District_Profile/karnataka/2012/DHARWAD-2012.pdf
+- GAGDAG : http://cgwb.gov.in/District_Profile/karnataka/2012/GAGDAG-2012.pdf
+- GULBARGA : http://cgwb.gov.in/District_Profile/karnataka/2012/Gulbarga-2012.pdf
+- HASSAN : http://cgwb.gov.in/District_Profile/karnataka/2012/HASSAN-2012.pdf
+- HAVERI : http://cgwb.gov.in/District_Profile/karnataka/2012/Haveri_brochure%202012.pdf
+- KODAGU : http://cgwb.gov.in/District_Profile/karnataka/2012/kodagu-2012.pdf
+- KOLAR : http://cgwb.gov.in/District_Profile/karnataka/2012/KOLAR_2012.pdf
+- KOPPA : http://cgwb.gov.in/District_Profile/karnataka/2012/KOPPA-2012L.pdf
+- MANDYA : http://cgwb.gov.in/District_Profile/karnataka/2012/Mandya_Brouchere%202012.pdf
+- MYSORE : http://cgwb.gov.in/District_Profile/karnataka/2012/MYSORE-2012.pdf
+- RAICHURE : http://cgwb.gov.in/District_Profile/karnataka/2012/RAICHURE_BROCHUREupdated_RP%20section.pdf
+- SHIMOGA : http://cgwb.gov.in/District_Profile/karnataka/2012/SHIMOGA-BROCHURE%202012.pdf
+- TUMKUR : http://cgwb.gov.in/District_Profile/karnataka/2012/Tumkur%20brouchure%202012.pdf
+- UDUPI : http://cgwb.gov.in/District_Profile/karnataka/2012/UDUPI_BROCHURE%202012.pdf
+- UTTARA KANADA : http://cgwb.gov.in/District_Profile/karnataka/2012/Uttara%20Kannada%20brochure-2012.pdf
+- YADGIR : http://cgwb.gov.in/District_Profile/karnataka/2012/Yadgir-2012.pdf
+- CHIKBALLAPUR : http://cgwb.gov.in/District_Profile/karnataka/2012/CHICKBALLAPUR_DIST_BROCHURE%202012.pdf
+- RAMANAGARAM : http://cgwb.gov.in/District_Profile/karnataka/2012/Ramanagaram-2012.pdf
+
+#### Punjab
+- Amritsar : http://cgwb.gov.in/District_Profile/Punjab/Amritsar.pdf
+- Barnala : http://cgwb.gov.in/District_Profile/Punjab/barnala.pdf
+- Bathinda : http://cgwb.gov.in/District_Profile/Punjab/Bathinda.pdf
+- Faridkot : http://cgwb.gov.in/District_Profile/Punjab/Faridkot.pdf
+- Fatehgarh Sahib : http://cgwb.gov.in/District_Profile/Punjab/Fatehgarh.pdf
+- Ferozpur : http://cgwb.gov.in/District_Profile/Punjab/Ferozpur.pdf
+- Gurdaspur : http://cgwb.gov.in/District_Profile/Punjab/Gurdaspur.pdf
+- Hoshiarpur : http://cgwb.gov.in/District_Profile/Punjab/Hoshiarpur.pdf
+- Jalandhar : http://cgwb.gov.in/District_Profile/Punjab/Jalandhar.pdf
+- Kapurthala : http://cgwb.gov.in/District_Profile/Punjab/Kapurthala.pdf
+- Ludhiana : http://cgwb.gov.in/District_Profile/Punjab/Ludhiana.pdf
+- Mansa : http://cgwb.gov.in/District_Profile/Punjab/Mansa.pdf
+- Moga : http://cgwb.gov.in/District_Profile/Punjab/Moga.pdf
+- Muktsar : http://cgwb.gov.in/District_Profile/Punjab/Muktsar.pdf
+- Nawanshahr : http://cgwb.gov.in/District_Profile/Punjab/Nawanshahr.pdf
+- Patiala : http://cgwb.gov.in/District_Profile/Punjab/Patiala.pdf
+- Ropar : http://cgwb.gov.in/District_Profile/Punjab/Ropar.pdf
+- Sangrur : http://cgwb.gov.in/District_Profile/Punjab/Sangrur.pdf
+- SAS Nagar : http://cgwb.gov.in/District_Profile/Punjab/SAS%20Nagar.pdf
+- Taran Taran : http://cgwb.gov.in/District_Profile/Punjab/Tarn%20Taran.pdf
+
+#### Haryana
+- Ambala : http://cgwb.gov.in/District_Profile/Haryana/Ambala.pdf
+- Bhiwani : http://cgwb.gov.in/District_Profile/Haryana/Bhiwani.pdf
+- Faridabad : http://cgwb.gov.in/District_Profile/Haryana/Faridabad.pdf
+- Fatehabad : http://cgwb.gov.in/District_Profile/Haryana/Fatehabad.pdf
+- Gurgaon : http://cgwb.gov.in/District_Profile/Haryana/Gurgaon.pdf
+- Hissar : http://cgwb.gov.in/District_Profile/Haryana/Hissar.pdf
+- Jhajjar : http://cgwb.gov.in/District_Profile/Haryana/Jhajjar.pdf
+- Jind : http://cgwb.gov.in/District_Profile/Haryana/Jind.pdf
+- Kaithal : http://cgwb.gov.in/District_Profile/Haryana/Kaithal.pdf
+- Karnal : http://cgwb.gov.in/District_Profile/Haryana/Karnal.pdf
+- Kurukshetra : http://cgwb.gov.in/District_Profile/Haryana/Kurukshetra.pdf
+- Mahendragarh : http://cgwb.gov.in/District_Profile/Haryana/Mahendragarh.pdf
+- Mewat : http://cgwb.gov.in/District_Profile/Haryana/Mewat.pdf
+- Palwal : http://cgwb.gov.in/District_Profile/Haryana/Palwal.pdf
+- Panchkula : http://cgwb.gov.in/District_Profile/Haryana/Panchkula.pdf
+- Panipat : http://cgwb.gov.in/District_Profile/Haryana/Panipat.pdf
+- Rewari : http://cgwb.gov.in/District_Profile/Haryana/Rewari.pdf
+- Rohtak : http://cgwb.gov.in/District_Profile/Haryana/Rohtak.pdf
+- Sirsa : http://cgwb.gov.in/District_Profile/Haryana/Sirsa.pdf
+- Sonepat : http://cgwb.gov.in/District_Profile/Haryana/Sonepat.pdf
+- Yamuna Nagar : http://cgwb.gov.in/District_Profile/Haryana/Yamuna%20Nagar.pdf
