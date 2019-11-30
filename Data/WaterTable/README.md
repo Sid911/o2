@@ -3,7 +3,7 @@
 source : [Central Ground Water Board (CGWB)](http://cgwb.gov.in/)
 
 ### State and District
->PDF's of entire districts of following states
+> PDF's of entire districts of following states
 #### Maharashtra
 
 - Ahmadnagar : http://cgwb.gov.in/District_Profile/Maharashtra/Ahmadnagar.pdf
