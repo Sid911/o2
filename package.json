@@ -4,7 +4,7 @@
   "private": true,
   "main": "public/electron.js",
   "dependencies": {
-    "bootstrap": "^4.4.0",
+    "bootstrap": "^4.4.1",
     "newman-reporter-htmlextra": "^1.9.2",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
