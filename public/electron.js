@@ -4,14 +4,11 @@ const {app, BrowserWindow} = require('electron')
 let win = null;
 
 function createWindow() {
-  // Initialize the window to our specified dimensions
-  win = new BrowserWindow({width: 1100, height: 600});
+  let win = new BrowserWindow({ width: 800, height: 600, frame: false })
+  win.show()
 
-  // Specify entry point
   win.loadURL('http://localhost:3000');
 
-
-  // Remove window once app is closed
   win.on('closed', function () {
     win = null;
   });
