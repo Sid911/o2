@@ -4,7 +4,7 @@
   "private": true,
   "main": "public/electron.js",
   "dependencies": {
-    "bootstrap": "^4.4.0",
+    "bootstrap": "^4.4.1",
     "newman-reporter-htmlextra": "^1.9.2",
     "node-sass": "^4.13.0",
     "react": "^16.12.0",
@@ -24,7 +24,10 @@
     "erun": "electron .",
     "ebuild": "react-scripts build && electron .",
     "postinstall": "electron-builder install-app-deps",
-    "release": "electron-builder --windows"
+    "release": "electron-builder --windows",
+    "compile-sass": "node-sass src/assets/scss/argon-dashboard-react.scss src/assets/css/argon-dashboard-react.css",
+    "minify-sass": "node-sass src/assets/scss/argon-dashboard-react.scss src/assets/css/argon-dashboard-react.min.css --output-style compressed",
+    "map-sass": "node-sass src/assets/scss/argon-dashboard-react.scss src/assets/css/argon-dashboard-react.css --source-map true"
   },
   "eslintConfig": {
     "extends": "react-app"
