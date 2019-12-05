@@ -4,11 +4,9 @@ import Card from "./Card"
 
 function App() {
   return (
-    <div className="container">
-      <div className="row justify-content-center">
-        <div className="col align-self-center">
+    <div className="d-flex align-items-center full">
+      <div className="container" style={{padding:"10%"}}>
         <Card/>
-        </div>
       </div>
     </div>
   );

@@ -1,16 +1,24 @@
 // ./main.js
 const {app, BrowserWindow} = require('electron')
-
+const path = require('path');
+const url = require('url');
+const { ipcMain } = require('electron');
+const loadBalancer = require('electron-load-balancer');
 let win = null;
 
 function createWindow() {
-  let win = new BrowserWindow({ width: 800, height: 600, frame: false })
-  win.show()
-
-  win.loadURL('http://localhost:3000');
-
+  const starturl = url.format({
+    pathname: path.join(__dirname, '/../build/index.html'),
+    protocol: 'file:',
+    slashes: true,
+  });
+  let win = new BrowserWindow({ frame: false ,webPreferences:{webSecurity:false}});
+  win.show();
+  win.loadURL("http://localhost:3000/");
+  win.webContents.openDevTools();
   win.on('closed', function () {
     win = null;
+    loadBalancer.stopAll();
   });
 }
 

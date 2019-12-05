@@ -12,9 +12,9 @@ class Cards extends React.Component {
     render() {
         return (
         <>
-            <Card style={{ width: "18rem" }}>
+            <Card>
             <CardBody>
-                <CardTitle>Card title</CardTitle>
+                <CardTitle>Enter The Place Name</CardTitle>
                 <CardText>
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.

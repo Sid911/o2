@@ -70,3 +70,15 @@
 
 // React differences
 @import "react/react-differences";
+body{
+    height: 100%;
+}
+html{
+    height: 100%;
+}
+.full{
+    height: 100%;
+}
+div#root {
+    height: 100%;
+}
