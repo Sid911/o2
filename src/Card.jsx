@@ -1,4 +1,7 @@
 import React from "react";
+import {useSelector,useDispatch} from 'react-redux'
+import {login,logout} from "./Actions/index";
+
 // reactstrap components
 import {
   Button,
@@ -8,8 +11,9 @@ import {
   CardText
 } from "reactstrap";
 
-class Cards extends React.Component {
-    render() {
+function Cards(params){
+    const logged = useSelector(state => state.islogged);
+    const dispatch = useDispatch();
         return (
         <>
             <Card>
@@ -19,15 +23,14 @@ class Cards extends React.Component {
                 Some quick example text to build on the card title and make up
                 the bulk of the card's content.
                 </CardText>
-                <Button color="primary" onClick={e => e.preventDefault()}
+                <Button color="primary" onClick={logged?()=>dispatch(logout()):() => dispatch(login())}
                 >
-                Go somewhere
+                {logged?"You are logged in!":"You are not logged in"}
                 </Button>
             </CardBody>
             </Card>
         </>
         );
-    }
 }
 
 export default Cards;
