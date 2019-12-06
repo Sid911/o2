@@ -1,0 +1,11 @@
+.title{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #e6e9f5;
+}
+.drag{
+    -webkit-app-region: drag
+  }
+.nodrag{
+    -webkit-app-region: no-drag;
+}

@@ -17,14 +17,10 @@ const islogged = (state=null,action) =>{
             return false;
     }
 }
-const info = (state =null, action, arg) =>{
+const info = (state =null, action) =>{
     switch (action.type) {
         case "WRITE_NAME": 
-            if (typeof arg === "undefined") {
-                return 1;
-            }else{
-                return Authstate.name = arg;   
-            } 
+                return Authstate.name = action.arg;   
         case "GET_NAME":
             return Authstate.name;
         default:

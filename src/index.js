@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './assets/css/argon-dashboard-react.min.css';
-import Login from './App';
+import Login from './Login';
 import * as serviceWorker from './serviceWorker';
 
 import allreducer from "./Reducers/Combine";

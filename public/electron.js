@@ -12,7 +12,7 @@ function createWindow() {
     protocol: 'file:',
     slashes: true,
   });
-  let win = new BrowserWindow({ frame: false ,webPreferences:{webSecurity:false}});
+  let win = new BrowserWindow({ frame: false ,webPreferences:{webSecurity:false,blinkFeatures: 'OverlayScrollbars'}});
   win.show();
   win.loadURL("http://localhost:3000/");
   win.webContents.openDevTools();
