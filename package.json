@@ -5,6 +5,7 @@
   "main": "public/electron.js",
   "dependencies": {
     "bootstrap": "^4.4.1",
+    "cross-fetch": "^3.0.4",
     "electron-load-balancer": "^2.0.0",
     "firebase": "^7.5.1",
     "newman-reporter-htmlextra": "^1.9.2",
