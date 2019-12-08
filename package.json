@@ -31,7 +31,6 @@
     "eject": "react-scripts eject",
     "erun": "concurrently \"react-scripts start BROWSER=none\" \"wait-on http://localhost:3000 && electron .\"",
     "ebuild": "react-scripts build && electron .",
-    "postinstall": "electron-builder install-app-deps",
     "release": "electron-builder --windows",
     "compile-sass": "node-sass src/assets/scss/argon-dashboard-react.scss src/assets/css/argon-dashboard-react.css",
     "minify-sass": "node-sass src/assets/scss/argon-dashboard-react.scss src/assets/css/argon-dashboard-react.min.css --output-style compressed",
