@@ -7,4 +7,3 @@ import App from "./Pages/App";
 
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.unregister();
-serviceWorker.unregister();
