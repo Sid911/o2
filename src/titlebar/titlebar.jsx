@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import "../titlebar/titlebar.css"
+import "./titlebar.css"
 import '../assets/css/argon-dashboard-react.min.css';
 import "../assets/vendor/nucleo/css/nucleo.css";
 

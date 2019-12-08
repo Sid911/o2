@@ -3,7 +3,7 @@ const login= ()=>{
         type: "SIGN_IN"
     };
 }
-const logout= ()=>{
+const logout=()=>{
     return{
         type: "SIGN_OUT"
     };

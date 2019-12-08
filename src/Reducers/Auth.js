@@ -1,28 +1,31 @@
 const Authstate= {
     logged_in : false,
-    name: null,
+    name: "",
 }
 
-const islogged = (state=null,action) =>{
+const islogged = (state=Authstate,action) =>{
+    console.log(state)
     switch (action.type) {
         case "SIGN_IN":
-            Authstate.logged_in= true;
-            state = true;
-            return Authstate.logged_in;
-        
+            return {
+                logged_in: true,
+                name : state.name
+            }
         case "SIGN_OUT":
-            Authstate.logged_in = false;
-            return Authstate.logged_in;
+            return {
+                logged_in: false,
+                name : state.name
+            }
         default:
             return false;
     }
 }
-const info = (state =null, action) =>{
+const info = (state=Authstate, action) =>{
     switch (action.type) {
         case "WRITE_NAME": 
-                return Authstate.name = action.arg;   
+                return Object.assign({state})  
         case "GET_NAME":
-            return Authstate.name;
+            return state.name;
         default:
             return 1;
     }
