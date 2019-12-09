@@ -12,7 +12,7 @@ import HomePage from "./Pages/Dashboard/Home/Home"
 
 export default class App extends Component {
     render() {
-
+        persistor.flush()
         return (
             <Provider store={data}>
             <PersistGate loading={null} persistor={persistor}>
