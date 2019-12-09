@@ -24,7 +24,7 @@ function Login(state = initBasic, { type, payload }){
         return {...state, LoggedIn :true, IsGuest:payload}
 
     case AUTH_LOGOUT:
-        return {...state, initBasic}
+        return {...state, LoggedIn:false, IsGuest:false}
 
     case USER_SETDEV:
         return {...state,IsDev:true}
@@ -41,8 +41,8 @@ function Credential(state = initUserInfo, action) {
                 Email:action.Email
             })
         default:
-            state;
+            return state;
     }
 }
-
-export const Auth = combineReducers({Login,Credential})
+const Auth = combineReducers({Login,Credential})
+export default Auth;
