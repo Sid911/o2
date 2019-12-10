@@ -11,7 +11,6 @@ export default function Home(props){
 
     const logged = useSelector(state=> state.auth.Login.LoggedIn)
     const store = useSelector(state=> state)
-    console.log(store)
     const dispatch = useDispatch()
 
     return (

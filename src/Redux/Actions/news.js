@@ -58,7 +58,7 @@ export function fetchPostsIfNeeded(pagestring, querry) {
       return dispatch(fetchNews(querry, pagestring))
     } else {
       // Let the calling code know there's nothing to wait for.
-      console.log("did something2")
+      console.log("Wait for 15 min to get new content")
       return Promise.resolve()
     }
   }
