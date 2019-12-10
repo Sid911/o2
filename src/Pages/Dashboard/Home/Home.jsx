@@ -16,7 +16,7 @@ export default function Home(props){
     return (
         <div>
             <Button className="btn-neutral border-neutral" onClick={()=>logged?dispatch(logout()):dispatch(login(true))}>Helloworld</Button>
-            <NewsCard show={false}/>
+            <NewsCard image={store.homeNews.items[0].urlToImage} title={store.homeNews.items[0].title} description={store.homeNews.items[0].description} source={store.homeNews.items[0].source.name}/>
             <Button className="btn-outline-default border-default" onClick={()=>dispatch(fetchPostsIfNeeded("home","india"))}>Click to fetch thingies</Button>
         </div>
     )

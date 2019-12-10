@@ -1,12 +1,37 @@
 import React from "react";
-import { Card,Button } from "reactstrap";
+import {
+    Button,
+    Card,
+    CardBody,
+    CardImg,
+    CardTitle,
+    CardText
+  } from "reactstrap";
 
 export default function NewsCard(props){
-    console.log(props);
     
     return(
-        <div>
-            {props.show?<div className="text-center blockquote">Hello World</div>:<div></div> }
-        </div>
+<>
+        <Card style={{ width: "18rem" }}>
+          <CardImg
+            alt="..."
+            src={props.image}
+            top
+          />
+          <CardBody>
+            <CardTitle>{props.title}</CardTitle>
+            <CardText>
+              {props.description}
+            </CardText>
+            <Button
+              color="primary"
+              href="#pablo"
+              onClick={e => e.preventDefault()}
+            >
+              Go somewhere
+            </Button>
+          </CardBody>
+        </Card>
+      </>
     )
 }
