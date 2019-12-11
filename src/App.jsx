@@ -5,20 +5,24 @@ import "./assets/css/argon-dashboard-react.min.css"
 import { PersistGate } from 'redux-persist/integration/react'
 
 import {data,persistor} from "./Redux/configStore";
-
+import {Scrollbars} from 'react-custom-scrollbars'
 
 import TitleBar from './Titlebar/titlebar'
 import HomePage from "./Pages/Dashboard/Home/Home"
 
 export default class App extends Component {
-    render() {
-        return (
+render() {
+return (
+    <div style={{height:"inherit"}}>
+        <TitleBar />
+        <Scrollbars autoHide style={{position:"fixed"}} universal={true}>
             <Provider store={data}>
-            <PersistGate loading={null} persistor={persistor} >
-                <TitleBar/>
-                <HomePage logged={true}/>
-            </PersistGate>
+                <PersistGate loading={null} persistor={persistor} style={{margin:0}}>
+                    <HomePage logged={true} />
+                </PersistGate>
             </Provider>
+        </Scrollbars>
+    </div>
         )
     }
 }
