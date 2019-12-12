@@ -16,11 +16,13 @@ return (
     <div style={{height:"inherit"}}>
         <TitleBar />
         <Scrollbars autoHide style={{position:"fixed"}} universal={true}>
+            <Router>
             <Provider store={data}>
                 <PersistGate loading={null} persistor={persistor} style={{margin:0}}>
                     <HomePage logged={true} />
                 </PersistGate>
             </Provider>
+            </Router>
         </Scrollbars>
     </div>
         )

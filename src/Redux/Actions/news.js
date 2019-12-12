@@ -40,8 +40,12 @@ function shouldFetchPosts(state, page) {
       posts = state.homeNews.items
       dir = state.homeNews
       break;
+    case "agriculture":
+      posts = state.agragricultureNews.items
+      dir = state.agragricultureNews
     default:
-      posts = state.homeNews.items
+      posts = state.agragricultureNews.items
+      dir = state.homeNews
   }
   if (!posts) {
     return true

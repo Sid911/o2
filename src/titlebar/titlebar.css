@@ -1,11 +1,19 @@
 .title{
     display: flex;
-    justify-content: flex-end;
-    background-color: rgb(230, 233, 245);
+    background-color: white;
 }
 .drag{
     -webkit-app-region: drag
   }
 .nodrag{
-    -webkit-app-region: no-drag;
+    -webkit-app-region: no-drag;    
 }
+img {
+    border-radius: 50%;
+    -webkit-transition: -webkit-transform .4s ease-in-out;
+            transition:         transform .4s ease-in-out;
+}
+img:hover {
+    -webkit-transform: rotate(-35deg);
+            transform: rotate(-35deg);
+  }
