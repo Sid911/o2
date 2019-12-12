@@ -1,19 +1,20 @@
-import React, { Component } from 'react'
-import fetch from "cross-fetch"
+import React from 'react'
 import {login,logout} from "../../../Redux/Actions/Authentication"
 import {fetchPostsIfNeeded} from "../../../Redux/Actions/news"
 import { useSelector,useDispatch } from "react-redux";
 import NewsCard from "./Card";
-import {Button} from "reactstrap";
 
 export default function Home(props){
-
-    const logged = useSelector(state=> state.auth.Login.LoggedIn)
-    const store = useSelector(state=> state)
     const dispatch = useDispatch()
+    dispatch(fetchPostsIfNeeded("home","'india'"))
+    const item = useSelector(state=> state.homeNews.items)
+    const newses= item.map((n)=> <NewsCard title={n.title} image={n.urlToImage} description={n.description}/>)
 
+    console.log(newses);
+    
     return (
-        <div>
+        <div className="flex-nowrap">
+            {newses}
         </div>
     )
 }

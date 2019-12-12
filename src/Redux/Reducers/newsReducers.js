@@ -1,6 +1,4 @@
-import { combineReducers } from "redux";
-import { ADD_NEWS,REQUEST_NEWS,FETCH_NEWS,fetchNews,addNews} from "../Actions/news";
-import {useDispatch} from "react-redux";
+import { ADD_NEWS,REQUEST_NEWS} from "../Actions/news";
 
 const initHomeNews = {
     isFetching : false,

@@ -24,7 +24,7 @@ function set_dev(payload){
     }
 }
 
-function setBUserInfo(FirstName,LastName,Email){
+export function setBUserInfo(FirstName,LastName,Email){
     return{
         type: SETB_USER_INFO,
         FirstName: FirstName,
