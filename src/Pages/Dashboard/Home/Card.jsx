@@ -12,7 +12,7 @@ export default function NewsCard(props){
     
     return(
 <>
-        <Card style={{ width: "18rem" }}>
+        <Card style={{ width: "50%" }}>
           <CardImg
             alt="..."
             src={props.image}
