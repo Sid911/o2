@@ -3,6 +3,7 @@ import {login,logout} from "../../../Redux/Actions/Authentication"
 import {fetchPostsIfNeeded} from "../../../Redux/Actions/news"
 import { useSelector,useDispatch } from "react-redux";
 import NewsCard from "./Card";
+import { Card } from 'reactstrap';
 
 export default function Home(props){
     const dispatch = useDispatch()
@@ -12,7 +13,8 @@ export default function Home(props){
     //console.log(newses);
     
     return (
-        <div className="flex-nowrap">
-        </div>
+        <Card color="secondary" className="shadow-sm--hover rounded-top border-0" style={{height:"100%",padding:10}}>
+            <h1 className="text-center">Hello there Home Page 💙</h1>
+        </Card>
     )
 }

@@ -9,11 +9,10 @@
     -webkit-app-region: no-drag;    
 }
 img {
-    border-radius: 50%;
     -webkit-transition: -webkit-transform .4s ease-in-out;
             transition:         transform .4s ease-in-out;
 }
 img:hover {
     -webkit-transform: rotate(-35deg);
             transform: rotate(-35deg);
-  }
+}

@@ -5510,13 +5510,13 @@ button.bg-darker:focus {
   white-space: normal; }
 
 .shadow-sm {
-  box-shadow: 0 0 0.5rem rgba(38, 153, 251, 0.075) !important; }
+  box-shadow: 0 0 0.5rem rgba(136, 152, 170, 0.075) !important; }
 
 .shadow, .card-profile-image img {
-  box-shadow: 0 0 2rem 0 rgba(38, 153, 251, 0.15) !important; }
+  box-shadow: 0 0 2rem 0 rgba(136, 152, 170, 0.15) !important; }
 
 .shadow-lg {
-  box-shadow: 0 0 3rem rgba(38, 153, 251, 0.175) !important; }
+  box-shadow: 0 0 3rem rgba(136, 152, 170, 0.175) !important; }
 
 .shadow-none {
   box-shadow: none !important; }
@@ -9577,12 +9577,21 @@ button.section-darker:focus {
   transition: all 0.15s ease; }
 
 .shadow-sm--hover:hover {
-  box-shadow: 0 0 0.5rem rgba(38, 153, 251, 0.075) !important; }
+  box-shadow: 0 0 0.5rem rgba(136, 152, 170, 0.075) !important; }
 
 .shadow--hover:hover {
-  box-shadow: 0 0 2rem 0 rgba(38, 153, 251, 0.15) !important; }
+  box-shadow: 0 0 2rem 0 rgba(136, 152, 170, 0.15) !important; }
 
 .shadow-lg--hover:hover {
+  box-shadow: 0 0 3rem rgba(136, 152, 170, 0.175) !important; }
+
+.shadowb-sm--hover:hover {
+  box-shadow: 0 0 0.5rem rgba(38, 153, 251, 0.075) !important; }
+
+.shadowb--hover:hover {
+  box-shadow: 0 0 2rem 0 rgba(38, 153, 251, 0.15) !important; }
+
+.shadowb-lg--hover:hover {
   box-shadow: 0 0 3rem rgba(38, 153, 251, 0.175) !important; }
 
 .shadow-none--hover:hover {
