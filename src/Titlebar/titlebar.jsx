@@ -5,12 +5,11 @@ import "../assets/vendor/nucleo/css/nucleo.css";
 import logo from "../assets/img/brand/logog.png"
 
 import { Button,ButtonGroup} from "reactstrap";
-
+import { useSelector} from "react-redux";
 
 export function titlebar (props){
-    const Googlemasp = require("@google/maps").createClient({key: 'AIzaSyAp89ftnFZ-p3dm0lxczw00MIh1POlVqAc'})
 return (
-<div className="title drag justify-content-between">
+<div className="title drag justify-content-between flex-row">
     <div className="flex-column nodrag " style={{paddingLeft:"2%",paddingTop:10}} unselectable="on">
         <img src={logo} height="80px" width="80px" unselectable="on" alt="O2"/>
     </div>
