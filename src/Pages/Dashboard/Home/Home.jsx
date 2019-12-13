@@ -1,5 +1,4 @@
 import React from 'react'
-import {login,logout} from "../../../Redux/Actions/Authentication"
 import {fetchPostsIfNeeded} from "../../../Redux/Actions/news"
 import { useSelector,useDispatch } from "react-redux";
 import NewsCard from "./Card";
