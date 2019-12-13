@@ -8,10 +8,11 @@ import { Button,ButtonGroup} from "reactstrap";
 
 
 export function titlebar (props){
+    const Googlemasp = require("@google/maps").createClient({key: 'AIzaSyAp89ftnFZ-p3dm0lxczw00MIh1POlVqAc'})
 return (
 <div className="title drag justify-content-between">
     <div className="flex-column nodrag " style={{paddingLeft:"2%",paddingTop:10}} unselectable="on">
-        <img src={logo} height="80px" width="80px" unselectable="on"/>
+        <img src={logo} height="80px" width="80px" unselectable="on" alt="O2"/>
     </div>
     {props.show?
     <div className="flex-column justify-content-between" style={{paddingTop:"2%",paddingLeft:"20%"}}>
