@@ -7,7 +7,7 @@ import { Card } from 'reactstrap';
 
 export default function Home(props){
     const dispatch = useDispatch()
-    //dispatch(fetchPostsIfNeeded("home","'india'"))
+    dispatch(fetchPostsIfNeeded("home","'india'"))
    // const item = useSelector(state=> state.homeNews.items)
     //const newses= item.map((n)=> <NewsCard title={n.title} image={n.urlToImage} description={n.description}/>)
     //console.log(newses);
