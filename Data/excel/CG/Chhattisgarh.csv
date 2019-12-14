@@ -1,0 +1,902 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,Dug Well,W11376,2018,5.14,NA
+CG,Bastar,Keshkal,Bastar,19.36027778,81.83638889,Chapra Bhanpuri,Dug Well,W31197,2018,NA,2.45
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,Dug Well,W11411,2018,4.87,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,Dug Well,W21633,2018,3.84,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,Dug Well,W11371,2018,4.81,2.85
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,Bore Well,W11373,2018,7.81,8.8
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,Dug Well,W11375,2018,5.13,3.15
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,Dug Well,W11361,2018,4.46,2.95
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,Bore Well,W11363,2018,5.14,10.4
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,Dug Well,W11368,2018,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,Dug Well,W11370,2018,6.9,6.55
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,Dug Well,W11408,2018,7.1,5.5
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,Dug Well,W11398,2018,5.47,5.25
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,Dug Well,W11350,2018,5.46,3.05
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,Dug Well,W26299,2018,5.12,2.65
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,Bore Well,W26094,2018,4.47,9.5
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,Dug Well,W26102,2018,6.21,6.1
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,Bare arapur,Dug Well,W11366,2018,4.14,NA
+CG,Bastar,Bastanar (bade Kilew,Bastanar (bade Kilew,18.98333333,81.62083333,Kilepal,Dug Well,W11360,2018,7.55,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,Bore Well,W11416,2018,6.41,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,Dug Well,W11345,2018,5.27,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,Dug Well,W11382,2018,NA,6.85
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,Dug Well,W11378,2018,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,Dug Well,W11384,2018,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,Dug Well,W26012,2018,7.14,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,Pharasgaon1  PZ,Bore Well,W26239,2018,11.24,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,Dug Well,W26326,2018,3.1,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,Dug Well,W26074,2018,4.37,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,Dug Well,W18516,2018,6.81,NA
+CG,Bijapur,Bhopal Patnam,Bhopal Patnam,18.8375,80.41388889,Rudraram,Dug Well,W11546,2002,NA,NA
+CG,Bijapur,Bheramgarh,Bheramgarh,19.00944444,81.19305556,Nelasnar,Dug Well,W11544,2002,6.46,NA
+CG,Bijapur,Bheramgarh,Bheramgarh,19.00611111,81.0625,Bhairamgarh,Dug Well,W11541,2002,1.61,NA
+CG,Bijapur,Bijapur,Bijapur,18.75666667,80.71388889,Madakpal,Dug Well,W11553,2002,NA,NA
+CG,Bijapur,Bijapur,Bijapur,18.9,80.8375,Nimed,Dug Well,W11555,2002,7.31,NA
+CG,Bijapur,Bijapur,Bijapur,18.77138889,80.54361111,Madded,Dug Well,W11554,2002,3.05,NA
+CG,Bijapur,Bheramgarh,Bheramgarh,19.00277778,80.94166667,Jangla,Dug Well,W11542,2002,4.44,NA
+CG,Bijapur,Bhopal Patnam,Bhopal Patnam,18.85555556,80.37361111,Bhopalpatnam,Dug Well,W11545,2002,NA,NA
+CG,Bijapur,Bijapur,Bijapur,18.79222222,80.81888889,Bijapur,Dug Well,W11548,2002,NA,NA
+CG,Bilaspur,Lormi,Lormi,22.42666667,81.795,Bindabal,Dug Well,W27791,2018,6.4,NA
+CG,Bilaspur,Lormi,Lormi,22.27555556,81.64555556,Godkhami,Dug Well,W27678,2018,7.25,NA
+CG,Bilaspur,Marwahi,Marwahi,23.05666667,82.01222222,Tendumuda,Dug Well,W28157,2018,4.8,NA
+CG,Bilaspur,Marwahi,Marwahi,22.90888889,81.97805556,Lekhani,Dug Well,W31579,2018,4.4,NA
+CG,Bilaspur,Mungeli,Mungeli,22.06555556,81.68611111,Mungeli(d),Bore Well,W27493,2018,NA,21.9
+CG,Bilaspur,Bilha,Bilha,21.94638889,82.05,Bitkuli,Dug Well,W31429,2018,NA,NA
+CG,Bilaspur,Masturi,Masturi,21.91916667,82.26916667,Bakarkuda new,Dug Well,W27416,2018,NA,NA
+CG,Bilaspur,Bilha,Bilha,22.05333333,82.18638889,Hemu Nagar,Dug Well,W27486,2018,NA,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.18611111,82.04166667,Ganiyari.2,Dug Well,W27566,2018,1.8,NA
+CG,Bilaspur,Lormi,Takhatpur,22.2575,81.83527778,Pali,Dug Well,W27646,2018,5.9,NA
+CG,Bilaspur,Bilha,Takhatpur,22.24111111,82.14722222,Madanpur,Dug Well,W27631,2018,4.82,NA
+CG,Bilaspur,Bilha,Takhatpur,22.27222222,82.26805556,Chandkhuri (s),Bore Well,W27673,2018,1.15,NA
+CG,Bilaspur,Bilha,Takhatpur,22.27222222,82.26805556,Chandkhuri (d),Bore Well,W27674,2018,21,NA
+CG,Bilaspur,Kota,Kota,22.30944444,81.94972222,Patera,Dug Well,W27705,2018,2.95,NA
+CG,Bilaspur,Kota,Kota,22.34888889,81.93416667,Shivtarai New,Dug Well,W27728,2018,6.3,NA
+CG,Bilaspur,Lormi,Lormi,22.38138889,81.89972222,Barighat,Dug Well,W27765,2018,7.7,NA
+CG,Bilaspur,Lormi,Lormi,22.40833333,81.85972222,Achanakmar1,Dug Well,W27781,2018,5.5,NA
+CG,Bilaspur,Lormi,Lormi,22.49611111,81.79527778,Tilaidabra,Dug Well,W27835,2018,3.7,NA
+CG,Bilaspur,Lormi,Lormi,22.57,81.75694444,Attaria,Dug Well,W27875,2018,4.6,NA
+CG,Bilaspur,Lormi,Lormi,22.27083333,81.70694444,Lormi1,Dug Well,W27670,2018,4.95,NA
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-1,22.62083333,81.77083333,Keonchi (s),Bore Well,W27904,2018,5.6,NA
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-1,22.62083333,81.77083333,Keonchi (D),Bore Well,W27905,2018,6.27,NA
+CG,Bilaspur,Gourela(pendrarod)-2,Marwahi,22.85166667,81.98055556,Sewra,Dug Well,W28029,2018,8.1,NA
+CG,Bilaspur,Lormi,Lormi,22.27083333,81.70694444,Lormi (d),Bore Well,W27672,2018,NA,8.54
+CG,Bilaspur,Takhatpur,Takhatpur,22.2725,81.75444444,Udaypur,Dug Well,W27675,2018,7.8,3.7
+CG,Bilaspur,Kota,Kota,22.42944444,82.125,Nawapara,Dug Well,W27794,2018,5.61,3.7
+CG,Bilaspur,Kota,Kota,22.46944444,82.10444444,Banabel,Dug Well,W27815,2018,5.9,4.2
+CG,Bilaspur,Kota,Kota,22.2675,81.95861111,Kargikhurud,Dug Well,W27663,2018,9.6,8.4
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-1,22.6975,81.89333333,Rupandand,Dug Well,W27944,2018,4.75,4.5
+CG,Bilaspur,Marwahi,Marwahi,22.94694444,81.945,Nimdha,Dug Well,W28082,2018,3,1.7
+CG,Bilaspur,Marwahi,Marwahi,23.01916667,82.03583333,Chchgohana,Dug Well,W28130,2018,7.4,6.1
+CG,Bilaspur,Marwahi,Marwahi,22.81111111,82.0875,Kotmi.1,Dug Well,W28001,2018,3.36,5.7
+CG,Bilaspur,Marwahi,Marwahi,22.84388889,82.08583333,Shekhwa,Dug Well,W28023,2018,4,9
+CG,Bilaspur,Lormi,Lormi,22.22777778,81.66527778,Chandli,Dug Well,W31466,2018,6.21,8.2
+CG,Bilaspur,Kota,Kota,22.42638889,82.04305556,Pandra Patha,Dug Well,W31522,2018,5.55,6.3
+CG,Bilaspur,Pathariya,Pathariya,21.85833333,81.91666667,Baitalpur,Dug Well,W11512,2018,3.6,2.95
+CG,Bilaspur,Bilha,Bilha,21.89388889,82.07055556,Dagauri,Dug Well,W21616,2018,4.75,4.6
+CG,Bilaspur,Bilha,Bilha,21.96944444,82.04722222,Bilha,Dug Well,W21967,2018,7.63,6.05
+CG,Bilaspur,Bilha,Bilha,21.97083333,82.05,Hirri,Dug Well,W11456,2018,6.5,6.9
+CG,Bilaspur,Kota,Kota,22.36666667,81.99722222,Jhingatpur,Dug Well,W11468,2018,5.4,4.5
+CG,Bilaspur,Kota,Kota,22.38333333,82.11666667,Bansajhal,Dug Well,W11464,2018,2.45,3.65
+CG,Bilaspur,Pathariya,Pathariya,22.01666667,81.83888889,Patharia (Chorbhatti),Dug Well,W11515,2018,3.31,3.4
+CG,Bilaspur,Masturi,Masturi,21.99027778,82.26666667,Masturi-1,Dug Well,W11503,2018,12,4.35
+CG,Bilaspur,Takhatpur,Takhatpur,22.13333333,81.86944444,Takhatpur-2,Dug Well,W11536,2018,3.25,2.7
+CG,Bilaspur,Takhatpur,Takhatpur,22.18611111,82.04166667,Ganiyari-1,Dug Well,W11526,2018,2.7,21
+CG,Bilaspur,Takhatpur,Takhatpur,22.27222222,82.26805556,Beltara-1,Dug Well,W11520,2018,3.2,2.5
+CG,Bilaspur,Takhatpur,Takhatpur,22.19444444,82.13888889,Gatori,Dug Well,W11528,2018,2.75,2.5
+CG,Bilaspur,Kota,Kota,22.28055556,82.17777778,Ratanpur-2,Dug Well,W11476,2018,5.9,6.1
+CG,Bilaspur,Kota,Kota,22.28888889,82.02222222,Kotmi sakola,Bore Well,W11475,2018,21,21.9
+CG,Bilaspur,Kota,Kota,22.29583333,82.075,Jogipur,Dug Well,W11469,2018,4.6,6.7
+CG,Bilaspur,Masturi,Masturi,21.89138889,82.28583333,Malhar-1,Dug Well,W21973,2018,5,NA
+CG,Bilaspur,Masturi,Masturi,21.78055556,82.3125,Chilhati-2,Bore Well,W22826,2018,8.1,NA
+CG,Bilaspur,Bilha,Bilha,21.87972222,82.1475,Bartoli,Dug Well,W21615,2018,9.45,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.12222222,81.9875,Khamharia-1,Dug Well,W11531,2018,5.15,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.14583333,82.27916667,Sipat,Dug Well,W11535,2018,3.6,NA
+CG,Bilaspur,Kota,Kota,22.25416667,81.88333333,Tenduwa,Dug Well,W11480,2018,5.95,NA
+CG,Bilaspur,Kota,Kota,22.28888889,82.025,Kota(kargi),Dug Well,W11473,2018,2.5,NA
+CG,Bilaspur,Marwahi,Marwahi,22.92916667,82.06666667,Danikundi,Dug Well,W11491,2018,8.7,NA
+CG,Bilaspur,Marwahi,Marwahi,23.08444444,82.06944444,Tikthi,Dug Well,W11500,2018,7.35,NA
+CG,Bilaspur,Masturi,Masturi,21.77944444,82.31361111,Chilhati-1,Dug Well,W21972,2018,1.5,NA
+CG,Bilaspur,Kota,Kota,22.34166667,81.93611111,Saraipalli,Dug Well,W11478,2018,7.95,NA
+CG,Bilaspur,Mungeli,Mungeli,22.06555556,81.68611111,Mungeli-2,Dug Well,W11509,2018,6.36,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.1125,82.1,Bilaspur,Dug Well,W11522,2018,7.1,NA
+CG,Bilaspur,Masturi,Masturi,21.91805556,82.2675,bakarkuda,Bore Well,W22825,2018,NA,5
+CG,Bilaspur,Marwahi,Marwahi,23.02,82.06944444,Marwahi-2,Dug Well,W11496,2018,14.12,NA
+CG,Bilaspur,Lormi,Lormi,22.44166667,81.77083333,Chhaparwa,Dug Well,W11484,2018,16.87,NA
+CG,Bilaspur,Lormi,Lormi,22.54166667,81.74583333,Lamni,Dug Well,W11487,2018,16,NA
+CG,Bilaspur,Gourela(pendrarod)-2,Gourela(pendrarod)-2,22.75416667,81.91111111,Gaurela,Dug Well,W11461,2018,4.45,NA
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-2,22.77222222,81.90972222,Pendra Road-1,Bore Well,W22822,2018,6.04,NA
+CG,Bilaspur,Marwahi,Marwahi,23.0125,81.95833333,Seoni,Dug Well,W11499,2018,NA,4.6
+CG,Bilaspur,Mungeli,Mungeli,22.115,81.67055556,Deori,Dug Well,W27524,2018,8.7,9.2
+CG,Bilaspur,Mungeli,Mungeli,22.07805556,81.64027778,Sitalkunda,Dug Well,W27502,2018,9.4,3.8
+CG,Bilaspur,Mungeli,Mungeli,22.09,81.82527778,Daukapa,Dug Well,W27514,2018,4.5,5.2
+CG,Bilaspur,Mungeli,Mungeli,22.15277778,81.65,Kanteli.1,Dug Well,W27548,2018,10.48,4.4
+CG,Bilaspur,Takhatpur,Takhatpur,22.11277778,82.04472222,Pendari,Dug Well,W27523,2018,2.5,12.54
+CG,Bilaspur,Takhatpur,Takhatpur,22.14527778,82.41583333,Kuli,Dug Well,W27542,2018,5.7,5.98
+CG,Bilaspur,Kota,Kota,22.43333333,82.03333333,Belgahana,Dug Well,W11466,2018,5.2,5.9
+CG,Bilaspur,Kota,Kota,22.53194444,82.08055556,Kenda,Dug Well,W11471,2018,7.7,7.6
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-1,22.66388889,81.88333333,Piparkhuti,Dug Well,W11460,2018,6,6
+CG,Bilaspur,Gourela(pendrarod)-1,Gourela(pendrarod)-1,22.62083333,81.77083333,Keonchi-2,Dug Well,W11457,2018,5.2,4.7
+CG,Bilaspur,Marwahi,Marwahi,22.88333333,81.98611111,Dhanpur,Dug Well,W11492,2018,6.12,7.2
+CG,Bilaspur,Lormi,Lormi,22.27083333,81.70694444,lormi,Bore Well,W27671,2018,NA,NA
+CG,Bilaspur,Masturi,Masturi,21.86,82.26666667,Bisauri,Dug Well,W32883,2018,NA,NA
+CG,Bilaspur,Masturi,Masturi,21.99138889,82.26777778,Tikari,Dug Well,W31434,2018,1.2,2.1
+CG,Bilaspur,Mungeli,Mungeli,22.08666667,81.67,Surada,Dug Well,W33458,2018,12.7,12.8
+CG,Bilaspur,Mungeli,Mungeli,22.06944444,81.84333333,Khamaria,Dug Well,W33457,2018,10.04,NA
+CG,Bilaspur,Mungeli,Takhatpur,22.16138889,82.33555556,Bhadrapara,Dug Well,W33459,2018,3.45,NA
+CG,Bilaspur,MARWAHI,Marwahi,22.99222222,81.99555556,Pandri,Dug Well,W33206,2018,3.45,NA
+CG,Bilaspur,Mungeli,Pathariya,22.00638889,81.71611111,Chirhula,Dug Well,W27457,2018,1.5,NA
+CG,Bilaspur,Mungeli,Mungeli,22.15222222,81.61138889,Chattan,Dug Well,W27545,2018,8.75,NA
+CG,Bilaspur,Mungeli,Mungeli,22.16694444,81.62555556,Fulwari,Dug Well,W27553,2018,7.7,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.1125,82.1,Chakrabhata-d PZ,Bore Well,W27522,2018,21.7,NA
+CG,Bilaspur,Masturi,Masturi,21.78055556,82.3125,chilhati (s),Bore Well,W27350,2018,7.92,NA
+CG,Bilaspur,Masturi,Masturi,21.82805556,82.27,Panchpedi,Dug Well,W27367,2018,10.4,NA
+CG,Bilaspur,Pathariya,Pathariya,21.89527778,82.0325,Amerikhapa,Dug Well,W27403,2018,5.6,NA
+CG,Bilaspur,Bilha,Bilha,22.00083333,82.12305556,Chakarbhata,Dug Well,W27455,2018,18,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.13333333,81.86944444,Takhatpur.1,Dug Well,W27532,2018,3.24,NA
+CG,Bilaspur,Takhatpur,Takhatpur,22.18638889,82.04111111,Ganiyari new,Bore Well,W27567,2018,23.1,NA
+CG,Bilaspur,Kota,Kota,22.38333333,82.11666667,Bansajhal1 PZ,Bore Well,W27766,2018,3.6,NA
+CG,Dakshin Bastar Dantewada,Gedam,Gedam,19.13472222,81.3875,Barsoor,Dug Well,W11566,2017,NA,NA
+CG,Dakshin Bastar Dantewada,Gedam,Gedam,18.975,81.39166667,Geedam,Dug Well,W11568,2017,7.81,NA
+CG,Dakshin Bastar Dantewada,Gedam,Gedam,19.0125,81.23555556,Bade tumnar,Dug Well,W11565,2017,6.19,NA
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.33333333,81.95833333,Nagri,Dug Well,W11605,2018,3.13,NA
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.33333333,81.95833333,Nagri-1,Dug Well,W31265,2018,NA,3.17
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.32222222,81.8625,Birgudi,Dug Well,W11600,2018,6.17,3.7
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.30833333,81.9125,Sihawa,Dug Well,W11607,2018,7.12,2.91
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.54861111,81.7375,Keregaon,Dug Well,W11603,2018,4.72,4.52
+CG,Dhamtari,Kurud,Kurud,21.00416667,81.725,Kondapar,Dug Well,W11593,2018,3.87,4.5
+CG,Dhamtari,Dhamtari,Dhamtari,20.63583333,81.63472222,Seadei,Dug Well,W26621,2018,4.72,3.19
+CG,Dhamtari,Dhamtari,Dhamtari,20.70833333,81.55,Dhamtari1 PZ,Bore Well,W26661,2018,28.13,15.35
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud - I,Dug Well,W26603,2018,2.43,3.69
+CG,Dhamtari,Sihawa (nagri),Magarlod,20.59583333,81.65833333,Banraud D,Bore Well,W26604,2018,7.82,6.18
+CG,Dhamtari,Sihawa (nagri),Magarlod,20.59583333,81.65833333,Banraud S,Bore Well,W26605,2018,7.37,5.2
+CG,Dhamtari,Sihawa (nagri),Magarlod,20.61333333,81.64916667,Baspara Kukrel,Dug Well,W26610,2018,4.74,3.87
+CG,Dhamtari,Magarlod,Magarlod,20.6775,81.90416667,Mulgaon,Dug Well,W26642,2018,4.73,3.19
+CG,Dhamtari,Magarlod,Magarlod,20.72277778,81.90277778,Budarao,Dug Well,W26671,2018,3.89,2.87
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,Magarlod D,Bore Well,W26687,2018,8.19,4.45
+CG,Dhamtari,Magarlod,Magarlod,20.74527778,81.85416667,Magarlod S,Bore Well,W26688,2018,36.66,4.16
+CG,Dhamtari,Kurud,Kurud,20.88194444,81.70194444,Bhatagoan,Dug Well,W26768,2018,1.62,4.16
+CG,Dhamtari,Dhamtari,Dhamtari,20.62666667,81.57472222,Gangrel S,Bore Well,W26618,2018,15.18,NA
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.24583333,82.07916667,Arsi-kanhar,Dug Well,W11598,2018,NA,4.19
+CG,Dhamtari,Dhamtari,Kurud,20.85972222,81.59861111,Kosmarra,Dug Well,W21980,2018,1.39,NA
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.50055556,81.95833333,Nagari,Bore Well,W11604,2018,5.41,4.27
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.36666667,81.79166667,Banspani,Dug Well,W11599,2018,7.24,2.57
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.40555556,81.91111111,Dorgardula,Dug Well,W11601,2018,4.59,5.9
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.49166667,81.87083333,Dugli,Dug Well,W11602,2018,4.19,4.15
+CG,Dhamtari,Dhamtari,Dhamtari,20.77916667,81.66666667,Chhati,Dug Well,W11590,2018,2.38,3.72
+CG,Dhamtari,Magarlod,Magarlod,20.58194444,81.87777778,Singhpur,Dug Well,W11597,2018,4.29,6.27
+CG,Dhamtari,Magarlod,Magarlod,20.74722222,81.85833333,Magarlod,Dug Well,W11596,2018,6.12,5.18
+CG,Dhamtari,Kurud,Kurud,20.8275,81.71888889,Kurud.1,Dug Well,W21623,2018,4.17,3.18
+CG,Dhamtari,Kurud,Kurud,20.90277778,81.68888889,Marod,Dug Well,W11594,2018,3.52,2.47
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.49555556,81.98583333,Jabarra,Dug Well,W21985,2018,NA,3.65
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.44361111,81.80277778,Gattasilli,Dug Well,W21984,2018,NA,3.12
+CG,Dhamtari,Magarlod,Magarlod,20.59583333,81.65833333,Banraud,Dug Well,W11595,2018,NA,NA
+CG,Dhamtari,Dhamtari,Kurud,20.78305556,81.80055556,Mega,Dug Well,W26704,2018,4.92,NA
+CG,Dhamtari,Dhamtari,Dhamtari,20.63333333,81.56666667,Gangrel,Dug Well,W32793,2018,3.94,4.08
+CG,Dhamtari,Dhamtari,Magarlod,20.56666667,81.7,Khadadaha,Dug Well,W32783,2018,5.48,5.12
+CG,Dhamtari,Sihawa (nagri),Sihawa (nagri),20.29305556,81.99027778,Sankra,Dug Well,W11606,2018,5.23,3.22
+CG,Durg,Gurur,Gurur,20.56861111,81.38111111,Markatola,Dug Well,W11632,2018,6.19,4.7
+CG,Durg,Dondilohara,Dondilohara,20.82083333,81.05722222,Sambalpur,Dug Well,W11621,2018,6.1,4.93
+CG,Durg,Sanjari Balod,Dondilohara,20.78055556,81.06416667,Batera,Dug Well,W21993,2018,3.15,2.51
+CG,Durg,Gunderdehi,Gunderdehi,20.94305556,81.20555556,Arjunda,Dug Well,W21664,2018,2.8,4.57
+CG,Durg,Gunderdehi,Gunderdehi,20.94444444,81.29583333,Gunderdehi-2,Dug Well,W11629,2018,3.35,3.33
+CG,Durg,Gunderdehi,Gunderdehi,20.87638889,81.28888889,Sikosa,Dug Well,W21665,2018,2.05,1.79
+CG,Durg,Dhamdha,Dhamdha,21.325,81.3375,Ravelidih,Dug Well,W11619,2018,2.85,2.6
+CG,Durg,Dhamdha,Dhamdha,21.35277778,81.2,Litai,Dug Well,W21661,2018,7.4,9.76
+CG,Durg,Dondilohara,Dondilohara,20.93333333,81.05138889,Nahalda,Dug Well,W11620,2018,NA,NA
+CG,Durg,Gunderdehi,Gunderdehi,20.94444444,81.29527778,Gunderdehi-1,Bore Well,W11630,2018,NA,NA
+CG,Durg,Patan,Patan,21.09722222,81.53416667,Khurdimudi,Dug Well,W33435,2018,1.9,2.71
+CG,Durg,Bemetara,Saja,21.54944444,81.33083333,Phari,Dug Well,W33448,2018,14.35,3.87
+CG,Durg,Saja,Saja,21.59972222,81.26,Mouhabhata,Dug Well,W33449,2018,8.8,4.29
+CG,Durg,Bemetara,Saja,21.70416667,81.42722222,Kusmi,Dug Well,W33453,2018,7.95,5.21
+CG,Durg,Dhamdha,Dhamdha,21.45888889,81.28805556,Barhapur,Dug Well,W32858,2018,11.8,NA
+CG,Durg,Gunderdehi,Gunderdehi,20.95416667,81.25805556,Chichalgondi,Dug Well,W26813,2018,5.45,NA
+CG,Durg,Gunderdehi,Durg,21.01166667,81.28694444,Danganiya,Dug Well,W26849,2018,2.75,NA
+CG,Durg,Durg,Durg,21.1,81.41944444,Selud1,Dug Well,W26915,2018,4.45,NA
+CG,Durg,Dhamdha,Dhamdha,21.50305556,81.45333333,Tarkori,Dug Well,W27192,2018,7.95,NA
+CG,Durg,Berla,Berla,21.61583333,81.62722222,Ranka Pz I,Bore Well,W27257,2018,24.19,NA
+CG,Durg,Navagarh,Navagarh,21.91111111,81.74361111,Sambalpur Pz I,Bore Well,W27413,2018,21.55,NA
+CG,Durg,Bemetara,Bemetara,21.68333333,81.53,Khilora,Dug Well,W27301,2018,6.2,NA
+CG,Durg,Gurur,Gurur,20.64611111,81.47166667,Balod Gahan,Dug Well,W26626,2018,NA,3.3
+CG,Durg,Durg,Durg,21.055,81.265,Binayakpur,Dug Well,W26876,2018,NA,4.24
+CG,Durg,Durg,Durg,21.09944444,81.33194444,Powara,Dug Well,W26912,2018,NA,3.39
+CG,Durg,Bemetara,Berla,21.53888889,81.43694444,Sondh New,Dug Well,W27212,2018,NA,4.26
+CG,Durg,Bemetara,Bemetara,21.90833333,81.60833333,Nawagarh-d,Bore Well,W27410,2018,NA,10.37
+CG,Durg,Bemetara,Bemetara,21.90833333,81.60833333,Nawagarh-s,Bore Well,W27411,2018,NA,9.16
+CG,Durg,Bemetara,Bemetara,21.71666667,81.53333333,Bemetera-d,Bore Well,W27327,2018,NA,46.03
+CG,Durg,Durg,Durg,21.13888889,81.40305556,Paoowara,Dug Well,W31330,2018,5.2,NA
+CG,Durg,Dhamdha,Dhamdha,21.49527778,81.27916667,Pendri,Dug Well,W31378,2018,3.15,NA
+CG,Durg,Berla,Berla,21.61583333,81.62722222,Ranka Pz Ii,Bore Well,W31396,2018,32.45,NA
+CG,Durg,Dondilohara,Dondilohara,20.74333333,81.05166667,Bhalukohna,Dug Well,W26684,2018,NA,NA
+CG,Durg,Durg,Gurur,20.60694444,81.28861111,Talgaon,Dug Well,W32792,2018,16.9,3.62
+CG,Durg,Gurur,Gurur,20.70138889,81.37972222,Tarri,Dug Well,W31287,2018,8.91,4.89
+CG,Durg,Durg,Dhamdha,21.24916667,81.22638889,Nagpura,Dug Well,W31346,2018,5.15,2.64
+CG,Durg,Gurur,Gurur,20.7025,81.34083333,Chirchari,Dug Well,W32795,2018,NA,3.58
+CG,Durg,Navagarh,Navagarh,21.82388889,81.87194444,Temri,Dug Well,W31415,2018,NA,4.37
+CG,Durg,Dondilohara,Dondilohara,20.98444444,80.98194444,Jeortala,Dug Well,W33429,2018,NA,3.48
+CG,Durg,Patan,Patan,21.04444444,81.52833333,Sikola,Dug Well,W33432,2018,NA,2.1
+CG,Durg,Dondilohara,Dondilohara,20.82083333,81.05722222,Sambalpur2,Bore Well,W31301,2018,NA,NA
+CG,Durg,Gurur,Gurur,20.83333333,81.41388889,Armarikalan,Dug Well,W21666,2018,4.75,3.41
+CG,Durg,Patan,Patan,21.16666667,81.54583333,Motipur,Dug Well,W11638,2018,2.55,3.6
+CG,Durg,Patan,Patan,21.23333333,81.53333333,Kumhari,Bore Well,W11637,2018,6.75,12.13
+CG,Durg,Patan,Patan,21.03333333,81.55,Patan,Dug Well,W11639,2018,2.8,2.84
+CG,Durg,Patan,Patan,21.0375,81.45833333,Marra,Dug Well,W21668,2018,3.85,2.3
+CG,Durg,Patan,Patan,21.07638889,81.48333333,Funda,Dug Well,W11636,2018,4.05,2.98
+CG,Durg,Durg,Durg,21.19166667,81.275,Bhilai Nagar-1,Dug Well,W11625,2018,2.5,2.66
+CG,Durg,Durg,Durg,21.06666667,81.275,Anda,Dug Well,W11624,2018,2.7,2.82
+CG,Durg,Durg,Durg,21.11666667,81.38888889,Utai-Adarshnagar,Dug Well,W21663,2018,1.35,1.12
+CG,Durg,Dhamdha,Dhamdha,21.49166667,81.39444444,Dargaon,Dug Well,W21679,2018,4.25,3.89
+CG,Durg,Saja,Saja,21.56944444,81.21388889,Gatapar,Dug Well,W21669,2018,7.15,3.19
+CG,Durg,Bemetara,Bemetara,21.775,81.6675,Bitkuli,Dug Well,W21678,2018,4.95,4.12
+CG,Durg,Navagarh,Bemetara,21.83833333,81.5975,Andhiyarkhor,Dug Well,W21992,2018,11.95,6.49
+CG,Durg,Bemetara,Bemetara,21.7125,81.61388889,Khurmuri,Dug Well,W21659,2018,8.05,4.67
+CG,Durg,Berla,Berla,21.58805556,81.40138889,Parpoda,Dug Well,W21660,2018,4.95,5.57
+CG,Durg,Doundi,Sanjari Balod,20.66777778,81.13166667,Gujara,Dug Well,W26635,2018,4.6,4.15
+CG,Durg,Gurur,Gurur,20.62222222,81.4425,Jagtara,Dug Well,W26614,2018,5.16,3.36
+CG,Durg,Gurur,Gurur,20.68333333,81.40833333,Gurur-d,Bore Well,W26645,2018,16.37,22.9
+CG,Durg,Gurur,Gurur,20.68333333,81.40833333,Gurur-s,Bore Well,W26646,2018,8.93,10.12
+CG,Durg,Doundi,Dondilohara,20.69916667,81.02305556,Baklitola,Dug Well,W26654,2018,4.55,5.94
+CG,Durg,Dhamdha,Dondilohara,20.69916667,81.02305556,Kodiya,Dug Well,W26655,2018,9.5,6.5
+CG,Durg,Dondilohara,Dondilohara,20.7925,81.05138889,Lohara,Dug Well,W26713,2018,2.5,2.4
+CG,Durg,Gunderdehi,Gunderdehi,20.82305556,81.25805556,Sankri,Dug Well,W26729,2018,8.75,7.23
+CG,Durg,Patan,Patan,21.03111111,81.42777778,Bodal,Dug Well,W26862,2018,4.8,4.34
+CG,Durg,Patan,Patan,21.03555556,81.49666667,Kashi,Dug Well,W26864,2018,6.05,2.67
+CG,Durg,Patan,Patan,21.07027778,81.49666667,Dewada,Dug Well,W26894,2018,3,2.12
+CG,Durg,Patan,Patan,21.12111111,81.51055556,Tarra,Dug Well,W26936,2018,5.75,2.51
+CG,Durg,Patan,Patan,21.12111111,81.56583333,Zhit,Dug Well,W26937,2018,2.62,2.39
+CG,Durg,Gunderdehi,Durg,20.97888889,81.28888889,Kachundur,Dug Well,W26833,2018,2.32,3.65
+CG,Durg,Durg,Durg,21.08388889,81.30944444,Janjgiri,Dug Well,W26903,2018,2.15,3.71
+CG,Durg,Durg,Durg,21.20722222,81.41388889,Bhailai,Dug Well,W26995,2018,5.7,2.87
+CG,Durg,Durg,Durg,21.21527778,81.21388889,Ganiyari,Dug Well,W27005,2018,12.25,3.22
+CG,Durg,Durg,Durg,21.25694444,81.30638889,Jeora Sirsa,Dug Well,W27025,2018,8.05,1.89
+CG,Durg,Dhamdha,Dhamdha,21.38666667,81.44472222,Girhola,Dug Well,W27096,2018,14.2,4.72
+CG,Durg,Dhamdha,Dhamdha,21.39972222,81.36166667,Pathariya,Dug Well,W27111,2018,9,3.94
+CG,Durg,Dhamdha,Dhamdha,21.465,81.33472222,Dhamdha-s,Bore Well,W27160,2018,30.55,5.08
+CG,Durg,Dhamdha,Dhamdha,21.465,81.33472222,Dhamda-D,Bore Well,W27161,2018,13.6,5.49
+CG,Durg,Bemetara,Berla,21.65888889,81.55388889,Bijabhat,Dug Well,W27287,2018,8.95,4.82
+CG,Durg,Bemetara,Berla,21.67194444,81.47305556,Ninwa,Dug Well,W27293,2018,7.55,8.36
+CG,Durg,Saja,Saja,21.63777778,81.22,Bortara,Dug Well,W27272,2018,6.95,4.24
+CG,Durg,Saja,Saja,21.66833333,81.30527778,Jata,Dug Well,W27290,2018,7.35,7.24
+CG,Durg,Bemetara,Bemetara,21.87694444,81.46444444,Chilphi,Dug Well,W27394,2018,6.85,5.12
+CG,Durg,Bemetara,Bemetara,21.90833333,81.60833333,Nawagarh1,Dug Well,W27412,2018,8.5,6.13
+CG,Durg,Bemetara,Bemetara,21.68916667,81.48388889,Dunra,Dug Well,W27304,2018,12.35,11.92
+CG,Durg,Bemetara,Bemetara,21.71527778,81.58916667,Baba Mohtara,Dug Well,W27325,2018,4.95,3.44
+CG,Durg,Bemetara,Bemetara,21.71666667,81.53333333,Bemetera-s,Bore Well,W27326,2018,27.05,18.82
+CG,Durg,Bemetara,Bemetara,21.76194444,81.51416667,Baiji,Dug Well,W27338,2018,4.75,2.57
+CG,Durg,Bemetara,Bemetara,21.76277778,81.48277778,Bahera,Dug Well,W27339,2018,3.45,3.79
+CG,Durg,Bemetara,Bemetara,21.81222222,81.46472222,Sagona,Dug Well,W27359,2018,4.45,2.59
+CG,Durg,Durg,Durg,21.1,81.41944444,Selud2,Bore Well,W26916,2018,6.25,NA
+CG,Durg,Saja,Saja,21.58888889,81.21055556,Parpoda,Dug Well,W27240,2018,11.45,NA
+CG,Durg,Bemetara,Bemetara,21.70166667,81.5375,Bemetara New,Dug Well,W27312,2018,8.15,NA
+CG,Durg,Durg,Durg,21.1,81.41944444,Selud,Dug Well,W11626,2018,NA,4.23
+CG,Durg,Bemetara,Bemetara,21.89583333,81.475,Dadhi,Dug Well,W11611,2018,NA,4.71
+CG,Durg,Bemetara,Bemetara,21.77777778,81.4375,Khati,Dug Well,W11612,2018,NA,4.81
+CG,Durg,Dhamdha,Dhamdha,21.465,81.33472222,Dhamda,Dug Well,W11616,2018,NA,NA
+CG,Durg,Saja,Saja,21.575,81.29166667,Jamgaon,Dug Well,W21670,2018,NA,NA
+CG,Durg,Gurur,Gurur,20.68333333,81.40833333,Gurur,Dug Well,W11631,2018,4.84,4.3
+CG,Durg,Dondilohara,Dondilohara,20.8875,80.99722222,Bharnabhat,Dug Well,W21687,2018,6.7,3.22
+CG,Durg,Dhamdha,Dhamdha,21.36111111,81.41666667,Ahiwara,Dug Well,W21686,2018,4.35,4.36
+CG,Durg,Sanjari Balod,Sanjari Balod,20.72916667,81.2,Balod,Dug Well,W11641,2018,3.2,3.19
+CG,Durg,Sanjari Balod,Sanjari Balod,20.64166667,81.08055556,Kusumkasa,Dug Well,W11642,2018,4.58,2.35
+CG,Durg,Doundi,Sanjari Balod,20.58611111,81.07777778,Delli Rajhara,Dug Well,W21662,2018,3.55,2.29
+CG,Durg,Sanjari Balod,Sanjari Balod,20.73611111,81.24722222,Umradah,Dug Well,W21671,2018,5.1,4.05
+CG,Janjgir-champa,Jaijaipur,Jaijaipur,21.83333333,82.82083333,Jaijaipur,Dug Well,W11673,2018,5.4,NA
+CG,Janjgir-champa,Pamgarh,Nawagarh,21.735,82.65527778,Mudpar,Dug Well,W33454,2018,3.65,NA
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,21.9,82.71666667,Bamhnidih-2,Dug Well,W11654,2018,5.4,NA
+CG,Janjgir-champa,Shakti,Shakti,21.93194444,82.825,Thathari-2,Dug Well,W11705,2018,2.7,NA
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.79722222,82.525,Dhardei,Dug Well,W11682,2018,3.6,2
+CG,Janjgir-champa,Dabhra,Dabhra,21.78333333,83.08333333,Dabra,Dug Well,W11668,2018,3.7,2.08
+CG,Janjgir-champa,Jaijaipur,Jaijaipur,21.75138889,82.9125,Hasoud,Dug Well,W11672,2018,9.54,6.4
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.77583333,82.38444444,Sasaha,Dug Well,W20949,2018,4.1,4.44
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.85277778,82.38277778,Jewara,Dug Well,W21624,2018,5.4,5.1
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.8,82.66666667,Khartal,Dug Well,W11687,2018,5.6,3.47
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.74583333,82.71111111,Thathari-1,Dug Well,W11696,2018,5.5,4.45
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,22.03527778,82.66111111,Champa-1,Dug Well,W11658,2018,11.3,3.6
+CG,Janjgir-champa,Akaltara,Akaltara,22.02638889,82.42222222,Akaltara,Dug Well,W11643,2018,1.6,1.47
+CG,Janjgir-champa,Shakti,Shakti,22.02083333,82.9625,Sakti-1,Dug Well,W11703,2018,3.95,1.85
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.87083333,82.45277778,Pamgarh-1,Dug Well,W11698,2018,2.6,1.9
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.73333333,82.59444444,Seorinarayan-2,Dug Well,W11692,2018,9.7,9.7
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.86111111,82.63333333,Semara-2,Dug Well,W11691,2018,3,5.17
+CG,Janjgir-champa,Nawagarh,Nawagarh,22.00416667,82.57916667,Janjgir-2,Dug Well,W11683,2018,7.24,4.8
+CG,Janjgir-champa,Shakti,Shakti,22.13555556,82.85944444,Damau,Dug Well,W21650,2018,5.3,5.3
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.89694444,82.62305556,Budena,Dug Well,W27407,2018,3,NA
+CG,Janjgir-champa,Shakti,Bamhnidih,21.89611111,82.74611111,Saliabhata,Dug Well,W27405,2018,5.4,NA
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,21.96138889,82.70055556,Somthi,Dug Well,W27435,2018,8.7,NA
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,21.98333333,82.75416667,Saragaon2,Dug Well,W27444,2018,3.2,NA
+CG,Janjgir-champa,Baloda,Baloda,22.13472222,82.47833333,Baloda S,Bore Well,W27534,2018,12.1,NA
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.92083333,82.53944444,Jhulan Pakariya,Dug Well,W27417,2018,4.35,4.2
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.94472222,82.59472222,Dhurkot Nhs,Dug Well,W27425,2018,3.9,3.1
+CG,Janjgir-champa,Akaltara,Akaltara,21.93027778,82.35666667,Mulmula,Dug Well,W27421,2018,5.4,4.6
+CG,Janjgir-champa,Akaltara,Akaltara,21.94777778,82.405,Nariyara,Dug Well,W27428,2018,4.5,4
+CG,Janjgir-champa,Akaltara,Akaltara,22.03333333,82.33944444,Jairamnagar,Dug Well,W27474,2018,5.46,7.6
+CG,Janjgir-champa,Akaltara,Akaltara,22.0825,82.46,Bamhani,Dug Well,W27509,2018,10.55,11.85
+CG,Janjgir-champa,Jaijaipur,Jaijaipur,21.83333333,82.82083333,Jaijaipur S,Bore Well,W27375,2018,6.22,5.55
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.84666667,82.45805556,Dongakahrod,Dug Well,W27377,2018,2.7,1.8
+CG,Janjgir-champa,Akaltara,Akaltara,21.925,82.34166667,Konargarh,Dug Well,W11646,2018,6.36,NA
+CG,Janjgir-champa,Dabhra,Malkharoda,21.86944444,83.09444444,Sukda,Dug Well,W21260,2018,2.4,NA
+CG,Janjgir-champa,Baloda,Baloda,22.13333333,82.47777778,Baloda -r,Dug Well,W11651,2018,10.8,NA
+CG,Janjgir-champa,Malkharoda,Malkharoda,21.78333333,83.00972222,Ghoghari,Dug Well,W11679,2018,NA,5.85
+CG,Janjgir-champa,Malkharoda,Shakti,21.9625,83.01944444,Adbhar,Dug Well,W21261,2018,NA,2.45
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,21.98333333,82.75416667,Saragaon2,Bore Well,W11662,2018,NA,7.2
+CG,Janjgir-champa,Malkharoda,Malkharoda,21.86666667,82.99166667,Malkharoda-2,Dug Well,W11681,2018,NA,NA
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.83277778,82.49583333,Mehandi,Dug Well,W33455,2018,4.2,3
+CG,Janjgir-champa,Dabhra,Dabhra,21.70833333,83.2375,Chandrapur1,Bore Well,W27317,2018,9.8,NA
+CG,Janjgir-champa,Nawagarh,Pamgarh,21.86972222,82.45361111,Janjgir S,Bore Well,W27388,2018,2.64,NA
+CG,Janjgir-champa,Bamhnidih,Bamhnidih,22.03527778,82.66111111,Champa-d PZ,Bore Well,W27477,2018,15.7,NA
+CG,Janjgir-champa,Akaltara,Akaltara,21.96944444,82.36916667,Amora,Dug Well,W27437,2018,2.32,NA
+CG,Janjgir-champa,Akaltara,Akaltara,22.02638889,82.42222222,Akaltara S,Bore Well,W27472,2018,1.4,NA
+CG,Janjgir-champa,Pamgarh,Nawagarh,21.77083333,82.55666667,Loharsi,Dug Well,W27348,2018,2.8,NA
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.87083333,82.45277778,Pamgarh S,Bore Well,W27389,2018,NA,4.44
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.87083333,82.45277778,Pamgarh D,Bore Well,W27390,2018,NA,7.05
+CG,Janjgir-champa,Akaltara,Akaltara,21.94027778,82.325,Khutighat,Dug Well,W27423,2018,NA,5.06
+CG,Janjgir-champa,Shakti,Shakti,22.02083333,82.9625,Sakti D,Bore Well,W27470,2018,NA,2.05
+CG,Janjgir-champa,Jaijaipur,Jaijaipur,21.83333333,82.82083333,Jaijaipur D,Bore Well,W27374,2018,NA,5.66
+CG,Janjgir-champa,Shakti,Shakti,22.02083333,82.9625,Sakti S,Bore Well,W27469,2018,NA,NA
+CG,Janjgir-champa,Pamgarh,Pamgarh,21.89388889,82.34361111,Kosa,Dug Well,W31422,2018,4.41,5.3
+CG,Janjgir-champa,Baloda,Nawagarh,22.05,82.62,Kamrid,Dug Well,W31439,2018,4.25,NA
+CG,Janjgir-champa,Nawagarh,Nawagarh,21.71805556,82.59444444,Seorinarayan-1,Bore Well,W11693,2018,5.81,NA
+CG,Jashpur,Farsabahar,Farsabahar,22.40416667,83.825,Lavakera-1,Bore Well,W11716,2018,8.15,NA
+CG,Jashpur,Bagicha,Bagicha,23.14277778,83.74944444,Kondapara,Dug Well,W28213,2018,NA,NA
+CG,Jashpur,Farsabahar,Farsabahar,22.4125,83.82555556,Khutsera,Dug Well,W21959,2018,4.1,4.25
+CG,Jashpur,Jashpur,Jashpur,22.95,84.28194444,Rupsera,Dug Well,W11719,2018,4.1,NA
+CG,Jashpur,Jashpur,Jashpur,22.90888889,84.20694444,Jakba,Dug Well,W21651,2018,8.86,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.54444444,83.73888889,Bagh Bahar,Dug Well,W11730,2018,7.5,NA
+CG,Jashpur,Kunkuri,Duldula,22.76666667,84.03333333,Binjapur,Dug Well,W11726,2018,4.05,NA
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kansabel,Dug Well,W11722,2018,7.84,NA
+CG,Jashpur,Kasavel,Kasavel,22.87638889,83.65416667,Bagicha-1,Bore Well,W11720,2018,4.3,NA
+CG,Jashpur,Jashpur,Jashpur,22.88333333,84.13888889,Jashpurnagar,Dug Well,W11718,2018,5.2,NA
+CG,Jashpur,Bagicha,Bagicha,22.93472222,83.65416667,Raikera,Dug Well,W11709,2018,NA,NA
+CG,Jashpur,Bagicha,Kasavel,22.90833333,83.7475,Bewrapali,Dug Well,W21957,2018,5.95,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.6,83.67916667,Bangaon,Dug Well,W11731,2018,8.24,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.74194444,83.95416667,Kunkuri-1,Dug Well,W21652,2018,4.85,NA
+CG,Jashpur,Bagicha,Kasavel,22.90277778,83.63055556,Phooldih,Dug Well,W11708,2018,2.8,NA
+CG,Jashpur,Bagicha,Bagicha,23.00666667,83.66138889,Raoni,Dug Well,W21627,2018,NA,6
+CG,Jashpur,Kunkuri,Kunkuri,22.74166667,83.95416667,Kunkuri-2,Dug Well,W11727,2018,NA,4
+CG,Jashpur,Manora,Manora,22.97222222,84.03055556,Sarkardih,Dug Well,W11729,2018,NA,NA
+CG,Jashpur,Bagicha,Bagicha,23.08611111,83.81111111,Sanna,Dug Well,W11712,2018,NA,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.68611111,83.85833333,Bandarchuwa,Dug Well,W11725,2018,5.92,8.53
+CG,Jashpur,Kasavel,Kasavel,22.79444444,83.66944444,Saraipani,Dug Well,W11724,2018,6.8,6.29
+CG,Jashpur,Bagicha,Bagicha,22.95944444,83.59833333,Peta,Dug Well,W21626,2018,6.32,4.62
+CG,Jashpur,Bagicha,Bagicha,22.97638889,83.65416667,Bagicha-2,Dug Well,W11706,2018,4.45,2.63
+CG,Jashpur,Bagicha,Bagicha,22.98055556,83.54027778,Maini,Dug Well,W11707,2018,6.02,2.34
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55416667,83.60416667,Ludeg,Dug Well,W11733,2018,3.75,4.45
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55472222,83.4625,Pathalgaon-2,Dug Well,W11734,2018,10.55,11.65
+CG,Jashpur,Kasavel,Kasavel,22.73333333,83.73333333,Bataikela,Dug Well,W11721,2018,7.1,4.63
+CG,Jashpur,Farsabahar,Farsabahar,22.50416667,83.95,Tapkara,Dug Well,W11717,2018,5.68,7.5
+CG,Jashpur,Farsabahar,Farsabahar,22.50861111,83.85527778,Farsabahar,Dug Well,W21958,2018,2.1,4.25
+CG,Jashpur,Pathalgaon,Pathalgaon,22.43333333,83.74027778,Kotba,Dug Well,W11732,2018,4.8,5.2
+CG,Jashpur,Duldula,Duldula,22.6,83.95833333,Kersai,Dug Well,W11713,2018,3.58,5.5
+CG,Jashpur,Duldula,Duldula,22.66527778,83.95833333,Kunjara,Dug Well,W11714,2018,4.95,6.3
+CG,Jashpur,Kunkuri,Kunkuri,22.80944444,83.92166667,Chhapartoli,Dug Well,W21960,2018,6.45,2.43
+CG,Jashpur,Kunkuri,Kunkuri,22.77083333,84.025,Raikera(Kunkuri),Dug Well,W11728,2018,5.6,4
+CG,Jashpur,Kasavel,Kasavel,22.8625,83.675,Muskuti,Dug Well,W11723,2018,4.3,4.12
+CG,Jashpur,Bagicha,Bagicha,23.1425,83.75166667,Pandrapat (Kondapara),Dug Well,W21625,2018,NA,NA
+CG,Jashpur,Kasavel,Kasavel,22.63361111,83.69194444,Lamdund,Dug Well,W33466,2018,6.15,6.13
+CG,Jashpur,Pathalgaon,Pathalgaon,22.39444444,83.68777778,Surangpani New,Dug Well,W27771,2018,2.45,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.47111111,83.74416667,Amatolli,Dug Well,W27817,2018,3.1,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55805556,83.50694444,Palidih,Dug Well,W27869,2018,5.92,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55833333,83.535,Kachhor,Dug Well,W27870,2018,6.6,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.74194444,83.95416667,Kunkuri S,Bore Well,W27972,2018,16.8,NA
+CG,Jashpur,Jashpur,Jashpur,22.775,84.075,Chariadand,Dug Well,W27989,2018,7.44,NA
+CG,Jashpur,Jashpur,Jashpur,22.84944444,84.14777778,Balachhappar,Dug Well,W28027,2018,9.3,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.54444444,83.73888889,Bagbahar S,Bore Well,W27860,2018,6.45,NA
+CG,Jashpur,Kasavel,Kunkuri,22.68611111,83.85833333,Banderchua S,Bore Well,W27934,2018,8.52,NA
+CG,Jashpur,Duldula,Jashpur,22.74444444,84.11861111,Patratoli,Dug Well,W27975,2018,5.63,NA
+CG,Jashpur,Bagicha,Manora,22.92611111,83.92611111,Mauhadih,Dug Well,W28067,2018,6.55,NA
+CG,Jashpur,Manora,Manora,23.13777778,83.92944444,Amagaon,Dug Well,W28211,2018,6.78,NA
+CG,Jashpur,Farsabahar,Farsabahar,22.39555556,83.90388889,Kandaibahar,Dug Well,W27772,2018,3.15,3.7
+CG,Jashpur,Farsabahar,Farsabahar,22.51888889,83.80361111,Srishringa,Dug Well,W27844,2018,5.34,6.8
+CG,Jashpur,Pathalgaon,Pathalgaon,22.58638889,83.44416667,Nawaguda,Dug Well,W27884,2018,3.73,6.1
+CG,Jashpur,Kunkuri,Kunkuri,22.70416667,83.92916667,Farsakanhi,Dug Well,W27951,2018,7,5.13
+CG,Jashpur,Kunkuri,Kunkuri,22.75861111,83.96805556,Kandora,Dug Well,W27981,2018,3.3,4
+CG,Jashpur,Kunkuri,Kunkuri,22.77777778,83.95555556,Dhodidand,Dug Well,W27991,2018,4.56,5.1
+CG,Jashpur,Kunkuri,Kunkuri,22.78805556,83.93305556,Ghatmunda,Dug Well,W27994,2018,7.45,6.06
+CG,Jashpur,Kunkuri,Kunkuri,22.85722222,83.8825,Narayanpur S,Bore Well,W28031,2018,4.62,4.66
+CG,Jashpur,Pathalgaon,Kasavel,22.89055556,83.81138889,Bangaon B,Bore Well,W28044,2018,6.7,5.24
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kasawel D,Bore Well,W27912,2018,10,10.25
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kasawel S,Bore Well,W27913,2018,9.7,9.25
+CG,Jashpur,Kasavel,Kasavel,22.65305556,83.78138889,Narayanbaheli,Dug Well,W27919,2018,4.73,5.18
+CG,Jashpur,Kunkuri,Kunkuri,22.85555556,83.90083333,Matasi,Dug Well,W31575,2018,4.2,4
+CG,Jashpur,Kasavel,Kasavel,22.8925,83.81361111,Sahidaur (Jam Dhora),Dug Well,W31578,2018,2.05,1.8
+CG,Jashpur,Farsabahar,Farsabahar,22.38472222,83.98194444,Lavakera-2,Dug Well,W11715,2018,5.15,7.2
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.125,Lohara-d,Bore Well,W11778,2018,5.75,9.74
+CG,Kabeerdham,Bodla,Bodla,22.23722222,81.2825,Singhari D,Bore Well,W27622,2018,9.75,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.32638889,81.39722222,Munmuna,Dug Well,W11774,2018,6.75,2.84
+CG,Kabeerdham,Pandariya,Pandariya,22.36388889,81.35277778,Kui,Dug Well,W11773,2018,5.45,3.12
+CG,Kabeerdham,Pandariya,Pandariya,22.2375,81.54583333,Kapada,Dug Well,W11772,2018,10,3.7
+CG,Kabeerdham,Kawardha,Kawardha,22.06805556,81.20833333,Rajnanwagaon,Dug Well,W11771,2018,4.1,3.74
+CG,Kabeerdham,Kawardha,Kawardha,22.16111111,81.22083333,Bodla,Dug Well,W11767,2018,14.5,4.04
+CG,Kabeerdham,Bodla,Kawardha,22.175,81.31666667,Kharoda Kalan,Dug Well,W21672,2018,12,4.79
+CG,Kabeerdham,Bodla,Bodla,22.16666667,81.05833333,Chilpi,Dug Well,W11766,2018,7.95,6.57
+CG,Kabeerdham,Pandariya,Pandariya,22.21666667,81.41805556,Pandaria-1,Bore Well,W11776,2018,9.25,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.21805556,81.41805556,Pandaria-2,Dug Well,W11775,2018,NA,2.71
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.12916667,Sahaspur lohara,Dug Well,W11780,2018,NA,NA
+CG,Kabeerdham,Kawardha,Kawardha,22.00722222,81.23833333,Kawardha,Dug Well,W11768,2018,NA,NA
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.87527778,81.17333333,Uria Khurud,Dug Well,W27393,2018,9,3.69
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.74138889,81.16638889,Bija Bairangi,Dug Well,W27331,2018,6.85,4.79
+CG,Kabeerdham,Kawardha,Kawardha,22.05166667,81.22,Rengakharkhurd,Dug Well,W27484,2018,8.35,3.21
+CG,Kabeerdham,Kawardha,Kawardha,22.00722222,81.23833333,Kawardha1,Dug Well,W27458,2018,2.95,9.26
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.76722222,81.13055556,Biroda,Dug Well,W27344,2018,7.55,5.38
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.125,Lohara-s PZ,Bore Well,W27372,2018,4.65,9.33
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.12916667,Sahaspur Lohara.1,Dug Well,W27373,2018,4.15,3.72
+CG,Kabeerdham,Bodla,Kawardha,22.0675,81.20833333,Bharamdeo D,Bore Well,W27494,2018,26.15,NA
+CG,Kabeerdham,Bodla,Kawardha,22.06805556,81.20833333,Bharamdeo S,Bore Well,W27496,2018,20.45,NA
+CG,Kabeerdham,Bodla,Bodla,22.16805556,81.05611111,Saroda Dadar S,Bore Well,W27554,2018,22.35,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.21194444,81.49388889,Kishangarh,Dug Well,W27588,2018,10,NA
+CG,Kabeerdham,Bodla,Bodla,22.23722222,81.2825,Singhari S,Bore Well,W27621,2018,9.35,NA
+CG,Kabeerdham,Kawardha,Kawardha,21.96388889,81.20416667,Danganiya,Dug Well,W21673,2018,8.05,3.79
+CG,Korba,Korba,Korba,22.275,82.72777778,Urga.1,Dug Well,W27677,2018,4.5,4.65
+CG,Korba,Pondi,Pondi,22.765,82.26361111,Lenga,Dug Well,W27983,2018,6.75,6.3
+CG,Korba,Pondi,Pondi,22.85055556,82.44027778,Korbi,Dug Well,W28028,2018,8.81,11.32
+CG,Korba,Katghora,Katghora,22.35277778,82.54361111,Sirki Pz - I,Bore Well,W31502,2018,12.6,15.99
+CG,Korba,Kartala,Kartala,22.34111111,83.00972222,Chachiya,Dug Well,W33461,2018,4.35,NA
+CG,Korba,Katghora,Katghora,22.42305556,82.58361111,Shuklakhar,Dug Well,W33462,2018,8.7,NA
+CG,Korba,Pondi,Pondi,22.62277778,82.46527778,Gurasiya,Dug Well,W33465,2018,9.15,NA
+CG,Korba,Pali,Pali,22.37638889,82.37583333,Dhourabhata,Dug Well,W27763,2018,NA,6.06
+CG,Korba,Katghora,Katghora,22.49055556,82.5025,Sindhiya,Dug Well,W31536,2018,NA,4.8
+CG,Korba,Katghora,Katghora,22.33472222,82.54138889,Naraibodh,Dug Well,W27715,2018,NA,NA
+CG,Korba,Korba,Korba,22.34583333,82.7,Korba-2,Dug Well,W11797,2018,14.47,NA
+CG,Korba,Pali,Pali,22.39166667,82.38055556,Banbandha,Dug Well,W11803,2018,2.4,NA
+CG,Korba,Pali,Pali,22.37222222,82.32222222,Pali-2,Dug Well,W11808,2018,2,2.8
+CG,Korba,Kartala,Kartala,22.27083333,82.83472222,Salihabhata,Dug Well,W11784,2018,5.4,4.8
+CG,Korba,Kartala,Kartala,22.30277778,82.9625,Kartala-1,Dug Well,W11782,2018,10.45,9.6
+CG,Korba,Katghora,Pondi,22.92833333,82.44583333,Kurtha,Dug Well,W21598,2018,8.17,NA
+CG,Korba,Pondi,Pondi,22.71666667,82.52916667,Madai-2,Dug Well,W11813,2018,6.05,NA
+CG,Korba,Pondi,Pondi,22.575,82.42083333,Tuman,Dug Well,W11822,2018,4.5,5.63
+CG,Korba,Pondi,Pondi,22.68527778,82.37666667,Jatga-2,Dug Well,W21981,2018,8.5,7.4
+CG,Korba,Katghora,Katghora,22.43333333,82.43333333,Chaitama-2,Dug Well,W11786,2018,4.7,4.1
+CG,Korba,Katghora,Katghora,22.43472222,82.65,Gopalpur-2,Dug Well,W11790,2018,4.9,5.6
+CG,Korba,Katghora,Katghora,22.50833333,82.52083333,Katghora-2,Dug Well,W11793,2018,2.9,2.9
+CG,Korba,Pondi,Pondi,22.75416667,82.64722222,Morga,Dug Well,W11815,2018,8.74,8.19
+CG,Korba,Pondi,Pondi,22.60416667,82.55416667,Pondi,Dug Well,W11819,2018,4.85,3.9
+CG,Korba,Pondi,Pondi,22.76944444,82.49027778,Nawapara,Dug Well,W21961,2018,3.6,2.9
+CG,Korba,Pondi,Pondi,22.66666667,82.38055556,Nagai,Dug Well,W11816,2018,8.9,8.6
+CG,Korba,Pondi,Pondi,22.84166667,82.2,Pasan,Dug Well,W11817,2018,11.5,9.9
+CG,Korba,Katghora,Katghora,22.35555556,82.53861111,Jhabar,Dug Well,W27735,2018,NA,NA
+CG,Korba,Pali,Pali,22.34027778,82.46833333,Nonbirra,Dug Well,W27721,2018,NA,NA
+CG,Korba,Pali,Pali,22.35138889,82.43333333,Bandhakhar,Dug Well,W27729,2018,NA,NA
+CG,Korba,Pondi,Pondi,22.65777778,82.53027778,Gursia,Dug Well,W27922,2018,NA,NA
+CG,Korba,Katghora,Katghora,22.48305556,82.53527778,Kasania,Dug Well,W27826,2018,5.12,NA
+CG,Korba,Pali,Pali,22.35638889,82.42805556,Numera,Dug Well,W27736,2018,9.6,NA
+CG,Korba,Korba,Korba,22.31361111,82.78083333,Pandripani,Bore Well,W27706,2018,2.76,NA
+CG,Korba,Korba,Korba,22.37194444,82.78416667,Dumardih New,Dug Well,W27755,2018,5.4,NA
+CG,Korba,Korba,Korba,22.39694444,82.99138889,Kolga,Dug Well,W27773,2018,4.12,NA
+CG,Korba,Korba,Korba,22.27694444,82.76666667,Bhaisma,Dug Well,W27685,2018,6.7,NA
+CG,Korba,Pondi,Pondi,22.59722222,82.39611111,Khodri,Dug Well,W27892,2018,1.7,NA
+CG,Korba,Pondi,Pondi,22.82138889,82.38694444,Rewa,Dug Well,W28011,2018,6.7,NA
+CG,Korba,Katghora,Kartala,22.31944444,82.98472222,Champa Mode,Dug Well,W27708,2018,3.3,NA
+CG,Korba,Korba,Kartala,22.35416667,82.92027778,Batati Junction,Dug Well,W27734,2018,8.2,NA
+CG,Korba,Kartala,Kartala,22.19666667,82.78527778,Tuman,Dug Well,W27575,2018,5.06,NA
+CG,Korba,Kartala,Kartala,22.20583333,83.00027778,Jogipali,Dug Well,W27582,2018,7.24,NA
+CG,Korba,Kartala,Kartala,22.27638889,82.86666667,Nonbirra,Dug Well,W27682,2018,5.2,NA
+CG,Korba,Katghora,Katghora,22.40527778,82.60527778,Mongara Pz,Bore Well,W27778,2018,8.2,NA
+CG,Korba,Katghora,Katghora,22.40583333,82.61666667,Gajra,Dug Well,W27779,2018,4.26,NA
+CG,Korba,Pali,Pali,22.35416667,82.44527778,Bandhakhar Pz II,Bore Well,W27733,2018,5.8,NA
+CG,Korba,Pali,Pali,22.37361111,82.26833333,Ponri,Dug Well,W27757,2018,4.72,NA
+CG,Korba,Korba,Korba,22.29527778,82.74916667,Ralia Pz - I,Bore Well,W27694,2018,6.7,NA
+CG,Korba,Korba,Korba,22.34,82.77444444,Naktikhar-D,Bore Well,W27718,2018,5.4,NA
+CG,Korba,Korba,Korba,22.34583333,82.69916667,Korba - D,Bore Well,W27724,2018,14.64,NA
+CG,Korba,Korba,Korba,22.34583333,82.69916667,Korba - S,Bore Well,W27725,2018,6.56,NA
+CG,Korba,Korba,Korba,22.37138889,83.08277778,Jilga OW,Bore Well,W27754,2018,100,NA
+CG,Korba,Korba,Korba,22.37555556,82.87611111,Kerwa,Dug Well,W27759,2018,5.5,NA
+CG,Korba,Korba,Korba,22.37583333,82.87805556,Kerwa OW,Bore Well,W27760,2018,5.2,NA
+CG,Korba,Korba,Korba,22.37583333,82.87805556,Kerwa Pz,Bore Well,W27761,2018,5.8,NA
+CG,Korba,Korba,Korba,22.405,83.07111111,Barpali OW,Bore Well,W27776,2018,12.8,NA
+CG,Korba,Korba,Korba,22.29527778,82.74916667,Ralia Pz - III,Bore Well,W31480,2018,6.7,NA
+CG,Korba,Kartala,Kartala,22.32,83.0775,Kudmura,Dug Well,W27709,2018,4.2,4.6
+CG,Korba,Kartala,Kartala,22.23333333,82.76333333,Tikeja,Dug Well,W27613,2018,6.5,4.2
+CG,Korba,Kartala,Kartala,22.27638889,82.88583333,Sakdukala,Dug Well,W27683,2018,6,6.5
+CG,Korba,Katghora,Katghora,22.3575,82.4975,Tiwarta Pz - I,Bore Well,W27737,2018,11.2,5.4
+CG,Korba,Katghora,Katghora,22.3575,82.4975,Tiwarta Pz - II,Bore Well,W27738,2018,5.94,6.34
+CG,Korba,Katghora,Katghora,22.42555556,82.61861111,Churi,Dug Well,W27789,2018,3.9,3.6
+CG,Korba,Katghora,Katghora,22.44194444,82.5725,Jamchuwa,Dug Well,W27801,2018,9.5,9.2
+CG,Korba,Pali,Katghora,22.4475,82.47833333,Rajkamma,Dug Well,W27804,2018,4.1,4.05
+CG,Korba,Katghora,Katghora,22.4575,82.53138889,Lakhanpur,Dug Well,W27811,2018,5.8,5.2
+CG,Korba,Katghora,Katghora,22.47,82.52194444,Sutarra,Dug Well,W27816,2018,5.6,5.1
+CG,Korba,Pali,Pali,22.30583333,82.54694444,Hardibajar,Dug Well,W27702,2018,1.2,1.7
+CG,Korba,Korba,Korba,22.345,82.77388889,Naktikhar,Dug Well,W27723,2018,4.9,4.65
+CG,Korba,Korba,Korba,22.35277778,82.84027778,Dhegurdih Manzipara,Dug Well,W27731,2018,8.15,4.9
+CG,Korba,Korba,Korba,22.36972222,82.95972222,Pasarkhet,Dug Well,W27751,2018,4.4,4.2
+CG,Korba,Korba,Korba,22.37333333,82.77027778,Rishdi,Dug Well,W27756,2018,4.9,4.4
+CG,Korba,Korba,Korba,22.42916667,83.04416667,Basin,Dug Well,W27793,2018,5.6,5.8
+CG,Koriya,Manendragarh,Manendragarh,23.41527778,82.04861111,Kelhari,Dug Well,W11834,2018,7.84,7
+CG,Koriya,Khadgawan,Manendragarh,23.20388889,82.24777778,Akhradand,Dug Well,W33469,2018,NA,3.2
+CG,Koriya,Bharatpur (janakpur),Bharatpur (janakpur),23.59777778,81.71083333,Kiwarpur,Dug Well,W21630,2018,4.53,NA
+CG,Koriya,Khadgawan,Khadgawan,23.10833333,82.37916667,Khadgaon,Dug Well,W11832,2018,NA,3.82
+CG,Koriya,Manendragarh,Manendragarh,23.30138889,82.405,Ujiyarpur,Dug Well,W11840,2018,NA,NA
+CG,Koriya,Baikunthpur,Baikunthpur,23.37083333,82.52638889,Khatgori,Dug Well,W11826,2018,2.71,3.29
+CG,Koriya,Manendragarh,Manendragarh,23.48333333,81.98333333,Tilokhan,Dug Well,W11839,2018,7.89,6.95
+CG,Koriya,Manendragarh,Manendragarh,23.34861111,82.25555556,Pendri,Dug Well,W11836,2018,5.54,4.85
+CG,Koriya,Manendragarh,Manendragarh,23.41111111,82.18055556,Tarabahara,Dug Well,W11838,2018,3.94,3.79
+CG,Koriya,Manendragarh,Manendragarh,23.29111111,82.265,Belbehra,Dug Well,W11833,2018,6.95,5.88
+CG,Koriya,Sonhat,Sonhat,23.48194444,82.51888889,Sonhat,Dug Well,W11843,2018,4,2.34
+CG,Koriya,Bharatpur (janakpur),Bharatpur (janakpur),23.71666667,81.79583333,Janakpur,Dug Well,W11831,2018,5.94,4.69
+CG,Koriya,Khadgawan,Khadgawan,23.03861111,82.49944444,Pouri,Dug Well,W21617,2018,5.63,4.81
+CG,Koriya,Baikunthpur,Baikunthpur,23.225,82.49166667,Mansukha,Dug Well,W11827,2018,8.49,2.75
+CG,Koriya,Baikunthpur,Baikunthpur,23.26666667,82.55,Baikunthpur-d,Bore Well,W11824,2018,19.3,17.05
+CG,Koriya,Baikunthpur,Baikunthpur,23.25833333,82.55,Baikunthpur,Dug Well,W11823,2018,2.9,4.18
+CG,Koriya,Baikunthpur,Baikunthpur,23.28055556,82.70277778,Ranai,Dug Well,W11828,2018,11.92,7.6
+CG,Koriya,Manendragarh,Manendragarh,23.25,82.35833333,Sarbhoka,Dug Well,W11837,2018,5.38,3.92
+CG,Koriya,Manendragarh,Manendragarh,23.21666667,82.20583333,Manendragarh,Dug Well,W11835,2018,1.5,1.19
+CG,Koriya,Khadgawan,Khadgawan,23.07138889,82.3975,Podidih,Dug Well,W33467,2018,5.81,2.76
+CG,Koriya,Baikunthpur,Baikunthpur,23.30666667,82.66861111,Patna,Dug Well,W33470,2018,6.23,6.75
+CG,Koriya,Baikunthpur,Manendragarh,23.35222222,82.36194444,Nagar Station,Dug Well,W33473,2018,4.85,10.84
+CG,Koriya,BHARATPUR (JANAKPUR),Bharatpur (janakpur),23.70444444,81.70444444,Seri,Dug Well,W33215,2018,5.4,4.52
+CG,Koriya,Khadgawan,Khadgawan,23.10833333,82.37916667,Khadgaon S,Bore Well,W28196,2018,24.11,NA
+CG,Koriya,Baikunthpur,Khadgawan,23.17083333,82.43638889,Banjaridad S,Bore Well,W31599,2018,6.84,NA
+CG,Koriya,Baikunthpur,Baikunthpur,23.40694444,82.52277778,Ghugra,Dug Well,W28442,2018,8.25,6.6
+CG,Koriya,Baikunthpur,Baikunthpur,23.26666667,82.55,Baikunthpur-s,Bore Well,W28332,2018,9.9,7.55
+CG,Koriya,Baikunthpur,Baikunthpur,23.30194444,82.62111111,Jamgahana,Dug Well,W28365,2018,6.5,4.11
+CG,Koriya,Baikunthpur,Baikunthpur,23.30888889,82.44361111,Nagar Tilwander New,Dug Well,W28373,2018,5.16,6.05
+CG,Koriya,Manendragarh,Manendragarh,23.37944444,82.30388889,Garundol,Dug Well,W28421,2018,8.19,8.38
+CG,Koriya,Manendragarh,Manendragarh,23.40444444,82.23805556,Biharpur,Dug Well,W28438,2018,12.15,11.45
+CG,Koriya,Manendragarh,Manendragarh,23.45805556,82.05111111,Dondki,Dug Well,W28483,2018,5.9,5.1
+CG,Koriya,Manendragarh,Manendragarh,23.48722222,81.96888889,Rojhi,Dug Well,W28504,2018,4.45,4.73
+CG,Koriya,Manendragarh,Manendragarh,23.21666667,82.20583333,Manendragarh-d,Bore Well,W28295,2018,19.35,13.47
+CG,Koriya,Manendragarh,Manendragarh,23.28166667,82.31833333,Nagpur,Dug Well,W28346,2018,6.05,6.48
+CG,Koriya,Manendragarh,Manendragarh,23.30138889,82.405,Ujiyarpur1,Dug Well,W28363,2018,7.41,7.82
+CG,Koriya,Sonhat,Sonhat,23.45527778,82.48805556,Bikrampur,Dug Well,W28482,2018,6.1,3.97
+CG,Koriya,Bharatpur (janakpur),Bharatpur (janakpur),23.59333333,81.76305556,Ara,Dug Well,W31636,2018,4.05,4.05
+CG,Koriya,Bharatpur (janakpur),Bharatpur (janakpur),23.6125,81.85416667,Baharsi.1,Dug Well,W31641,2018,4.18,3.35
+CG,Koriya,Baikunthpur,Baikunthpur,23.30194444,82.72805556,Girjapur,Dug Well,W28366,2018,NA,1.21
+CG,Koriya,Sonhat,Baikunthpur,23.35194444,82.47638889,Kailashpur,Dug Well,W33472,2018,NA,3.98
+CG,Koriya,Bharatpur (janakpur),Bharatpur (janakpur),23.57361111,81.95,Chutki,Dug Well,W21965,2018,5.04,4.16
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,Dug Well,W11848,2018,8.84,3
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,Dug Well,W31350,2018,4.07,2.6
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,Dug Well,W11850,2018,3.24,2.19
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,Dug Well,W11867,2018,4.55,3.45
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,Dug Well,W11858,2018,5.84,4.58
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,Bore Well,W11860,2018,12.24,6.96
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,Dug Well,W11852,2018,2.87,2.5
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,Dug Well,W11870,2018,1.9,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,B k bahera-2,Dug Well,W11845,2018,8.78,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,Dug Well,W11857,2018,3.05,NA
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,Dug Well,W11925,2018,NA,4.2
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,Dug Well,W11855,2018,4.29,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,Dug Well,W11854,2018,NA,4.18
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,Dug Well,W11847,2018,NA,4.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,Dug Well,W11865,2018,NA,7.11
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,Dug Well,W26888,2018,9,3.61
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,Awaradawri S,Bore Well,W26904,2018,11.44,5.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,Dug Well,W26898,2018,15,3.36
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,Dug Well,W26927,2018,8.87,4.7
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,Dug Well,W27015,2018,5.42,3.74
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,Dug Well,W27098,2018,3.92,5.19
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,Dug Well,W27103,2018,3,2.8
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,Saraipalli-S PZ,Bore Well,W27054,2018,10.22,5.95
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,Dug Well,W21248,2018,4.36,3.05
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,Saraipalli-D PZ,Bore Well,W18595,2018,9.26,6.68
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,Dug Well,W11869,2018,3.92,4.53
+CG,Mahasamund,Mahasamund,Mahasamund,21.08861111,82.11694444,Lavarakhurud,Dug Well,W33434,2018,5.12,3.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.20972222,82.14833333,Kowajhar,Dug Well,W33444,2018,5.61,2.96
+CG,Mahasamund,BAGBAHARA,Mahasamund,21.1,82.21666667,Hadabandh,Dug Well,W33183,2018,NA,5.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur1 PZ,Bore Well,W27072,2018,11.16,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,Dug Well,W26964,2018,4.12,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,Mahasamund Contractual D,Bore Well,W26925,2018,15.46,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,Jogideepa D,Bore Well,W27012,2018,7.66,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,Jogideepa S,Bore Well,W27013,2018,7.21,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,Dug Well,W26911,2018,NA,5.22
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,Dug Well,W27044,2018,NA,3.41
+CG,Mahasamund,Mahasamund,Mahasamund,21.25,82.21666667,Jalki,Dug Well,W32831,2018,4.12,3.12
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-s PZ,Bore Well,W31325,2018,8.24,6.61
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,Dug Well,W21827,2018,2.27,2.68
+CG,Narayanpur,Narayanpur,Narayanpur,19.65833333,81.43055556,Benur,Dug Well,W11422,2003,3.78,NA
+CG,Narayanpur,Narayanpur,Narayanpur,19.66388889,81.31666667,Munjmeta,Dug Well,W11434,2003,2.25,NA
+CG,Raigarh,Raigarh,Sarai Lengha [baram,21.56361111,83.26944444,Baramkela S,Bore Well,W27229,2018,31.6,NA
+CG,Raigarh,Raigarh,Raigarh,21.86805556,83.55166667,Jamgaon,Dug Well,W27387,2018,3.5,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.6725,83.16888889,Godam,Dug Well,W33452,2018,1,NA
+CG,Raigarh,Tamnar,Tamnar,22.08138889,83.41166667,Amaghat,Bore Well,W27505,2018,NA,6.8
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.12972222,83.11333333,Chhal,Dug Well,W27530,2018,NA,2.3
+CG,Raigarh,Sarai Lengha [baram,Sarai Lengha [baram,21.63194444,83.27666667,Mahuapali,Dug Well,W27268,2018,NA,NA
+CG,Raigarh,Kharsia,Sarai Lengha [baram,21.65,83.2,Chaple S,Bore Well,W27279,2018,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.56555556,82.97166667,Kedar S,Bore Well,W27230,2018,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.97277778,83.26083333,Bhupdeopur S,Bore Well,W27440,2018,NA,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.4925,83.22416667,Bamsjer,Dug Well,W27833,2018,3.98,NA
+CG,Raigarh,Kartala,Dharmjaigarh,22.24,83.02027778,Charmar,Dug Well,W27630,2018,4.1,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22305556,83.34416667,Teram Dw,Dug Well,W27594,2018,3.8,3
+CG,Raigarh,Gharghoda,Gharghoda,22.23138889,83.3975,Kotrimal,Dug Well,W27608,2018,4.74,4.5
+CG,Raigarh,Gharghoda,Gharghoda,22.29472222,83.27861111,Dumarpali,Dug Well,W27693,2018,4.8,6.7
+CG,Raigarh,Lailunga,Lailunga,22.38555556,83.6125,Pakargaon,Dug Well,W27767,2018,4.7,5
+CG,Raigarh,Lailunga,Lailunga,22.41527778,83.52055556,Salkhiya,Dug Well,W27786,2018,5.1,7.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.33333333,83.17388889,Bartapali,Dug Well,W27714,2018,8.05,8.35
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.34861111,83.23666667,Gersa,Dug Well,W27727,2018,6.2,6.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37055556,83.23416667,Amapali,Dug Well,W27752,2018,6.2,6.55
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.40777778,83.13388889,Duliamuda,Dug Well,W27780,2018,8.2,9.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47333333,83.37305556,Karramarra,Dug Well,W27819,2018,1.5,2.5
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53666667,83.195,Kandadand,Dug Well,W27853,2018,5.75,4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.53972222,83.3825,Charkhapara,Dug Well,W27856,2018,4.56,2.4
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.56333333,83.11194444,Boro,Dug Well,W27872,2018,8,8.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.6175,83.37972222,Lipti,Dug Well,W27903,2018,4.14,4.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.64416667,83.28694444,Derpani,Dug Well,W27915,2018,3.6,2.3
+CG,Raigarh,Pusaur,Pusaur,21.77138889,83.39555556,Koshmanda,Dug Well,W31409,2018,2.25,2.6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.21472222,Lakshmipur,Dug Well,W27838,2018,NA,4.2
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.42472222,83.24722222,Ongana,Dug Well,W31520,2018,NA,7
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43472222,83.22694444,Tendumar,Dug Well,W31524,2018,NA,6.73
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal-1,Bore Well,W31440,2018,NA,5.7
+CG,Raigarh,Pusaur,Pusaur,21.79583333,83.38055556,Tadola,Dug Well,W11896,2018,2.3,3
+CG,Raigarh,Sarai Lengha [baram,Sarai Lengha [baram,21.525,83.2625,Baramkela,Dug Well,W11901,2018,6.01,2.9
+CG,Raigarh,Sarangarh,Sarangarh,21.625,83.14166667,Hirri1,Dug Well,W11905,2018,7.15,5.5
+CG,Raigarh,Sarangarh,Sarangarh,21.54166667,83.125,Bataupali,Dug Well,W21948,2018,3.4,2.9
+CG,Raigarh,Pusaur,Pusaur,21.79166667,83.32916667,Tetla,Dug Well,W11897,2018,2.92,1.9
+CG,Raigarh,Sarai Lengha [baram,Pusaur,21.71944444,83.30416667,Bonda,Dug Well,W11902,2018,4.04,1.42
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh,Dug Well,W11900,2018,3.6,3.2
+CG,Raigarh,Raigarh,Raigarh,21.96111111,83.30416667,Kerajhar,Dug Well,W11898,2018,4.2,4.55
+CG,Raigarh,Lailunga,Lailunga,22.38333333,83.58333333,Lailunga-1,Dug Well,W11892,2018,7.72,7.06
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.32777778,83.26666667,Barpali,Dug Well,W11872,2018,7.4,6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.37916667,83.11666667,Khadgaon1,Dug Well,W11881,2018,13.4,12.3
+CG,Raigarh,Raigarh,Raigarh,21.86666667,83.3125,Kotra,Dug Well,W11899,2018,3.14,1.6
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharsia,Dug Well,W11889,2018,3.24,3.3
+CG,Raigarh,Kharsia,Kharsia,22.0175,83.10638889,Farkanara,Dug Well,W21618,2018,6.35,6.6
+CG,Raigarh,Gharghoda,Gharghoda,22.27222222,83.41666667,Chimtapani,Dug Well,W11884,2018,9.35,7.8
+CG,Raigarh,Gharghoda,Gharghoda,22.13277778,83.25083333,Bhangari,Dug Well,W21966,2018,7.8,6.8
+CG,Raigarh,Sarangarh,Sarangarh,21.45416667,83.11666667,Damdarha,Dug Well,W11904,2018,9.85,NA
+CG,Raigarh,Lailunga,Lailunga,22.3375,83.47083333,Laripani,Dug Well,W11893,2018,8,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.17083333,83.35416667,Gharghoda,Dug Well,W11885,2018,5.96,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.30416667,83.09583333,Hati,Dug Well,W11879,2018,6.7,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.20416667,83.10416667,Kurekela,Dug Well,W11882,2018,8.6,NA
+CG,Raigarh,Lailunga,Lailunga,22.43527778,83.48722222,Rajpur-1,Dug Well,W21962,2018,3.67,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharamjaigarh,Bore Well,W11875,2018,4.8,NA
+CG,Raigarh,Sarangarh,Sarai Lengha [baram,21.56388889,83.29583333,Saria1,Dug Well,W11903,2018,2.8,NA
+CG,Raigarh,Kharsia,Kharsia,21.98333333,83.2,Chaple,Dug Well,W11888,2018,4.86,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga-2,Dug Well,W11891,2018,NA,NA
+CG,Raigarh,Sarangarh,Sarangarh,21.45333333,83.11944444,Kanakbira,Dug Well,W27149,2018,11.2,9.8
+CG,Raigarh,Sarangarh,Sarangarh,21.57027778,82.97555556,Kedar,Dug Well,W27234,2018,4.1,3.2
+CG,Raigarh,Sarangarh,Sarangarh,21.59416667,83.0025,Chhind,Dug Well,W27243,2018,4.2,3.5
+CG,Raigarh,Sarangarh,Sarangarh,21.63,83.08805556,Rera,Dug Well,W27266,2018,4.37,3.7
+CG,Raigarh,Sarangarh,Sarangarh,21.66388889,83.15777778,Pindri,Dug Well,W27288,2018,2.8,2.1
+CG,Raigarh,Pusaur,Pusaur,21.69166667,83.38583333,Surajgarh,Dug Well,W27306,2018,7.4,6
+CG,Raigarh,Raigarh,Raigarh,21.89138889,83.45972222,Kotarliya,Dug Well,W27400,2018,2.34,3
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raiharg S,Bore Well,W27401,2018,24.8,24.1
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharasia S,Bore Well,W27450,2018,9,5.24
+CG,Raigarh,Kharsia,Kharsia,21.98888889,83.09861111,Kharasia D,Bore Well,W27451,2018,28.6,24
+CG,Raigarh,Tamnar,Tamnar,22.09194444,83.44194444,Tamnar,Dug Well,W27515,2018,9.3,8.3
+CG,Raigarh,Tamnar,Tamnar,22.13638889,83.49027778,Gare Nhs,Dug Well,W27535,2018,4.5,4.7
+CG,Raigarh,Tamnar,Tamnar,22.13861111,83.56611111,Padigaon,Dug Well,W27537,2018,3.56,4.1
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.125,83.16944444,Bojia,Dug Well,W27527,2018,4.8,4.3
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.07555556,83.12694444,Edu,Dug Well,W27500,2018,6.25,5.9
+CG,Raigarh,Pusaur,Pusaur,21.80833333,83.39972222,Aurda,Dug Well,W27358,2018,2.6,2.85
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.5125,83.43611111,Bakaruma,Dug Well,W11871,2018,5.1,8.95
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45555556,83.30694444,Sirsinga,Dug Well,W11883,2018,6,6
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.67083333,83.3375,Kapu,Dug Well,W11880,2018,5.45,5.9
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.63055556,83.40416667,Golabuda,Dug Well,W11878,2018,5.94,8.9
+CG,Raigarh,DHARMJAIGARH,Dharmjaigarh,22.39694444,83.21083333,Amgaon,Dug Well,W33204,2018,NA,NA
+CG,Raigarh,Raigarh,Raigarh,21.88611111,83.56194444,Jamgaon Basti,Dug Well,W33456,2018,3.65,3
+CG,Raigarh,Sarai Lengha [baram,Sarai Lengha [baram,21.425,83.32416667,Jhikipali,Dug Well,W27128,2018,7.2,NA
+CG,Raigarh,Sarai Lengha [baram,Sarai Lengha [baram,21.50333333,83.30194444,Lendhara,Dug Well,W27193,2018,4.9,NA
+CG,Raigarh,Pusaur,Pusaur,21.85027778,83.23,Navrangpur,Dug Well,W27379,2018,3.48,NA
+CG,Raigarh,Raigarh,Raigarh,21.89166667,83.39722222,Raigarh D,Bore Well,W27402,2018,25,NA
+CG,Raigarh,Tamnar,Tamnar,22.05833333,83.37916667,Taraimal1.1,Dug Well,W27489,2018,5.37,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.1525,83.16944444,Auranar,Dug Well,W27547,2018,9.5,NA
+CG,Raigarh,Gharghoda,Gharghoda,22.22444444,83.34944444,Teram  I,Bore Well,W27596,2018,4.3,NA
+CG,Raigarh,Lailunga,Lailunga,22.39166667,83.58333333,Lailunga2,Bore Well,W27770,2018,6.85,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.43416667,83.16722222,Bayasi,Dug Well,W27795,2018,6.2,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.45027778,83.18305556,Taraimar,Dug Well,W27806,2018,5.15,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.46388889,83.2125,Dharmajaigarh,Dug Well,W27813,2018,8.4,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.47416667,83.18555556,Shahpur Colony,Dug Well,W27820,2018,7.68,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.48388889,83.15972222,Durgapur,Dug Well,W27827,2018,6.4,NA
+CG,Raigarh,Dharmjaigarh,Dharmjaigarh,22.23722222,83.08916667,Mumund,Dug Well,W27623,2018,4.1,NA
+CG,Raigarh,Raigarh,Sarai Lengha [baram,21.49194444,83.29638889,Lendra S,Bore Well,W27182,2018,3.5,NA
+CG,Raigarh,Sarangarh,Sarai Lengha [baram,21.55888889,83.19555556,Malda B,Dug Well,W27225,2018,6.7,NA
+CG,Raipur,Dharsiwa,Dharsiwa,21.40833333,81.67222222,Dharsiwa-2,Dug Well,W11936,2018,5.22,3.19
+CG,Raipur,Tilda,Tilda,21.36666667,81.80694444,Dharsiwa-1,Dug Well,W11965,2018,3.71,2.6
+CG,Raipur,Rajim,Chhura,20.775,81.94583333,Panduka,Dug Well,W11960,2018,4.78,4.6
+CG,Raipur,Gariyaband,Rajim,20.88277778,81.95583333,Devri,Dug Well,W21632,2018,6.32,5.19
+CG,Raipur,Chhura,Rajim,20.925,82.14305556,Amethi,Dug Well,W21631,2018,5.6,4.11
+CG,Raipur,Arang,Arang,21.27833333,82.02805556,Ranisagar,Dug Well,W21994,2018,1.98,3.46
+CG,Raipur,Tilda,Tilda,21.3875,81.92083333,Kharora,Dug Well,W11966,2018,4.39,4.2
+CG,Raipur,Rajim,Rajim,20.84277778,81.93027778,Kopra,Dug Well,W33427,2018,2.8,4.11
+CG,Raipur,Simga,Abhanpur,21.05416667,81.75138889,Hadabandh,Dug Well,W33433,2018,15,2.42
+CG,Raipur,Abhanpur,Abhanpur,21.10166667,81.74111111,Kendri,Dug Well,W33436,2018,5.21,3.25
+CG,Raipur,Arang,Arang,21.36916667,81.97527778,Ghivera,Dug Well,W33446,2018,5.29,4.1
+CG,Raipur,Kasdol,Kasdol,21.64305556,82.45833333,Charched,Dug Well,W33451,2018,2.94,3.1
+CG,Raipur,Simga,Simga,21.62944444,81.84166667,Hathband,Dug Well,W27265,2018,9,NA
+CG,Raipur,Gariyaband,Chhura,20.625,82.06666667,Gariyaband-d,Bore Well,W26616,2018,8.53,NA
+CG,Raipur,Gariyaband,Rajim,20.96527778,81.93694444,Koma,Dug Well,W26821,2018,9,NA
+CG,Raipur,Dharsiwa,Tilda,21.46277778,81.6525,Panderbhata S,Bore Well,W27156,2018,9.82,NA
+CG,Raipur,Tilda,Tilda,21.4975,81.74666667,Chanderi,Dug Well,W27187,2018,2.12,NA
+CG,Raipur,Dharsiwa,Tilda,21.57416667,81.7725,Biladi,Dug Well,W27237,2018,4.91,NA
+CG,Raipur,Simga,Simga,21.74138889,81.81194444,Bishrampur,Dug Well,W27332,2018,15,NA
+CG,Raipur,Gariyaband,Chhura,20.86527778,82.17694444,Parsakhurd,Dug Well,W26758,2018,4.4,NA
+CG,Raipur,Simga,Simga,21.69083333,81.78138889,Dhamarkhera,Dug Well,W27305,2018,NA,5.19
+CG,Raipur,Kasdol,Bilaigarh,21.64916667,82.64916667,Tundei,Dug Well,W27278,2018,NA,NA
+CG,Raipur,BALODABAZAR,Chhura,20.68333333,82.13333333,Pahangaon,Dug Well,W33169,2018,5.02,NA
+CG,Raipur,Bhatapara,Palari,21.47444444,82.08333333,Kodwa,Dug Well,W33447,2018,4.78,NA
+CG,Raipur,Bilaigarh,Bilaigarh,21.60916667,82.93583333,Kedar,Dug Well,W33450,2018,3.92,NA
+CG,Raipur,Dharsiwa,Tilda,21.46666667,81.68333333,Devri,Dug Well,W32860,2018,4.3,2.81
+CG,Raipur,Dharsiwa,Dharsiwa,21.23944444,81.58388889,Ravi Shankar University Raipur,Dug Well,W31342,2018,4.55,4.5
+CG,Raipur,Bhatapara,Bhatapara,21.8,81.96666667,Kedar,Dug Well,W32878,2018,NA,2.88
+CG,Raipur,Simga,Simga,21.625,81.70416667,Simga-s,Bore Well,W31399,2018,NA,14.15
+CG,Raipur,Dharsiwa,Dharsiwa,21.16666667,81.72916667,Manabasti,Dug Well,W11937,2018,4.76,3.45
+CG,Raipur,Palari,Palari,21.45,82.075,Sandi-2,Dug Well,W11955,2018,5.63,2.96
+CG,Raipur,Abhanpur,Rajim,20.96666667,81.88333333,Rajim,Dug Well,W11913,2018,9.92,8.4
+CG,Raipur,Rajim,Rajim,20.96666667,82.03333333,Fingeshwar,Dug Well,W11958,2018,4.21,3.12
+CG,Raipur,Abhanpur,Abhanpur,20.98333333,81.81111111,Bajrangpur,Dug Well,W11912,2018,2.41,3.11
+CG,Raipur,Dharsiwa,Dharsiwa,21.20833333,81.67777778,Devpuri-2,Dug Well,W11935,2018,14.04,4.18
+CG,Raipur,Arang,Arang,21.2,81.86666667,Umaria station,Dug Well,W11917,2018,4.97,4.91
+CG,Raipur,Palari,Palari,21.52916667,82.1625,Palari,Dug Well,W11954,2018,5.48,3.11
+CG,Raipur,Tilda,Tilda,21.46583333,81.865,Chicholi,Dug Well,W21656,2018,5.24,3.08
+CG,Raipur,Tilda,Tilda,21.49055556,81.68916667,Tarpongi,Dug Well,W21969,2018,4.82,2.68
+CG,Raipur,Bilaigarh,Bilaigarh,21.625,82.91666667,Sarsiwa,Dug Well,W11926,2018,4.89,4.47
+CG,Raipur,Bilaigarh,Bilaigarh,21.6375,82.725,Bilaigarh,Dug Well,W11924,2018,2.28,4.11
+CG,Raipur,Bilaigarh,Bilaigarh,21.65361111,82.81222222,Bhatgaon,Dug Well,W21988,2018,3.23,4.42
+CG,Raipur,Kasdol,Kasdol,21.61666667,82.43333333,Kasdol,Dug Well,W11945,2018,4.02,4.11
+CG,Raipur,Kasdol,Kasdol,21.62083333,82.42638889,Kasdol-d,Bore Well,W18563,2018,4.88,5.11
+CG,Raipur,Kasdol,Kasdol,21.6875,82.56111111,Haswa,Dug Well,W11944,2018,3.29,2.87
+CG,Raipur,Balodabazar,Balodabazar,21.61916667,82.0425,Chandi,Dug Well,W21996,2018,3.09,3.61
+CG,Raipur,Balodabazar,Balodabazar,21.69166667,82.06527778,Arjuni,Dug Well,W21995,2018,5.41,4.19
+CG,Raipur,Balodabazar,Balodabazar,21.63888889,82.34166667,Lawan,Dug Well,W11920,2018,3.49,3.22
+CG,Raipur,Simga,Simga,21.61583333,81.97388889,Suhela,Dug Well,W21655,2018,4.83,2.5
+CG,Raipur,Simga,Simga,21.625,81.70416667,Simga,Dug Well,W11962,2018,2.7,3.31
+CG,Raipur,Bhatapara,Bhatapara,21.75,81.88611111,Tarenga,Dug Well,W11923,2018,4.67,3.26
+CG,Raipur,Palari,Palari,21.46666667,82.075,Sandi-1,Bore Well,W11956,2018,4.26,NA
+CG,Raipur,Balodabazar,Balodabazar,21.65555556,82.16666667,Baloda bazar-2,Dug Well,W11918,2018,15.4,NA
+CG,Raipur,Dharsiwa,Dharsiwa,21.22083333,81.76666667,Mandirhasud,Dug Well,W11938,2018,8.88,NA
+CG,Raipur,Dharsiwa,Dharsiwa,21.24444444,81.62083333,Raipur,Dug Well,W11939,2018,2.94,NA
+CG,Raipur,Bhatapara,Simga,21.65,81.97083333,Khapri,Dug Well,W22032,2018,5.04,NA
+CG,Raipur,Bhatapara,Bhatapara,21.73333333,81.95,Bhattapara-D-1,Bore Well,W18598,2018,10.82,NA
+CG,Raipur,Bhatapara,Bhatapara,21.74166667,81.95555556,Bhattapara-S,Bore Well,W18599,2018,7.23,NA
+CG,Raipur,Abhanpur,Abhanpur,21.05,81.74583333,Abhanpur,Dug Well,W11911,2018,NA,2.95
+CG,Raipur,Chhura,Chhura,20.625,82.06666667,Gariaband-2,Dug Well,W11927,2018,3.92,NA
+CG,Raipur,Rajim,Chhura,20.8125,82.20833333,Chhura,Dug Well,W11957,2018,5.28,NA
+CG,Raipur,Gariyaband,Gariyaband,20.53333333,82.11666667,Joba,Dug Well,W11943,2018,NA,3.62
+CG,Raipur,Gariyaband,Gariyaband,20.38333333,82.25416667,Dhawalpur,Dug Well,W11942,2018,NA,4.08
+CG,Raipur,Gariyaband,Gariyaband,20.48333333,82.2,Bindra nawagarh,Dug Well,W11941,2018,NA,3.41
+CG,Raipur,Rajim,Rajim,20.88055556,81.92083333,Sursabandha,Dug Well,W11961,2018,NA,3.23
+CG,Raipur,Chhura,Chhura,20.64777778,82.12222222,Kaseru,Dug Well,W26627,2018,5.94,4.36
+CG,Raipur,Chhura,Chhura,20.69277778,82.01083333,Baruka,Dug Well,W26649,2018,7.85,7.82
+CG,Raipur,Rajim,Rajim,20.96666667,81.88333333,Rajim-d PZ,Bore Well,W26824,2018,9.68,8.24
+CG,Raipur,Gariyaband,Chhura,20.62527778,82.06666667,Gariabandh-s,Bore Well,W18562,2018,NA,NA
+CG,Raipur,Abhanpur,Abhanpur,21.05833333,81.73888889,Abhanpur S,Bore Well,W26879,2018,6.74,6.99
+CG,Raipur,Abhanpur,Abhanpur,21.05833333,81.73888889,Abhanpur D,Bore Well,W26880,2018,7.9,5.45
+CG,Raipur,Dharsiwa,Dharsiwa,21.35277778,81.71027778,Mandhar,Dug Well,W27078,2018,4.97,4.1
+CG,Raipur,Dharsiwa,Dharsiwa,21.35416667,81.65694444,Sakara,Dug Well,W27080,2018,5.12,5.14
+CG,Raipur,Dharsiwa,Dharsiwa,21.39805556,81.67277778,Charauda,Dug Well,W27108,2018,3,2.76
+CG,Raipur,Dharsiwa,Dharsiwa,21.19777778,81.68972222,Dumartarai,Dug Well,W26988,2018,6.3,3.61
+CG,Raipur,Arang,Arang,21.36555556,81.97972222,Kasarangi New,Dug Well,W27087,2018,4.21,2.27
+CG,Raipur,Arang,Arang,21.40027778,81.99194444,Kanki,Dug Well,W27112,2018,4.12,3.65
+CG,Raipur,Arang,Arang,21.40555556,82.0275,Bhaisa,Dug Well,W27116,2018,3.69,4
+CG,Raipur,Palari,Palari,21.52222222,82.06722222,Devsundari,Dug Well,W27202,2018,3.55,2.97
+CG,Raipur,Balodabazar,Palari,21.5625,82.13083333,Amera,Dug Well,W27227,2018,4.39,4.12
+CG,Raipur,Tilda,Tilda,21.44277778,81.7175,Raita Satna Ni Para,Dug Well,W27140,2018,5.87,2.76
+CG,Raipur,Tilda,Tilda,21.46333333,81.66333333,Pandan Bhata,Dug Well,W27157,2018,5.13,5.12
+CG,Raipur,Bilaigarh,Bilaigarh,21.56,82.91694444,Marban Gatadih New,Dug Well,W27226,2018,3.92,5.67
+CG,Raipur,Kasdol,Kasdol,21.42083333,82.26666667,Aouri,Dug Well,W27125,2018,5.23,3.14
+CG,Raipur,Kasdol,Kasdol,21.46666667,82.28333333,Mudhipar,Dug Well,W27165,2018,4.38,4.91
+CG,Raipur,Kasdol,Kasdol,21.65222222,82.49138889,Sel,Dug Well,W27281,2018,1.84,5.11
+CG,Raipur,Balodabazar,Balodabazar,21.62694444,82.13027778,Risda,Dug Well,W27262,2018,6.12,3.13
+CG,Raipur,Balodabazar,Balodabazar,21.65416667,82.25833333,Lahaud,Dug Well,W27284,2018,4.44,3.27
+CG,Raipur,Simga,Simga,21.60916667,81.85,Udela,Dug Well,W27253,2018,3.96,3.11
+CG,Raipur,Simga,Simga,21.715,81.79055556,Darchura,Dug Well,W27323,2018,3.92,2.76
+CG,Raipur,Dharsiwa,Simga,21.715,81.79055556,Tatibandh MVM,Dug Well,W27324,2018,5.53,3.11
+CG,Raipur,Chhura,Chhura,20.86388889,82.18694444,Kashi Bahara,Dug Well,W26757,2018,3.93,4.76
+CG,Raipur,Dharsiwa,Dharsiwa,21.33027778,81.76222222,Semariya,Dug Well,W27061,2018,7.04,3.41
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.66388889,81.10888889,Gandai5,Bore Well,W18800,2018,8.35,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.345,81.02944444,Maladabri,Dug Well,W31361,2018,NA,4.42
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.66444444,81.09527778,Gandaipandaria,Dug Well,W11970,2018,10.05,9.32
+CG,Rajnandgaon,Chhuriya,Chhuriya,21.08333333,80.5875,Chirchari,Dug Well,W11973,2018,6.9,4.28
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh,Dug Well,W11976,2018,7.05,4.67
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.255,80.85944444,Dhara,Dug Well,W20923,2018,6.95,3.84
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.07638889,80.82111111,Tappa,Dug Well,W11980,2018,12.71,4.52
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.1,80.68611111,Lal bhadurnagar,Dug Well,W11979,2018,7.35,5.01
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.03333333,81.04166667,Singhola,Dug Well,W21682,2018,1.98,1.47
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.09166667,81.04166667,Rajnandgaon,Dug Well,W11994,2018,2.15,2.61
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10833333,81.04055556,Rajnandgaon-D,Bore Well,W11995,2018,11.05,9.77
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.12388889,81.14666667,Somni,Dug Well,W11997,2018,13.88,2.62
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.70694444,80.95916667,Mohgaon,Dug Well,W11971,2018,2.15,5.49
+CG,Rajnandgaon,Amba Chauki,Chhuriya,20.83333333,80.74166667,Bandha Bazar,Dug Well,W21674,2018,2.35,NA
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.525,80.99583333,Chuikhadan,Dug Well,W11969,2018,12,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.28194444,81.13305556,Saloni,Dug Well,W20924,2018,6.45,NA
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.97083333,80.85694444,Dongargaon.1,Dug Well,W26827,2018,3.55,2.62
+CG,Rajnandgaon,Dongargarh,Chhuriya,21.06777778,80.67611111,Chinohola,Dug Well,W26889,2018,7.65,3.47
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.08222222,80.73805556,Uraidabritola,Dug Well,W26901,2018,7.75,3.91
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.08277778,80.63833333,Ranitalab1,Dug Well,W26902,2018,6.45,3.42
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.09972222,80.70138889,Govindpur,Dug Well,W26913,2018,6.35,4.26
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.12555556,80.71138889,Ramatola,Dug Well,W26939,2018,13.5,3.92
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.215,80.7925,Kalkosa,Dug Well,W27003,2018,6.65,3.27
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.21944444,80.82555556,Reevagaon,Dug Well,W27009,2018,10.05,3.71
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,20.99777778,81.05416667,Ranitarai,Dug Well,W26842,2018,5.75,2.67
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.08611111,80.99361111,Reevadih,Dug Well,W26905,2018,2.5,3.43
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10388889,81.08944444,Sundara,Dug Well,W26918,2018,3.35,2.62
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10833333,81.04055556,Rajnandgaon-S PZ,Bore Well,W26926,2018,7.35,8.19
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.11833333,81.00583333,Ravagahan,Dug Well,W26933,2018,2.35,3.24
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.14166667,81.05833333,Bori,Dug Well,W26947,2018,2.35,2.68
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16694444,81.21138889,Anjora,Dug Well,W26966,2018,2.5,2.84
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.3475,80.97888889,Badaitola,Dug Well,W27074,2018,12.35,3.22
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.365,81.15472222,Jalbanda,Dug Well,W27085,2018,4.2,3.21
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.38694444,81.07222222,Madrakuhi,Dug Well,W27097,2018,4.15,4.84
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.40861111,81.00638889,Dhaneli,Dug Well,W27120,2018,7.4,5.72
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.55694444,81.01333333,Bhorampur,Dug Well,W27223,2018,5.85,3.97
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.62138889,81.07222222,Narmada,Dug Well,W27259,2018,6.35,5.51
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.36722222,81.1125,Rangkathera,Dug Well,W11984,2018,5.55,4.99
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.39833333,80.8875,Salhe Bara,Dug Well,W21997,2018,9.05,4.31
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.43333333,80.97083333,Khairagarh,Dug Well,W11983,2018,7.25,5.92
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.3875,80.84583333,Baigatola,Dug Well,W11981,2018,5.05,2.37
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.31666667,80.9125,Salgapat,Dug Well,W11985,2018,10.18,4.87
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.24472222,81.14,Uperwahi,Dug Well,W27021,2018,10,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.31833333,81.02888889,Bhaistara Bhatapara,Dug Well,W27053,2018,8.95,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16861111,81.15,Nawagaon,Dug Well,W31332,2018,7.2,NA
+CG,Rajnandgaon,Amba Chauki,Chhuriya,20.775,80.74166667,Ambagarh chowki1 PZ,Bore Well,W26699,2018,12.05,NA
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh-d PZ,Bore Well,W26976,2018,7.1,NA
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh-sPZ,Bore Well,W26977,2018,6.75,NA
+CG,Rajnandgaon,Chhuriya,Dongargarh,21.19888889,80.72416667,Bharritola,Dug Well,W26989,2018,6.9,NA
+CG,Rajnandgaon,Chhuriya,Dongargaon,20.89055556,80.76861111,Kumarda.1,Dug Well,W26776,2018,2.15,NA
+CG,Rajnandgaon,Chhuriya,Dongargarh,21.12,80.52722222,Ghortalab,Dug Well,W26935,2018,NA,3.36
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.15194444,81.19083333,Dewada,Dug Well,W26955,2018,NA,3.04
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.95833333,80.81611111,Mohar,Dug Well,W32816,2018,6.35,NA
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.99166667,80.74583333,Kokpur-I,Dug Well,W32818,2018,4.75,NA
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.32027778,80.86472222,Sahaspur Dalli,Dug Well,W31356,2018,4.35,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.18611111,81.12416667,Baghera,Dug Well,W32828,2018,4.75,4.79
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.34,81.10388889,Patewa,Dug Well,W32839,2018,6.8,4.18
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16666667,81.03611111,Talai,Dug Well,W21683,2018,6.95,2.94
+CG,Surguja,Surajpur,Surajpur,23.19472222,83.05916667,Kanakpur,Dug Well,W28267,2018,8.25,5.17
+CG,Surguja,Surajpur,Surajpur,23.24722222,83.2,Kalyanpur,Dug Well,W28314,2018,6.25,4.82
+CG,Surguja,Pratappur,Pratappur,23.58444444,83.15583333,Bhediya,Dug Well,W28556,2018,5.84,9.62
+CG,Surguja,Pratappur,Pratappur,23.28388889,83.18638889,Dwarikanagar,Dug Well,W28349,2018,4.98,3.15
+CG,Surguja,Surajpur,Surajpur,23.27222222,82.92111111,Biharpur,Dug Well,W31609,2018,8.39,8.22
+CG,Surguja,Rajpur,Rajpur,23.3375,83.40416667,Rajpur1,Bore Well,W28389,2018,NA,NA
+CG,Surguja,Surajpur,Surajpur,23.21194444,82.87277778,Surajpur1,Bore Well,W28292,2018,NA,NA
+CG,Surguja,Udeypur,Udeypur,22.895,82.85694444,Dandgaon-2,Dug Well,W12112,2018,6.1,NA
+CG,Surguja,Premnagar,Premnagar,22.83333333,82.73972222,Tara1,Bore Well,W12058,2018,18.71,NA
+CG,Surguja,Rajpur,Rajpur,23.41333333,83.32333333,Makanpur,Dug Well,W21976,2018,NA,6.7
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.95,Udaipur,Dug Well,W12115,2018,NA,8.14
+CG,Surguja,Shankargarh,Shankargarh,23.30083333,83.57555556,Bachwar,Dug Well,W21658,2018,NA,4.9
+CG,Surguja,Rajpur,Rajpur,23.3375,83.40416667,Rajpur-2,Dug Well,W12062,2018,NA,6.52
+CG,Surguja,Balrampur,Balrampur,23.45,83.525,Pasta,Dug Well,W12020,2018,NA,7.42
+CG,Surguja,Lundra,Lundra,23.195,83.43833333,Dhaurpur,Dug Well,W21676,2018,NA,4.11
+CG,Surguja,Ambikapur,Ambikapur,23.18777778,83.2675,Parsa,Dug Well,W21675,2018,NA,7.98
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.94722222,Udaipur-d,Bore Well,W12116,2018,15.14,11.5
+CG,Surguja,Premnagar,Premnagar,22.96666667,82.69583333,Premnagar-3,Dug Well,W18565,2018,10.15,13.23
+CG,Surguja,Ambikapur,Ambikapur,22.95222222,83.26388889,Nawapara,Dug Well,W21983,2018,5.9,5.14
+CG,Surguja,Ambikapur,Ambikapur,23.00305556,83.23027778,Darima-2,Dug Well,W21982,2018,6.81,6.15
+CG,Surguja,Surajpur,Surajpur,23.34444444,82.77083333,Badsara,Dug Well,W21971,2018,5.65,4.7
+CG,Surguja,Surajpur,Surajpur,23.35277778,82.86305556,Sirsi,Dug Well,W12107,2018,7,5.4
+CG,Surguja,Odgi,Bhaiyathan,23.47388889,82.80888889,Odigi,Dug Well,W21637,2018,5.4,4.85
+CG,Surguja,Bhaiyathan,Bhaiyathan,23.40416667,82.86666667,Bhaiyathan,Bore Well,W12028,2018,9.32,6.91
+CG,Surguja,Pratappur,Pratappur,23.3,83.07916667,Songara-2,Dug Well,W12051,2018,9.54,8.69
+CG,Surguja,Pratappur,Pratappur,23.48333333,83.20277778,Pratappur,Dug Well,W12048,2018,9.1,8.52
+CG,Surguja,Pratappur,Pratappur,23.42916667,83.05833333,Gonda,Dug Well,W12047,2018,6.12,6.28
+CG,Surguja,Pratappur,Pratappur,23.64777778,83.17638889,Reonti,Dug Well,W21975,2018,11.2,10.28
+CG,Surguja,Pratappur,Pratappur,23.51111111,83.15694444,Chandora,Dug Well,W12045,2018,5.84,6.15
+CG,Surguja,Pratappur,Pratappur,23.37861111,83.195,Jagannathpur-1,Dug Well,W21974,2018,5.09,3.31
+CG,Surguja,Wadrafnagar,Wadrafnagar,23.76666667,83.19583333,Wadrafnagar,Dug Well,W12122,2018,9.71,8.34
+CG,Surguja,Wadrafnagar,Wadrafnagar,23.81388889,83.09166667,Mahewa-1,Dug Well,W12120,2018,5.61,5.15
+CG,Surguja,Sitapur,Sitapur,22.73333333,83.47638889,Pratapgarh,Dug Well,W12091,2018,6.86,5.9
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-2,Dug Well,W11999,2018,6.48,4.59
+CG,Surguja,Surajpur,Surajpur,23.24,82.80333333,Deonagar,Dug Well,W12098,2018,3.9,3.97
+CG,Surguja,Mainpat,Mainpat,22.82916667,83.28805556,Kamleshwarpur-2,Dug Well,W12041,2018,7.54,7.41
+CG,Surguja,Batauli,Batauli,22.84722222,83.41388889,Bandana,Dug Well,W12022,2018,7.84,7.69
+CG,Surguja,Premnagar,Premnagar,22.84166667,82.74166667,Premnagar-2,Dug Well,W12056,2018,15.44,13.02
+CG,Surguja,Lakhanpur,Lakhanpur,22.86666667,83.06666667,Kunni,Dug Well,W21970,2018,7.69,7.61
+CG,Surguja,Lakhanpur,Lakhanpur,23.05833333,83.1,Udaipur Dhah,Dug Well,W12037,2018,5.39,5.08
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.15,82.725,Ramanuj nagar-1,Dug Well,W12068,2018,8.95,7.33
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.08055556,82.63527778,Ganeshpur-2,Dug Well,W12064,2018,6.24,4.42
+CG,Surguja,Lundra,Lundra,23.1,83.35416667,Bulga,Dug Well,W12038,2018,5,2.1
+CG,Surguja,Surajpur,Surajpur,23.18472222,82.97166667,Jaynagar,Dug Well,W12100,2018,7.74,8.19
+CG,Surguja,Surajpur,Surajpur,23.21194444,82.87277778,Surajpur-1,Dug Well,W12108,2018,4.94,6
+CG,Surguja,SURAJPUR,Surajpur,23.14833333,82.95138889,Majeera,Dug Well,W33207,2018,6.8,4.13
+CG,Surguja,Bhaiyathan,Bhaiyathan,23.38555556,82.95194444,Chaimpur,Dug Well,W33475,2018,3.67,1.84
+CG,Surguja,Pratappur,Bhaiyathan,23.44222222,82.83472222,Darhora,Dug Well,W33476,2018,8,7.65
+CG,Surguja,Batauli,Batauli,22.98805556,83.40305556,Batauli S,Bore Well,W28106,2018,11.24,NA
+CG,Surguja,Premnagar,Premnagar,22.96666667,82.69583333,Premnagar D,Bore Well,W28087,2018,15.6,NA
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.17305556,82.73416667,Bhuvneshwarpur,Dug Well,W28246,2018,5.5,NA
+CG,Surguja,Rajpur,Batauli,23.03333333,83.4675,Ghorghadi,Dug Well,W28139,2018,NA,5.18
+CG,Surguja,Lundra,Lundra,23.0325,83.38305556,Silsila,Dug Well,W28138,2018,NA,4.78
+CG,Surguja,Lundra,Lundra,23.195,83.41333333,Dhaurpur S,Bore Well,W28268,2018,NA,6.52
+CG,Surguja,Lundra,Lundra,23.22722222,83.40972222,Amdih,Dug Well,W28304,2018,NA,4.38
+CG,Surguja,Ambikapur,Ambikapur,23.24166667,83.31388889,Baghima,Dug Well,W28310,2018,NA,2.58
+CG,Surguja,Shankargarh,Shankargarh,23.31166667,83.56027778,Sargaon,Dug Well,W28376,2018,NA,3.95
+CG,Surguja,Rajpur,Rajpur,23.38444444,83.46694444,Alkadih,Dug Well,W28425,2018,NA,3.73
+CG,Surguja,Sitapur,Sitapur,22.76944444,83.49166667,Sitapur-d,Bore Well,W27987,2018,7.8,6.86
+CG,Surguja,Sitapur,Sitapur,22.77916667,83.49111111,Sontarai,Dug Well,W27992,2018,4.1,3.79
+CG,Surguja,Mainpat,Mainpat,22.89944444,83.29027778,Nagadand,Dug Well,W28049,2018,11.7,12.43
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.94722222,Udaipur-s,Bore Well,W28055,2018,15.78,8.8
+CG,Surguja,Premnagar,Premnagar,22.88083333,82.7875,Shivnagar,Dug Well,W28037,2018,8.5,7.88
+CG,Surguja,Premnagar,Premnagar,22.90916667,82.73277778,Abhaypur,Dug Well,W28056,2018,4.11,4.39
+CG,Surguja,Premnagar,Premnagar,23.025,82.665,Fulkona,Dug Well,W28135,2018,2.8,2.35
+CG,Surguja,Lakhanpur,Lakhanpur,22.98055556,83.04722222,Lakhanpur,Dug Well,W28096,2018,3.16,2.3
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.09638889,82.65888889,Jagatpur Podipara,Dug Well,W28184,2018,7.32,6
+CG,Surguja,Ambikapur,Ambikapur,22.98222222,83.22027778,Chatakpur,Dug Well,W28099,2018,5.29,4.05
+CG,Surguja,Ambikapur,Ambikapur,23.07111111,83.21194444,Kakalo,Dug Well,W28169,2018,7.9,5.93
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-s,Bore Well,W28197,2018,13.43,11.52
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-D,Bore Well,W28198,2018,14.95,10.9
