@@ -11,7 +11,7 @@ import {
 export default function NewsCard(props){
     
     return(
-<>
+      <div>
         <Card style={{ width: "50%" }}>
           <CardImg
             alt="..."
@@ -25,6 +25,6 @@ export default function NewsCard(props){
             </CardText>
           </CardBody>
         </Card>
-      </>
+        </div>
     )
 }

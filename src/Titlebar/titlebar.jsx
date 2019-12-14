@@ -17,7 +17,7 @@ return (
     <div className="flex-column justify-content-between" style={{paddingTop:"2%",paddingLeft:"20%"}}>
         <ButtonGroup className="nodrag">
             <Button outline color="primary" className="border-secondary border-right-0 shadow-none shadow-lg--hover">Home</Button>
-    <Button outline color="primary" className="border-secondary border-left-0 border-right-0 shadow-none shadow-lg--hover"> onClick={()=>function(){window.location.href="/agriculture"}}Agriculture</Button>
+    <Button outline color="primary" className="border-secondary border-left-0 border-right-0 shadow-none shadow-lg--hover" onClick={()=>function(){window.location.href="/agriculture"}}>Agriculture</Button>
             <Button outline color="primary" className="border-secondary border-left-0 border-right-0 shadow-none shadow-lg--hover">Roads</Button>
             <Button outline color="primary" className="border-secondary border-left-0 shadow-none shadow-lg--hover">Settings</Button>
         </ButtonGroup>

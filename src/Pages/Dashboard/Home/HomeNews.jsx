@@ -11,7 +11,7 @@ export default function HomeNews() {
     const newses= item.map((n)=> <Excard title={n.title} image={n.urlToImage} description={n.description}/>)
     return (
         <div>
-            <Carousel></Carousel>
+        {newses}
         </div>
-    )
+    ) 
 }
