@@ -1,0 +1,30 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Bastar,Jagdalpur,Jagdalpur,19.06388889,82.14722222,Markel,Dug Well,W11376,2018,5.14,NA
+CG,Bastar,Keshkal,Bastar,19.36027778,81.83638889,Chapra Bhanpuri,Dug Well,W31197,2018,NA,2.45
+CG,Bastar,Londigura,Londigura,19.14027778,81.6125,Mardum,Dug Well,W11411,2018,4.87,NA
+CG,Bastar,Jagdalpur,Tokapal,19.13805556,81.86083333,Chhapanbhanpuri,Dug Well,W21633,2018,3.84,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02777778,Jagdalpur-1,Dug Well,W11371,2018,4.81,2.85
+CG,Bastar,Jagdalpur,Jagdalpur,19.08611111,82.02833333,Jagdalpur-d,Bore Well,W11373,2018,7.81,8.8
+CG,Bastar,Jagdalpur,Jagdalpur,19.09583333,81.95833333,Kumharwand,Dug Well,W11375,2018,5.13,3.15
+CG,Bastar,Bastar,Bastar,19.33055556,81.83194444,Bhanpuri-1,Dug Well,W11361,2018,4.46,2.95
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-d,Bore Well,W11363,2018,5.14,10.4
+CG,Bastar,Darbha,Darbha,18.94583333,81.89166667,Neganar,Dug Well,W11368,2018,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.20138889,81.93611111,Bastar,Dug Well,W11370,2018,6.9,6.55
+CG,Bastar,Londigura,Londigura,19.20277778,81.71944444,Chitrakot,Dug Well,W11408,2018,7.1,5.5
+CG,Bastar,Kondagaon,Kondagaon,19.43611111,81.75555556,Joba1,Dug Well,W11398,2018,5.47,5.25
+CG,Bastar,Baderajpur,Baderajpur,19.85833333,81.6375,Pharasgaon-1,Dug Well,W11350,2018,5.46,3.05
+CG,Bastar,Keshkal,Keshkal,20.05416667,81.57222222,Batrail,Dug Well,W26299,2018,5.12,2.65
+CG,Bastar,Bastar,Bastar,19.3325,81.83194444,Bhanpuri-s,Bore Well,W26094,2018,4.47,9.5
+CG,Bastar,Kondagaon,Kondagaon,19.36944444,81.79166667,Ghodagaon,Dug Well,W26102,2018,6.21,6.1
+CG,Bastar,Darbha,Darbha,19.00833333,81.86277778,Bare arapur,Dug Well,W11366,2018,4.14,NA
+CG,Bastar,Bastanar (bade Kilew,Bastanar (bade Kilew,18.98333333,81.62083333,Kilepal,Dug Well,W11360,2018,7.55,NA
+CG,Bastar,Makdi,Makdi,19.77333333,81.90833333,Makdi-2,Bore Well,W11416,2018,6.41,NA
+CG,Bastar,Baderajpur,Baderajpur,20.05,81.69722222,Korgaon-2,Dug Well,W11345,2018,5.27,NA
+CG,Bastar,Keshkal,Keshkal,20.08888889,81.59444444,Keskal-2,Dug Well,W11382,2018,NA,6.85
+CG,Bastar,Jagdalpur,Jagdalpur,19.00888889,81.88944444,Tokapal,Dug Well,W11378,2018,NA,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand,Dug Well,W11384,2018,NA,NA
+CG,Bastar,Jagdalpur,Jagdalpur,19.01027778,81.94222222,Dhimarpal,Dug Well,W26012,2018,7.14,NA
+CG,Bastar,Kondagaon,Baderajpur,19.85833333,81.6375,Pharasgaon1  PZ,Bore Well,W26239,2018,11.24,NA
+CG,Bastar,Keshkal,Keshkal,20.12083333,81.53333333,Murwand1,Dug Well,W26326,2018,3.1,NA
+CG,Bastar,Bakaband,Bakaband,19.28333333,81.95,Sonarpal,Dug Well,W26074,2018,4.37,NA
+CG,Bastar,Pharasgaon,Pharasgaon,19.72083333,81.65416667,Lanjora-2,Dug Well,W18516,2018,6.81,NA

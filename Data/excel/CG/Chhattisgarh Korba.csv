@@ -1,0 +1,75 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Korba,Korba,Korba,22.275,82.72777778,Urga.1,Dug Well,W27677,2018,4.5,4.65
+CG,Korba,Pondi,Pondi,22.765,82.26361111,Lenga,Dug Well,W27983,2018,6.75,6.3
+CG,Korba,Pondi,Pondi,22.85055556,82.44027778,Korbi,Dug Well,W28028,2018,8.81,11.32
+CG,Korba,Katghora,Katghora,22.35277778,82.54361111,Sirki Pz - I,Bore Well,W31502,2018,12.6,15.99
+CG,Korba,Kartala,Kartala,22.34111111,83.00972222,Chachiya,Dug Well,W33461,2018,4.35,NA
+CG,Korba,Katghora,Katghora,22.42305556,82.58361111,Shuklakhar,Dug Well,W33462,2018,8.7,NA
+CG,Korba,Pondi,Pondi,22.62277778,82.46527778,Gurasiya,Dug Well,W33465,2018,9.15,NA
+CG,Korba,Pali,Pali,22.37638889,82.37583333,Dhourabhata,Dug Well,W27763,2018,NA,6.06
+CG,Korba,Katghora,Katghora,22.49055556,82.5025,Sindhiya,Dug Well,W31536,2018,NA,4.8
+CG,Korba,Katghora,Katghora,22.33472222,82.54138889,Naraibodh,Dug Well,W27715,2018,NA,NA
+CG,Korba,Korba,Korba,22.34583333,82.7,Korba-2,Dug Well,W11797,2018,14.47,NA
+CG,Korba,Pali,Pali,22.39166667,82.38055556,Banbandha,Dug Well,W11803,2018,2.4,NA
+CG,Korba,Pali,Pali,22.37222222,82.32222222,Pali-2,Dug Well,W11808,2018,2,2.8
+CG,Korba,Kartala,Kartala,22.27083333,82.83472222,Salihabhata,Dug Well,W11784,2018,5.4,4.8
+CG,Korba,Kartala,Kartala,22.30277778,82.9625,Kartala-1,Dug Well,W11782,2018,10.45,9.6
+CG,Korba,Katghora,Pondi,22.92833333,82.44583333,Kurtha,Dug Well,W21598,2018,8.17,NA
+CG,Korba,Pondi,Pondi,22.71666667,82.52916667,Madai-2,Dug Well,W11813,2018,6.05,NA
+CG,Korba,Pondi,Pondi,22.575,82.42083333,Tuman,Dug Well,W11822,2018,4.5,5.63
+CG,Korba,Pondi,Pondi,22.68527778,82.37666667,Jatga-2,Dug Well,W21981,2018,8.5,7.4
+CG,Korba,Katghora,Katghora,22.43333333,82.43333333,Chaitama-2,Dug Well,W11786,2018,4.7,4.1
+CG,Korba,Katghora,Katghora,22.43472222,82.65,Gopalpur-2,Dug Well,W11790,2018,4.9,5.6
+CG,Korba,Katghora,Katghora,22.50833333,82.52083333,Katghora-2,Dug Well,W11793,2018,2.9,2.9
+CG,Korba,Pondi,Pondi,22.75416667,82.64722222,Morga,Dug Well,W11815,2018,8.74,8.19
+CG,Korba,Pondi,Pondi,22.60416667,82.55416667,Pondi,Dug Well,W11819,2018,4.85,3.9
+CG,Korba,Pondi,Pondi,22.76944444,82.49027778,Nawapara,Dug Well,W21961,2018,3.6,2.9
+CG,Korba,Pondi,Pondi,22.66666667,82.38055556,Nagai,Dug Well,W11816,2018,8.9,8.6
+CG,Korba,Pondi,Pondi,22.84166667,82.2,Pasan,Dug Well,W11817,2018,11.5,9.9
+CG,Korba,Katghora,Katghora,22.35555556,82.53861111,Jhabar,Dug Well,W27735,2018,NA,NA
+CG,Korba,Pali,Pali,22.34027778,82.46833333,Nonbirra,Dug Well,W27721,2018,NA,NA
+CG,Korba,Pali,Pali,22.35138889,82.43333333,Bandhakhar,Dug Well,W27729,2018,NA,NA
+CG,Korba,Pondi,Pondi,22.65777778,82.53027778,Gursia,Dug Well,W27922,2018,NA,NA
+CG,Korba,Katghora,Katghora,22.48305556,82.53527778,Kasania,Dug Well,W27826,2018,5.12,NA
+CG,Korba,Pali,Pali,22.35638889,82.42805556,Numera,Dug Well,W27736,2018,9.6,NA
+CG,Korba,Korba,Korba,22.31361111,82.78083333,Pandripani,Bore Well,W27706,2018,2.76,NA
+CG,Korba,Korba,Korba,22.37194444,82.78416667,Dumardih New,Dug Well,W27755,2018,5.4,NA
+CG,Korba,Korba,Korba,22.39694444,82.99138889,Kolga,Dug Well,W27773,2018,4.12,NA
+CG,Korba,Korba,Korba,22.27694444,82.76666667,Bhaisma,Dug Well,W27685,2018,6.7,NA
+CG,Korba,Pondi,Pondi,22.59722222,82.39611111,Khodri,Dug Well,W27892,2018,1.7,NA
+CG,Korba,Pondi,Pondi,22.82138889,82.38694444,Rewa,Dug Well,W28011,2018,6.7,NA
+CG,Korba,Katghora,Kartala,22.31944444,82.98472222,Champa Mode,Dug Well,W27708,2018,3.3,NA
+CG,Korba,Korba,Kartala,22.35416667,82.92027778,Batati Junction,Dug Well,W27734,2018,8.2,NA
+CG,Korba,Kartala,Kartala,22.19666667,82.78527778,Tuman,Dug Well,W27575,2018,5.06,NA
+CG,Korba,Kartala,Kartala,22.20583333,83.00027778,Jogipali,Dug Well,W27582,2018,7.24,NA
+CG,Korba,Kartala,Kartala,22.27638889,82.86666667,Nonbirra,Dug Well,W27682,2018,5.2,NA
+CG,Korba,Katghora,Katghora,22.40527778,82.60527778,Mongara Pz,Bore Well,W27778,2018,8.2,NA
+CG,Korba,Katghora,Katghora,22.40583333,82.61666667,Gajra,Dug Well,W27779,2018,4.26,NA
+CG,Korba,Pali,Pali,22.35416667,82.44527778,Bandhakhar Pz II,Bore Well,W27733,2018,5.8,NA
+CG,Korba,Pali,Pali,22.37361111,82.26833333,Ponri,Dug Well,W27757,2018,4.72,NA
+CG,Korba,Korba,Korba,22.29527778,82.74916667,Ralia Pz - I,Bore Well,W27694,2018,6.7,NA
+CG,Korba,Korba,Korba,22.34,82.77444444,Naktikhar-D,Bore Well,W27718,2018,5.4,NA
+CG,Korba,Korba,Korba,22.34583333,82.69916667,Korba - D,Bore Well,W27724,2018,14.64,NA
+CG,Korba,Korba,Korba,22.34583333,82.69916667,Korba - S,Bore Well,W27725,2018,6.56,NA
+CG,Korba,Korba,Korba,22.37138889,83.08277778,Jilga OW,Bore Well,W27754,2018,100,NA
+CG,Korba,Korba,Korba,22.37555556,82.87611111,Kerwa,Dug Well,W27759,2018,5.5,NA
+CG,Korba,Korba,Korba,22.37583333,82.87805556,Kerwa OW,Bore Well,W27760,2018,5.2,NA
+CG,Korba,Korba,Korba,22.37583333,82.87805556,Kerwa Pz,Bore Well,W27761,2018,5.8,NA
+CG,Korba,Korba,Korba,22.405,83.07111111,Barpali OW,Bore Well,W27776,2018,12.8,NA
+CG,Korba,Korba,Korba,22.29527778,82.74916667,Ralia Pz - III,Bore Well,W31480,2018,6.7,NA
+CG,Korba,Kartala,Kartala,22.32,83.0775,Kudmura,Dug Well,W27709,2018,4.2,4.6
+CG,Korba,Kartala,Kartala,22.23333333,82.76333333,Tikeja,Dug Well,W27613,2018,6.5,4.2
+CG,Korba,Kartala,Kartala,22.27638889,82.88583333,Sakdukala,Dug Well,W27683,2018,6,6.5
+CG,Korba,Katghora,Katghora,22.3575,82.4975,Tiwarta Pz - I,Bore Well,W27737,2018,11.2,5.4
+CG,Korba,Katghora,Katghora,22.3575,82.4975,Tiwarta Pz - II,Bore Well,W27738,2018,5.94,6.34
+CG,Korba,Katghora,Katghora,22.42555556,82.61861111,Churi,Dug Well,W27789,2018,3.9,3.6
+CG,Korba,Katghora,Katghora,22.44194444,82.5725,Jamchuwa,Dug Well,W27801,2018,9.5,9.2
+CG,Korba,Pali,Katghora,22.4475,82.47833333,Rajkamma,Dug Well,W27804,2018,4.1,4.05
+CG,Korba,Katghora,Katghora,22.4575,82.53138889,Lakhanpur,Dug Well,W27811,2018,5.8,5.2
+CG,Korba,Katghora,Katghora,22.47,82.52194444,Sutarra,Dug Well,W27816,2018,5.6,5.1
+CG,Korba,Pali,Pali,22.30583333,82.54694444,Hardibajar,Dug Well,W27702,2018,1.2,1.7
+CG,Korba,Korba,Korba,22.345,82.77388889,Naktikhar,Dug Well,W27723,2018,4.9,4.65
+CG,Korba,Korba,Korba,22.35277778,82.84027778,Dhegurdih Manzipara,Dug Well,W27731,2018,8.15,4.9
+CG,Korba,Korba,Korba,22.36972222,82.95972222,Pasarkhet,Dug Well,W27751,2018,4.4,4.2
+CG,Korba,Korba,Korba,22.37333333,82.77027778,Rishdi,Dug Well,W27756,2018,4.9,4.4
+CG,Korba,Korba,Korba,22.42916667,83.04416667,Basin,Dug Well,W27793,2018,5.6,5.8

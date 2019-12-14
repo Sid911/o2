@@ -1,0 +1,59 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.66388889,81.10888889,Gandai5,Bore Well,W18800,2018,8.35,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.345,81.02944444,Maladabri,Dug Well,W31361,2018,NA,4.42
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.66444444,81.09527778,Gandaipandaria,Dug Well,W11970,2018,10.05,9.32
+CG,Rajnandgaon,Chhuriya,Chhuriya,21.08333333,80.5875,Chirchari,Dug Well,W11973,2018,6.9,4.28
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh,Dug Well,W11976,2018,7.05,4.67
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.255,80.85944444,Dhara,Dug Well,W20923,2018,6.95,3.84
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.07638889,80.82111111,Tappa,Dug Well,W11980,2018,12.71,4.52
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.1,80.68611111,Lal bhadurnagar,Dug Well,W11979,2018,7.35,5.01
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.03333333,81.04166667,Singhola,Dug Well,W21682,2018,1.98,1.47
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.09166667,81.04166667,Rajnandgaon,Dug Well,W11994,2018,2.15,2.61
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10833333,81.04055556,Rajnandgaon-D,Bore Well,W11995,2018,11.05,9.77
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.12388889,81.14666667,Somni,Dug Well,W11997,2018,13.88,2.62
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.70694444,80.95916667,Mohgaon,Dug Well,W11971,2018,2.15,5.49
+CG,Rajnandgaon,Amba Chauki,Chhuriya,20.83333333,80.74166667,Bandha Bazar,Dug Well,W21674,2018,2.35,NA
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.525,80.99583333,Chuikhadan,Dug Well,W11969,2018,12,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.28194444,81.13305556,Saloni,Dug Well,W20924,2018,6.45,NA
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.97083333,80.85694444,Dongargaon.1,Dug Well,W26827,2018,3.55,2.62
+CG,Rajnandgaon,Dongargarh,Chhuriya,21.06777778,80.67611111,Chinohola,Dug Well,W26889,2018,7.65,3.47
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.08222222,80.73805556,Uraidabritola,Dug Well,W26901,2018,7.75,3.91
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.08277778,80.63833333,Ranitalab1,Dug Well,W26902,2018,6.45,3.42
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.09972222,80.70138889,Govindpur,Dug Well,W26913,2018,6.35,4.26
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.12555556,80.71138889,Ramatola,Dug Well,W26939,2018,13.5,3.92
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.215,80.7925,Kalkosa,Dug Well,W27003,2018,6.65,3.27
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.21944444,80.82555556,Reevagaon,Dug Well,W27009,2018,10.05,3.71
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,20.99777778,81.05416667,Ranitarai,Dug Well,W26842,2018,5.75,2.67
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.08611111,80.99361111,Reevadih,Dug Well,W26905,2018,2.5,3.43
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10388889,81.08944444,Sundara,Dug Well,W26918,2018,3.35,2.62
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.10833333,81.04055556,Rajnandgaon-S PZ,Bore Well,W26926,2018,7.35,8.19
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.11833333,81.00583333,Ravagahan,Dug Well,W26933,2018,2.35,3.24
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.14166667,81.05833333,Bori,Dug Well,W26947,2018,2.35,2.68
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16694444,81.21138889,Anjora,Dug Well,W26966,2018,2.5,2.84
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.3475,80.97888889,Badaitola,Dug Well,W27074,2018,12.35,3.22
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.365,81.15472222,Jalbanda,Dug Well,W27085,2018,4.2,3.21
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.38694444,81.07222222,Madrakuhi,Dug Well,W27097,2018,4.15,4.84
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.40861111,81.00638889,Dhaneli,Dug Well,W27120,2018,7.4,5.72
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.55694444,81.01333333,Bhorampur,Dug Well,W27223,2018,5.85,3.97
+CG,Rajnandgaon,Chhuikhadan,Chhuikhadan,21.62138889,81.07222222,Narmada,Dug Well,W27259,2018,6.35,5.51
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.36722222,81.1125,Rangkathera,Dug Well,W11984,2018,5.55,4.99
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.39833333,80.8875,Salhe Bara,Dug Well,W21997,2018,9.05,4.31
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.43333333,80.97083333,Khairagarh,Dug Well,W11983,2018,7.25,5.92
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.3875,80.84583333,Baigatola,Dug Well,W11981,2018,5.05,2.37
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.31666667,80.9125,Salgapat,Dug Well,W11985,2018,10.18,4.87
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.24472222,81.14,Uperwahi,Dug Well,W27021,2018,10,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.31833333,81.02888889,Bhaistara Bhatapara,Dug Well,W27053,2018,8.95,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16861111,81.15,Nawagaon,Dug Well,W31332,2018,7.2,NA
+CG,Rajnandgaon,Amba Chauki,Chhuriya,20.775,80.74166667,Ambagarh chowki1 PZ,Bore Well,W26699,2018,12.05,NA
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh-d PZ,Bore Well,W26976,2018,7.1,NA
+CG,Rajnandgaon,Dongargarh,Dongargarh,21.18472222,80.75972222,Dongargarh-sPZ,Bore Well,W26977,2018,6.75,NA
+CG,Rajnandgaon,Chhuriya,Dongargarh,21.19888889,80.72416667,Bharritola,Dug Well,W26989,2018,6.9,NA
+CG,Rajnandgaon,Chhuriya,Dongargaon,20.89055556,80.76861111,Kumarda.1,Dug Well,W26776,2018,2.15,NA
+CG,Rajnandgaon,Chhuriya,Dongargarh,21.12,80.52722222,Ghortalab,Dug Well,W26935,2018,NA,3.36
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.15194444,81.19083333,Dewada,Dug Well,W26955,2018,NA,3.04
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.95833333,80.81611111,Mohar,Dug Well,W32816,2018,6.35,NA
+CG,Rajnandgaon,Dongargaon,Dongargaon,20.99166667,80.74583333,Kokpur-I,Dug Well,W32818,2018,4.75,NA
+CG,Rajnandgaon,Khairagarh,Khairagarh,21.32027778,80.86472222,Sahaspur Dalli,Dug Well,W31356,2018,4.35,NA
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.18611111,81.12416667,Baghera,Dug Well,W32828,2018,4.75,4.79
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.34,81.10388889,Patewa,Dug Well,W32839,2018,6.8,4.18
+CG,Rajnandgaon,Rajnandgaon,Rajnandgaon,21.16666667,81.03611111,Talai,Dug Well,W21683,2018,6.95,2.94
