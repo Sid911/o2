@@ -7,6 +7,9 @@ import {Scrollbars} from 'react-custom-scrollbars'
 import TitleBar from './Titlebar/titlebar'
 import HomePage from "./Pages/Dashboard/Home/Home"
 import LoginPage from "./Pages/Login/Login"
+
+import Agr from "./Pages/Dashboard/Agriculture/Agriculture"
+import Roads from "./Pages/Dashboard/Roads/Roads"
 import { useSelector,useDispatch,connect } from "react-redux";
 
 class App extends Component {
@@ -20,6 +23,8 @@ class App extends Component {
                        <Router>
                            <Switch>
                                <Route exact path="/" component={logged?HomePage:LoginPage} />
+                               <Route exact path="/agriculture" component={Agr}/>
+                               <Route exact path="/roads" component={Roads}/>
                            </Switch>
                        </Router>
                    </div>
