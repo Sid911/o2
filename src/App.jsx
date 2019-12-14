@@ -31,7 +31,7 @@ class App extends Component {
 
 const mapStatetoProps=(state)=>{
     return{
-        logged : state.auth.Login.LoggedIn
+        logged : !state.firebase.auth.isEmpty
     }
 }
 

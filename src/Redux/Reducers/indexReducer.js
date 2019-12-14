@@ -1,6 +1,7 @@
 import { combineReducers } from "redux";
 import {homeNews,agricultureNews} from "./newsReducers";
-import auth from './AuthReducers'
+import { ReactReduxFirebaseProvider, firebaseReducer } from 'react-redux-firebase'
+import {firestoreReducer } from 'redux-firestore'
 
-const combined = combineReducers({auth,homeNews,agricultureNews});
+const combined = combineReducers({firebase: firebaseReducer,firestore: firestoreReducer,homeNews,agricultureNews});
 export default combined;
