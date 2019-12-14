@@ -1,0 +1,65 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Jashpur,Farsabahar,Farsabahar,22.40416667,83.825,Lavakera-1,Bore Well,W11716,2018,8.15,NA
+CG,Jashpur,Bagicha,Bagicha,23.14277778,83.74944444,Kondapara,Dug Well,W28213,2018,NA,NA
+CG,Jashpur,Farsabahar,Farsabahar,22.4125,83.82555556,Khutsera,Dug Well,W21959,2018,4.1,4.25
+CG,Jashpur,Jashpur,Jashpur,22.95,84.28194444,Rupsera,Dug Well,W11719,2018,4.1,NA
+CG,Jashpur,Jashpur,Jashpur,22.90888889,84.20694444,Jakba,Dug Well,W21651,2018,8.86,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.54444444,83.73888889,Bagh Bahar,Dug Well,W11730,2018,7.5,NA
+CG,Jashpur,Kunkuri,Duldula,22.76666667,84.03333333,Binjapur,Dug Well,W11726,2018,4.05,NA
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kansabel,Dug Well,W11722,2018,7.84,NA
+CG,Jashpur,Kasavel,Kasavel,22.87638889,83.65416667,Bagicha-1,Bore Well,W11720,2018,4.3,NA
+CG,Jashpur,Jashpur,Jashpur,22.88333333,84.13888889,Jashpurnagar,Dug Well,W11718,2018,5.2,NA
+CG,Jashpur,Bagicha,Bagicha,22.93472222,83.65416667,Raikera,Dug Well,W11709,2018,NA,NA
+CG,Jashpur,Bagicha,Kasavel,22.90833333,83.7475,Bewrapali,Dug Well,W21957,2018,5.95,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.6,83.67916667,Bangaon,Dug Well,W11731,2018,8.24,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.74194444,83.95416667,Kunkuri-1,Dug Well,W21652,2018,4.85,NA
+CG,Jashpur,Bagicha,Kasavel,22.90277778,83.63055556,Phooldih,Dug Well,W11708,2018,2.8,NA
+CG,Jashpur,Bagicha,Bagicha,23.00666667,83.66138889,Raoni,Dug Well,W21627,2018,NA,6
+CG,Jashpur,Kunkuri,Kunkuri,22.74166667,83.95416667,Kunkuri-2,Dug Well,W11727,2018,NA,4
+CG,Jashpur,Manora,Manora,22.97222222,84.03055556,Sarkardih,Dug Well,W11729,2018,NA,NA
+CG,Jashpur,Bagicha,Bagicha,23.08611111,83.81111111,Sanna,Dug Well,W11712,2018,NA,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.68611111,83.85833333,Bandarchuwa,Dug Well,W11725,2018,5.92,8.53
+CG,Jashpur,Kasavel,Kasavel,22.79444444,83.66944444,Saraipani,Dug Well,W11724,2018,6.8,6.29
+CG,Jashpur,Bagicha,Bagicha,22.95944444,83.59833333,Peta,Dug Well,W21626,2018,6.32,4.62
+CG,Jashpur,Bagicha,Bagicha,22.97638889,83.65416667,Bagicha-2,Dug Well,W11706,2018,4.45,2.63
+CG,Jashpur,Bagicha,Bagicha,22.98055556,83.54027778,Maini,Dug Well,W11707,2018,6.02,2.34
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55416667,83.60416667,Ludeg,Dug Well,W11733,2018,3.75,4.45
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55472222,83.4625,Pathalgaon-2,Dug Well,W11734,2018,10.55,11.65
+CG,Jashpur,Kasavel,Kasavel,22.73333333,83.73333333,Bataikela,Dug Well,W11721,2018,7.1,4.63
+CG,Jashpur,Farsabahar,Farsabahar,22.50416667,83.95,Tapkara,Dug Well,W11717,2018,5.68,7.5
+CG,Jashpur,Farsabahar,Farsabahar,22.50861111,83.85527778,Farsabahar,Dug Well,W21958,2018,2.1,4.25
+CG,Jashpur,Pathalgaon,Pathalgaon,22.43333333,83.74027778,Kotba,Dug Well,W11732,2018,4.8,5.2
+CG,Jashpur,Duldula,Duldula,22.6,83.95833333,Kersai,Dug Well,W11713,2018,3.58,5.5
+CG,Jashpur,Duldula,Duldula,22.66527778,83.95833333,Kunjara,Dug Well,W11714,2018,4.95,6.3
+CG,Jashpur,Kunkuri,Kunkuri,22.80944444,83.92166667,Chhapartoli,Dug Well,W21960,2018,6.45,2.43
+CG,Jashpur,Kunkuri,Kunkuri,22.77083333,84.025,Raikera(Kunkuri),Dug Well,W11728,2018,5.6,4
+CG,Jashpur,Kasavel,Kasavel,22.8625,83.675,Muskuti,Dug Well,W11723,2018,4.3,4.12
+CG,Jashpur,Bagicha,Bagicha,23.1425,83.75166667,Pandrapat (Kondapara),Dug Well,W21625,2018,NA,NA
+CG,Jashpur,Kasavel,Kasavel,22.63361111,83.69194444,Lamdund,Dug Well,W33466,2018,6.15,6.13
+CG,Jashpur,Pathalgaon,Pathalgaon,22.39444444,83.68777778,Surangpani New,Dug Well,W27771,2018,2.45,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.47111111,83.74416667,Amatolli,Dug Well,W27817,2018,3.1,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55805556,83.50694444,Palidih,Dug Well,W27869,2018,5.92,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.55833333,83.535,Kachhor,Dug Well,W27870,2018,6.6,NA
+CG,Jashpur,Kunkuri,Kunkuri,22.74194444,83.95416667,Kunkuri S,Bore Well,W27972,2018,16.8,NA
+CG,Jashpur,Jashpur,Jashpur,22.775,84.075,Chariadand,Dug Well,W27989,2018,7.44,NA
+CG,Jashpur,Jashpur,Jashpur,22.84944444,84.14777778,Balachhappar,Dug Well,W28027,2018,9.3,NA
+CG,Jashpur,Pathalgaon,Pathalgaon,22.54444444,83.73888889,Bagbahar S,Bore Well,W27860,2018,6.45,NA
+CG,Jashpur,Kasavel,Kunkuri,22.68611111,83.85833333,Banderchua S,Bore Well,W27934,2018,8.52,NA
+CG,Jashpur,Duldula,Jashpur,22.74444444,84.11861111,Patratoli,Dug Well,W27975,2018,5.63,NA
+CG,Jashpur,Bagicha,Manora,22.92611111,83.92611111,Mauhadih,Dug Well,W28067,2018,6.55,NA
+CG,Jashpur,Manora,Manora,23.13777778,83.92944444,Amagaon,Dug Well,W28211,2018,6.78,NA
+CG,Jashpur,Farsabahar,Farsabahar,22.39555556,83.90388889,Kandaibahar,Dug Well,W27772,2018,3.15,3.7
+CG,Jashpur,Farsabahar,Farsabahar,22.51888889,83.80361111,Srishringa,Dug Well,W27844,2018,5.34,6.8
+CG,Jashpur,Pathalgaon,Pathalgaon,22.58638889,83.44416667,Nawaguda,Dug Well,W27884,2018,3.73,6.1
+CG,Jashpur,Kunkuri,Kunkuri,22.70416667,83.92916667,Farsakanhi,Dug Well,W27951,2018,7,5.13
+CG,Jashpur,Kunkuri,Kunkuri,22.75861111,83.96805556,Kandora,Dug Well,W27981,2018,3.3,4
+CG,Jashpur,Kunkuri,Kunkuri,22.77777778,83.95555556,Dhodidand,Dug Well,W27991,2018,4.56,5.1
+CG,Jashpur,Kunkuri,Kunkuri,22.78805556,83.93305556,Ghatmunda,Dug Well,W27994,2018,7.45,6.06
+CG,Jashpur,Kunkuri,Kunkuri,22.85722222,83.8825,Narayanpur S,Bore Well,W28031,2018,4.62,4.66
+CG,Jashpur,Pathalgaon,Kasavel,22.89055556,83.81138889,Bangaon B,Bore Well,W28044,2018,6.7,5.24
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kasawel D,Bore Well,W27912,2018,10,10.25
+CG,Jashpur,Kasavel,Kasavel,22.64027778,83.74305556,Kasawel S,Bore Well,W27913,2018,9.7,9.25
+CG,Jashpur,Kasavel,Kasavel,22.65305556,83.78138889,Narayanbaheli,Dug Well,W27919,2018,4.73,5.18
+CG,Jashpur,Kunkuri,Kunkuri,22.85555556,83.90083333,Matasi,Dug Well,W31575,2018,4.2,4
+CG,Jashpur,Kasavel,Kasavel,22.8925,83.81361111,Sahidaur (Jam Dhora),Dug Well,W31578,2018,2.05,1.8
+CG,Jashpur,Farsabahar,Farsabahar,22.38472222,83.98194444,Lavakera-2,Dug Well,W11715,2018,5.15,7.2

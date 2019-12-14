@@ -1,0 +1,40 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Mahasamund,Bagbahara,Bagbahara,20.96944444,82.49583333,Suarmar-2,Dug Well,W11848,2018,8.84,3
+CG,Mahasamund,Pithora,Pithora,21.275,82.73,Deori,Dug Well,W31350,2018,4.07,2.6
+CG,Mahasamund,Bagbahara,Bagbahara,21.10833333,82.47083333,Tendukonda,Dug Well,W11850,2018,3.24,2.19
+CG,Mahasamund,Mahasamund,Mahasamund,21.19166667,82.12083333,Tumgaon,Dug Well,W11867,2018,4.55,3.45
+CG,Mahasamund,Mahasamund,Mahasamund,21.21583333,82.38305556,Jhalap,Dug Well,W11858,2018,5.84,4.58
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-D,Bore Well,W11860,2018,12.24,6.96
+CG,Mahasamund,Basna,Basna,21.26944444,82.82638889,Basna,Dug Well,W11852,2018,2.87,2.5
+CG,Mahasamund,Saraipali,Saraipali,21.36944444,83.075,Patsenduri,Dug Well,W11870,2018,1.9,NA
+CG,Mahasamund,Bagbahara,Bagbahara,21.03333333,82.40833333,B k bahera-2,Dug Well,W11845,2018,8.78,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09166667,82.225,Hadabundh,Dug Well,W11857,2018,3.05,NA
+CG,Mahasamund,Bilaigarh,Basna,21.4875,82.92277778,Mandalpur,Dug Well,W11925,2018,NA,4.2
+CG,Mahasamund,Basna,Basna,21.31666667,83.00833333,Saraipali,Dug Well,W11855,2018,4.29,NA
+CG,Mahasamund,Basna,Basna,21.41666667,82.95833333,Sagrapali,Dug Well,W11854,2018,NA,4.18
+CG,Mahasamund,Bagbahara,Bagbahara,20.90416667,82.38333333,Palsipani,Dug Well,W11847,2018,NA,4.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur,Dug Well,W11865,2018,NA,7.11
+CG,Mahasamund,Bagbahara,Bagbahara,21.06694444,82.295,Bhimkhoj,Dug Well,W26888,2018,9,3.61
+CG,Mahasamund,Bagbahara,Bagbahara,21.08472222,82.30055556,Awaradawri S,Bore Well,W26904,2018,11.44,5.2
+CG,Mahasamund,Mahasamund,Mahasamund,21.07694444,82.14388889,Jhalkhamhariya,Dug Well,W26898,2018,15,3.36
+CG,Mahasamund,Mahasamund,Mahasamund,21.10833333,82.09583333,Mahasamund.1,Dug Well,W26927,2018,8.87,4.7
+CG,Mahasamund,Mahasamund,Mahasamund,21.22583333,82.25027778,Jogidipa,Dug Well,W27015,2018,5.42,3.74
+CG,Mahasamund,Saraipali,Saraipali,21.3875,83.08055556,Marban,Dug Well,W27098,2018,3.92,5.19
+CG,Mahasamund,Saraipali,Saraipali,21.39222222,83.09,Badesara,Dug Well,W27103,2018,3,2.8
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,Saraipalli-S PZ,Bore Well,W27054,2018,10.22,5.95
+CG,Mahasamund,Pithora,Mahasamund,21.29166667,82.64166667,Baldidih,Dug Well,W21248,2018,4.36,3.05
+CG,Mahasamund,Saraipali,Saraipali,21.32027778,83.04305556,Saraipalli-D PZ,Bore Well,W18595,2018,9.26,6.68
+CG,Mahasamund,Pithora,Pithora,21.33333333,82.775,Jagdishpur,Dug Well,W11869,2018,3.92,4.53
+CG,Mahasamund,Mahasamund,Mahasamund,21.08861111,82.11694444,Lavarakhurud,Dug Well,W33434,2018,5.12,3.9
+CG,Mahasamund,Mahasamund,Mahasamund,21.20972222,82.14833333,Kowajhar,Dug Well,W33444,2018,5.61,2.96
+CG,Mahasamund,BAGBAHARA,Mahasamund,21.1,82.21666667,Hadabandh,Dug Well,W33183,2018,NA,5.1
+CG,Mahasamund,Mahasamund,Mahasamund,21.34305556,82.18333333,Sirpur1 PZ,Bore Well,W27072,2018,11.16,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.16333333,82.02694444,Belsunda,Dug Well,W26964,2018,4.12,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.1075,82.09555556,Mahasamund Contractual D,Bore Well,W26925,2018,15.46,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,Jogideepa D,Bore Well,W27012,2018,7.66,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.22333333,82.25444444,Jogideepa S,Bore Well,W27013,2018,7.21,NA
+CG,Mahasamund,Mahasamund,Mahasamund,21.09888889,82.23611111,Nawagaon,Dug Well,W26911,2018,NA,5.22
+CG,Mahasamund,Basna,Basna,21.29055556,82.88138889,Barbaspur,Dug Well,W27044,2018,NA,3.41
+CG,Mahasamund,Mahasamund,Mahasamund,21.25,82.21666667,Jalki,Dug Well,W32831,2018,4.12,3.12
+CG,Mahasamund,Mahasamund,Mahasamund,21.075,82.09583333,Mahasamund-s PZ,Bore Well,W31325,2018,8.24,6.61
+CG,Mahasamund,Bagbahara,Bagbahara,21.08333333,82.29722222,Khallari,Dug Well,W21827,2018,2.27,2.68

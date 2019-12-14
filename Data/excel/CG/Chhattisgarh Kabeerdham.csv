@@ -1,0 +1,27 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.125,Lohara-d,Bore Well,W11778,2018,5.75,9.74
+CG,Kabeerdham,Bodla,Bodla,22.23722222,81.2825,Singhari D,Bore Well,W27622,2018,9.75,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.32638889,81.39722222,Munmuna,Dug Well,W11774,2018,6.75,2.84
+CG,Kabeerdham,Pandariya,Pandariya,22.36388889,81.35277778,Kui,Dug Well,W11773,2018,5.45,3.12
+CG,Kabeerdham,Pandariya,Pandariya,22.2375,81.54583333,Kapada,Dug Well,W11772,2018,10,3.7
+CG,Kabeerdham,Kawardha,Kawardha,22.06805556,81.20833333,Rajnanwagaon,Dug Well,W11771,2018,4.1,3.74
+CG,Kabeerdham,Kawardha,Kawardha,22.16111111,81.22083333,Bodla,Dug Well,W11767,2018,14.5,4.04
+CG,Kabeerdham,Bodla,Kawardha,22.175,81.31666667,Kharoda Kalan,Dug Well,W21672,2018,12,4.79
+CG,Kabeerdham,Bodla,Bodla,22.16666667,81.05833333,Chilpi,Dug Well,W11766,2018,7.95,6.57
+CG,Kabeerdham,Pandariya,Pandariya,22.21666667,81.41805556,Pandaria-1,Bore Well,W11776,2018,9.25,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.21805556,81.41805556,Pandaria-2,Dug Well,W11775,2018,NA,2.71
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.12916667,Sahaspur lohara,Dug Well,W11780,2018,NA,NA
+CG,Kabeerdham,Kawardha,Kawardha,22.00722222,81.23833333,Kawardha,Dug Well,W11768,2018,NA,NA
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.87527778,81.17333333,Uria Khurud,Dug Well,W27393,2018,9,3.69
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.74138889,81.16638889,Bija Bairangi,Dug Well,W27331,2018,6.85,4.79
+CG,Kabeerdham,Kawardha,Kawardha,22.05166667,81.22,Rengakharkhurd,Dug Well,W27484,2018,8.35,3.21
+CG,Kabeerdham,Kawardha,Kawardha,22.00722222,81.23833333,Kawardha1,Dug Well,W27458,2018,2.95,9.26
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.76722222,81.13055556,Biroda,Dug Well,W27344,2018,7.55,5.38
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.125,Lohara-s PZ,Bore Well,W27372,2018,4.65,9.33
+CG,Kabeerdham,Sahaspur Lohara,Sahaspur Lohara,21.83333333,81.12916667,Sahaspur Lohara.1,Dug Well,W27373,2018,4.15,3.72
+CG,Kabeerdham,Bodla,Kawardha,22.0675,81.20833333,Bharamdeo D,Bore Well,W27494,2018,26.15,NA
+CG,Kabeerdham,Bodla,Kawardha,22.06805556,81.20833333,Bharamdeo S,Bore Well,W27496,2018,20.45,NA
+CG,Kabeerdham,Bodla,Bodla,22.16805556,81.05611111,Saroda Dadar S,Bore Well,W27554,2018,22.35,NA
+CG,Kabeerdham,Pandariya,Pandariya,22.21194444,81.49388889,Kishangarh,Dug Well,W27588,2018,10,NA
+CG,Kabeerdham,Bodla,Bodla,22.23722222,81.2825,Singhari S,Bore Well,W27621,2018,9.35,NA
+CG,Kabeerdham,Kawardha,Kawardha,21.96388889,81.20416667,Danganiya,Dug Well,W21673,2018,8.05,3.79

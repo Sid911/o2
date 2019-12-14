@@ -1,0 +1,72 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,POMRB,POMKH
+CG,Surguja,Surajpur,Surajpur,23.19472222,83.05916667,Kanakpur,Dug Well,W28267,2018,8.25,5.17
+CG,Surguja,Surajpur,Surajpur,23.24722222,83.2,Kalyanpur,Dug Well,W28314,2018,6.25,4.82
+CG,Surguja,Pratappur,Pratappur,23.58444444,83.15583333,Bhediya,Dug Well,W28556,2018,5.84,9.62
+CG,Surguja,Pratappur,Pratappur,23.28388889,83.18638889,Dwarikanagar,Dug Well,W28349,2018,4.98,3.15
+CG,Surguja,Surajpur,Surajpur,23.27222222,82.92111111,Biharpur,Dug Well,W31609,2018,8.39,8.22
+CG,Surguja,Rajpur,Rajpur,23.3375,83.40416667,Rajpur1,Bore Well,W28389,2018,NA,NA
+CG,Surguja,Surajpur,Surajpur,23.21194444,82.87277778,Surajpur1,Bore Well,W28292,2018,NA,NA
+CG,Surguja,Udeypur,Udeypur,22.895,82.85694444,Dandgaon-2,Dug Well,W12112,2018,6.1,NA
+CG,Surguja,Premnagar,Premnagar,22.83333333,82.73972222,Tara1,Bore Well,W12058,2018,18.71,NA
+CG,Surguja,Rajpur,Rajpur,23.41333333,83.32333333,Makanpur,Dug Well,W21976,2018,NA,6.7
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.95,Udaipur,Dug Well,W12115,2018,NA,8.14
+CG,Surguja,Shankargarh,Shankargarh,23.30083333,83.57555556,Bachwar,Dug Well,W21658,2018,NA,4.9
+CG,Surguja,Rajpur,Rajpur,23.3375,83.40416667,Rajpur-2,Dug Well,W12062,2018,NA,6.52
+CG,Surguja,Balrampur,Balrampur,23.45,83.525,Pasta,Dug Well,W12020,2018,NA,7.42
+CG,Surguja,Lundra,Lundra,23.195,83.43833333,Dhaurpur,Dug Well,W21676,2018,NA,4.11
+CG,Surguja,Ambikapur,Ambikapur,23.18777778,83.2675,Parsa,Dug Well,W21675,2018,NA,7.98
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.94722222,Udaipur-d,Bore Well,W12116,2018,15.14,11.5
+CG,Surguja,Premnagar,Premnagar,22.96666667,82.69583333,Premnagar-3,Dug Well,W18565,2018,10.15,13.23
+CG,Surguja,Ambikapur,Ambikapur,22.95222222,83.26388889,Nawapara,Dug Well,W21983,2018,5.9,5.14
+CG,Surguja,Ambikapur,Ambikapur,23.00305556,83.23027778,Darima-2,Dug Well,W21982,2018,6.81,6.15
+CG,Surguja,Surajpur,Surajpur,23.34444444,82.77083333,Badsara,Dug Well,W21971,2018,5.65,4.7
+CG,Surguja,Surajpur,Surajpur,23.35277778,82.86305556,Sirsi,Dug Well,W12107,2018,7,5.4
+CG,Surguja,Odgi,Bhaiyathan,23.47388889,82.80888889,Odigi,Dug Well,W21637,2018,5.4,4.85
+CG,Surguja,Bhaiyathan,Bhaiyathan,23.40416667,82.86666667,Bhaiyathan,Bore Well,W12028,2018,9.32,6.91
+CG,Surguja,Pratappur,Pratappur,23.3,83.07916667,Songara-2,Dug Well,W12051,2018,9.54,8.69
+CG,Surguja,Pratappur,Pratappur,23.48333333,83.20277778,Pratappur,Dug Well,W12048,2018,9.1,8.52
+CG,Surguja,Pratappur,Pratappur,23.42916667,83.05833333,Gonda,Dug Well,W12047,2018,6.12,6.28
+CG,Surguja,Pratappur,Pratappur,23.64777778,83.17638889,Reonti,Dug Well,W21975,2018,11.2,10.28
+CG,Surguja,Pratappur,Pratappur,23.51111111,83.15694444,Chandora,Dug Well,W12045,2018,5.84,6.15
+CG,Surguja,Pratappur,Pratappur,23.37861111,83.195,Jagannathpur-1,Dug Well,W21974,2018,5.09,3.31
+CG,Surguja,Wadrafnagar,Wadrafnagar,23.76666667,83.19583333,Wadrafnagar,Dug Well,W12122,2018,9.71,8.34
+CG,Surguja,Wadrafnagar,Wadrafnagar,23.81388889,83.09166667,Mahewa-1,Dug Well,W12120,2018,5.61,5.15
+CG,Surguja,Sitapur,Sitapur,22.73333333,83.47638889,Pratapgarh,Dug Well,W12091,2018,6.86,5.9
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-2,Dug Well,W11999,2018,6.48,4.59
+CG,Surguja,Surajpur,Surajpur,23.24,82.80333333,Deonagar,Dug Well,W12098,2018,3.9,3.97
+CG,Surguja,Mainpat,Mainpat,22.82916667,83.28805556,Kamleshwarpur-2,Dug Well,W12041,2018,7.54,7.41
+CG,Surguja,Batauli,Batauli,22.84722222,83.41388889,Bandana,Dug Well,W12022,2018,7.84,7.69
+CG,Surguja,Premnagar,Premnagar,22.84166667,82.74166667,Premnagar-2,Dug Well,W12056,2018,15.44,13.02
+CG,Surguja,Lakhanpur,Lakhanpur,22.86666667,83.06666667,Kunni,Dug Well,W21970,2018,7.69,7.61
+CG,Surguja,Lakhanpur,Lakhanpur,23.05833333,83.1,Udaipur Dhah,Dug Well,W12037,2018,5.39,5.08
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.15,82.725,Ramanuj nagar-1,Dug Well,W12068,2018,8.95,7.33
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.08055556,82.63527778,Ganeshpur-2,Dug Well,W12064,2018,6.24,4.42
+CG,Surguja,Lundra,Lundra,23.1,83.35416667,Bulga,Dug Well,W12038,2018,5,2.1
+CG,Surguja,Surajpur,Surajpur,23.18472222,82.97166667,Jaynagar,Dug Well,W12100,2018,7.74,8.19
+CG,Surguja,Surajpur,Surajpur,23.21194444,82.87277778,Surajpur-1,Dug Well,W12108,2018,4.94,6
+CG,Surguja,SURAJPUR,Surajpur,23.14833333,82.95138889,Majeera,Dug Well,W33207,2018,6.8,4.13
+CG,Surguja,Bhaiyathan,Bhaiyathan,23.38555556,82.95194444,Chaimpur,Dug Well,W33475,2018,3.67,1.84
+CG,Surguja,Pratappur,Bhaiyathan,23.44222222,82.83472222,Darhora,Dug Well,W33476,2018,8,7.65
+CG,Surguja,Batauli,Batauli,22.98805556,83.40305556,Batauli S,Bore Well,W28106,2018,11.24,NA
+CG,Surguja,Premnagar,Premnagar,22.96666667,82.69583333,Premnagar D,Bore Well,W28087,2018,15.6,NA
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.17305556,82.73416667,Bhuvneshwarpur,Dug Well,W28246,2018,5.5,NA
+CG,Surguja,Rajpur,Batauli,23.03333333,83.4675,Ghorghadi,Dug Well,W28139,2018,NA,5.18
+CG,Surguja,Lundra,Lundra,23.0325,83.38305556,Silsila,Dug Well,W28138,2018,NA,4.78
+CG,Surguja,Lundra,Lundra,23.195,83.41333333,Dhaurpur S,Bore Well,W28268,2018,NA,6.52
+CG,Surguja,Lundra,Lundra,23.22722222,83.40972222,Amdih,Dug Well,W28304,2018,NA,4.38
+CG,Surguja,Ambikapur,Ambikapur,23.24166667,83.31388889,Baghima,Dug Well,W28310,2018,NA,2.58
+CG,Surguja,Shankargarh,Shankargarh,23.31166667,83.56027778,Sargaon,Dug Well,W28376,2018,NA,3.95
+CG,Surguja,Rajpur,Rajpur,23.38444444,83.46694444,Alkadih,Dug Well,W28425,2018,NA,3.73
+CG,Surguja,Sitapur,Sitapur,22.76944444,83.49166667,Sitapur-d,Bore Well,W27987,2018,7.8,6.86
+CG,Surguja,Sitapur,Sitapur,22.77916667,83.49111111,Sontarai,Dug Well,W27992,2018,4.1,3.79
+CG,Surguja,Mainpat,Mainpat,22.89944444,83.29027778,Nagadand,Dug Well,W28049,2018,11.7,12.43
+CG,Surguja,Udeypur,Udeypur,22.90833333,82.94722222,Udaipur-s,Bore Well,W28055,2018,15.78,8.8
+CG,Surguja,Premnagar,Premnagar,22.88083333,82.7875,Shivnagar,Dug Well,W28037,2018,8.5,7.88
+CG,Surguja,Premnagar,Premnagar,22.90916667,82.73277778,Abhaypur,Dug Well,W28056,2018,4.11,4.39
+CG,Surguja,Premnagar,Premnagar,23.025,82.665,Fulkona,Dug Well,W28135,2018,2.8,2.35
+CG,Surguja,Lakhanpur,Lakhanpur,22.98055556,83.04722222,Lakhanpur,Dug Well,W28096,2018,3.16,2.3
+CG,Surguja,Ramanujnagar,Ramanujnagar,23.09638889,82.65888889,Jagatpur Podipara,Dug Well,W28184,2018,7.32,6
+CG,Surguja,Ambikapur,Ambikapur,22.98222222,83.22027778,Chatakpur,Dug Well,W28099,2018,5.29,4.05
+CG,Surguja,Ambikapur,Ambikapur,23.07111111,83.21194444,Kakalo,Dug Well,W28169,2018,7.9,5.93
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-s,Bore Well,W28197,2018,13.43,11.52
+CG,Surguja,Ambikapur,Ambikapur,23.10833333,83.2,Ambikapur-D,Bore Well,W28198,2018,14.95,10.9
