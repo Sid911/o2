@@ -1,0 +1,18 @@
+.title{
+    display: flex;
+    background-color: white;
+}
+.drag{
+    -webkit-app-region: drag
+  }
+.nodrag{
+    -webkit-app-region: no-drag;    
+}
+img {
+    -webkit-transition: -webkit-transform .4s ease-in-out;
+            transition:         transform .4s ease-in-out;
+}
+img:hover {
+    -webkit-transform: rotate(-35deg);
+            transform: rotate(-35deg);
+}

@@ -1,7 +1,5 @@
-import { combineReducers } from "redux";
-import { ADD_NEWS,REQUEST_NEWS,FETCH_NEWS,fetchNews,addNews} from "../Actions/news";
-import {useDispatch} from "react-redux";
-
+import { ADD_NEWS,REQUEST_NEWS} from "../Actions/news";
+import {combineReducers} from 'redux';
 const initHomeNews = {
     isFetching : false,
     lastUpdated : 0,
@@ -31,5 +29,17 @@ function homeNews(state = initHomeNews,action){
         }
     }else{return state}
 }
+function agricultureNews(state = initAgriNews,action){
+    if (action.page==="agriculture") {
+        switch (action.type) {
+            case REQUEST_NEWS :
+                return {...state,isFetching: true}
+            case ADD_NEWS:
+                return {...state, isFetching:false, items:action.news, lastUpdated:action.receivedAt}
+            default:
+                return state;
+        }
+    }else{return state}
+}
 
-export default homeNews;
+export {homeNews,agricultureNews}

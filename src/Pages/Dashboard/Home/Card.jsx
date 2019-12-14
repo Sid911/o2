@@ -23,13 +23,6 @@ export default function NewsCard(props){
             <CardText>
               {props.description}
             </CardText>
-            <Button
-              color="primary"
-              href="#pablo"
-              onClick={e => e.preventDefault()}
-            >
-              Go somewhere
-            </Button>
           </CardBody>
         </Card>
       </>

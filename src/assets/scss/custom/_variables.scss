@@ -68,7 +68,8 @@ $grays: map-merge((
   "900": $gray-900
 ), $grays);
 
-$blue:    #5e72e4 !default;
+$blue:    #2699FB !default;
+$lightblue: #B0DEFF !default;
 $indigo:  #5603ad !default;
 $purple:  #8965e0 !default;
 $pink:    #f3a4b5 !default;
@@ -82,6 +83,7 @@ $cyan:    #2bffc6 !default;
 $colors: () !default;
 $colors: map-merge((
   "blue":       $blue,
+  "lightblue":  $lightblue,
   "indigo":     $indigo,
   "purple":     $purple,
   "pink":       $pink,
@@ -98,9 +100,9 @@ $colors: map-merge((
   "gray-dark":  $gray-800
 ), $colors);
 
-$default:       #172b4d !default;
-$primary:       #5e72e4 !default;
-$secondary:     #f7fafc !default;
+$default:       #4D6D8A !default;
+$primary:       #66BFFF !default;
+$secondary:     #F1F9FF !default;
 $success:       $green !default;
 $info:          $teal !default;
 $warning:       $orange !default;
@@ -232,7 +234,7 @@ $love-color: $red !default;
 // Body
 
 
-$body-bg: #f8f9fe !default;
+$body-bg: #ffffff !default;
 $body-color: $gray-700 !default;
 
 
@@ -326,9 +328,12 @@ $border-radius-xl:            .5rem !default;
 $border-radius-lg:            .4375rem !default;
 $border-radius-sm:            .25rem !default;
 
-$box-shadow-sm:               0 0 .5rem rgba($gray-600, .075) !default;
-$box-shadow:                  0 0 2rem 0 rgba($gray-600, .15) !default;
-$box-shadow-lg:               0 0 3rem rgba($gray-600, .175) !default;
+$box-shadow-sm:               0 0 .5rem rgba($gray-700, .075) !default;
+$box-shadow:                  0 0 2rem 0 rgba($gray-700, .15) !default;
+$box-shadow-lg:               0 0 3rem rgba($gray-700, .175) !default;
+$box-shadowb-sm:               0 0 .5rem rgba($blue, .075) !default;
+$box-shadowb:                  0 0 2rem 0 rgba($blue, .15) !default;
+$box-shadowb-lg:               0 0 3rem rgba($blue, .175) !default;
 
 $component-active-color:        $white !default;
 $component-active-bg:           theme-color("primary") !default;
