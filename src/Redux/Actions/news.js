@@ -44,7 +44,7 @@ function shouldFetchPosts(state, page) {
       posts = state.agragricultureNews.items
       dir = state.agragricultureNews
     default:
-      posts = state.agragricultureNews.items
+      posts = state.agricultureNews.items
       dir = state.homeNews
   }
   if (!posts) {
