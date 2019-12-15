@@ -13,6 +13,4 @@ img {
             transition:         transform .4s ease-in-out;
 }
 img:hover {
-    -webkit-transform: rotate(-35deg);
-            transform: rotate(-35deg);
 }
