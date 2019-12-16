@@ -6,11 +6,11 @@ import {fetchWeatherIfNeeded} from "../../../Redux/Actions/weather"
 export default function WeatherCard() {
     const dispatch = useDispatch()
     dispatch(fetchWeatherIfNeeded("Jaipur,in"))
-
     var weather = useSelector(state=>state.weather.data)
+    console.log(weather)
     return (
         <Card className="shadow" style={{padding:"10%"}}>
-            
+            {weather.name}
         </Card>
     )
 }

@@ -21,7 +21,7 @@ export function addWeather(json) {
 
 function fetchWeather(querry) {
   const st = "http://api.openweathermap.org/data/2.5/weather?q="+querry+"&APPID=d0eb2760016b4cf1c3e55e818f9b17bb"
-  return dispatch => {
+  return dispatch => {                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
     dispatch(requestWeather())
     fetch(st)
       .then(Response => Response.json())
@@ -34,9 +34,9 @@ function shouldFetchWeather(state) {
   var current = state.weather.isFetched
   var dir = state.weather 
   if (!current) {
-    return false
-  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 15)) >= 1) {
-    return false
+    return true
+  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 5)) >= 1) {
+    return true
   } else {
     return false
   }
