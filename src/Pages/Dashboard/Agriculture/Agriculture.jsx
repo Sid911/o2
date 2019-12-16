@@ -1,8 +1,12 @@
 import React from 'react';
 import {Button,ButtonGroup} from "reactstrap";
+import { BrowserRouter as Router,Route,Link, Switch } from "react-router-dom";
 import "../../../assets/agriculture.css";
 import {Card,CardBody,CardImg,CardTitle,CardText,Row,Col,Container} from "reactstrap";
 import M from "../../../assets/ulalala.jpg";
+
+import Home from "./agriculturehome"
+import Info from "./info"
 
 export default function Agriculture() {
     return (
@@ -15,95 +19,12 @@ export default function Agriculture() {
             <Button color="primary" type="button" className="fa fa-heartbeat" ></Button>
             </ButtonGroup>
             </div>
-            <div classNmae="row">
-            <Container className="Y">
-  <Row>
-    <Col className="col-sm">
-      <span>
-      <>
-        <Card style={{ width: "38rem" }}>
-          <CardBody>
-           
-          </CardBody>
-        </Card>
-      </>
-      </span>
-    </Col>
-    <Col className="col-sm">
-      <span> <>
-        <Card style={{ width: "18rem" }}>
-          <CardImg
-            alt="..."
-            src={M}
-            top
-          />
-          <CardBody>
-            <CardTitle>Card title</CardTitle>
-            <CardText>
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
-            </CardText>
-            <Button
-              color="primary"
-              href="#pablo"
-              onClick={e => e.preventDefault()}
-            >
-              Go somewhere
-            </Button>
-          </CardBody>
-        </Card>
-      </>
-      <Card style={{ width: "18rem" }}>
-          <CardImg
-            alt="..."
-            src={M}
-            top
-          />
-          <CardBody>
-            <CardTitle>Card title</CardTitle>
-            <CardText>
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
-            </CardText>
-            <Button
-              color="primary"
-              href="#pablo"
-              onClick={e => e.preventDefault()}
-            >
-              Go somewhere
-            </Button>
-          </CardBody>
-        </Card>
-        <Card style={{ width: "18rem" }}>
-          <CardImg
-            alt="..."
-            src={M}
-            top
-          />
-          <CardBody>
-            <CardTitle>Card title</CardTitle>
-            <CardText>
-              Some quick example text to build on the card title and make up
-              the bulk of the card's content.
-            </CardText>
-            <Button
-              color="primary"
-              href="#pablo"
-              onClick={e => e.preventDefault()}
-            >
-              Go somewhere
-            </Button>
-          </CardBody>
-        </Card>
-        </span>
-    </Col>
-    <Col className="col-sm">
-      <span> 
- </span>
-    </Col>
-  </Row>
-</Container>
-            </div>
+            <Router>
+            <Switch>
+               <Route exact path="/agriculture/" component={Home}/>
+               <Route exact path="/agriculture/info/" component={Info}/>
+            </Switch>
+            </Router>
         </div>
     )
 }
