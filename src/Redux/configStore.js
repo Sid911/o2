@@ -8,7 +8,7 @@ import { createFirestoreInstance} from "redux-firestore"
 
 import rootReducer from "./Reducers/indexReducer"
 const persistConfig = {
-  key: 'O2',
+  key: 'O2new',
   storage,
 }
 

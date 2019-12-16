@@ -23,7 +23,7 @@ export function addNews(json, PAGE) {
 }
 
 function fetchNews(querry, page) {
-  const st = "https://newsapi.org/v2/everything?q=" + querry + "&apiKey=86f69e266e9544ea9dd42a0bae92252d"
+  const st = "https://newsapi.org/v2/everything?q=" + querry + "&apiKey=0f241c7bc5ca4b0082f59f3d5b9a65eb"
   return dispatch => {
     dispatch(requestNews(page))
     fetch(st)
@@ -41,15 +41,15 @@ function shouldFetchPosts(state, page) {
       dir = state.homeNews
       break;
     case "agriculture":
-      posts = state.agragricultureNews.items
-      dir = state.agragricultureNews
+      posts = state.agricultureNews.items
+      dir = state.agricultureNews
     default:
       posts = state.agricultureNews.items
       dir = state.homeNews
   }
   if (!posts) {
     return true
-  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 15)) >= 1) {
+  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 30)) >= 1) {
     return true
   } else {
     return false
