@@ -5,9 +5,9 @@ import "../../../assets/agriculture.css";
 import {Card,CardBody,CardImg,CardTitle,CardText,Row,Col,Container} from "reactstrap";
 import M from "../../../assets/ulalala.jpg";
 
-import Home from "./agriculturehome"
-import Info from "./info"
-
+import Home from "./agriculturehome";
+import Info from "./info";
+import map from "./map"
 export default function Agriculture() {
     return (
         <div>
@@ -23,6 +23,7 @@ export default function Agriculture() {
             <Switch>
                <Route exact path="/agriculture/" component={Home}/>
                <Route exact path="/agriculture/info/" component={Info}/>
+               <Route exact path="/agriculture/map/" component={map}/>
             </Switch>
             </Router>
         </div>
