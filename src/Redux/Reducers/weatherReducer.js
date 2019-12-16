@@ -1,48 +1,21 @@
 import {
-    ADD_NEWS,
-    REQUEST_NEWS
-} from "../Actions/news";
+    ADD_WEATHER,
+    REQUEST_WEATHER
+} from "../Actions/weather";
 
 const initWeather = {
-    isFetching = false,
-    data:{coord: {
-        lon: null,
-        lat: null
-    },
-    weather: [{
-        id: null,
-        main: null,
-        description: null,
-        icon: null,
-    }],
-    base: stations,
-    main: {
-        temp: null,
-        feels_like: null,
-        temp_min: null,
-        temp_max: null,
-        pressure: null,
-        humidity: null
-    },
-    visibility: null,
-    wind: {
-        speed: null,
-        deg: null
-    },
-    clouds: {
-        all: null
-    },
-    dt: null,
-    sys: {
-        type: null,
-        id: null,
-        country: null,
-        sunrise: null,
-        sunset: null
-    },
-    timezone: null,
-    id: null,
-    name: null,
-    cod: null
+    isFetching : false,
+    data:null
 }
+function we(state=initWeather,action) {
+    switch (action.type) {
+        case REQUEST_WEATHER:
+            return {...state, isFetching:"true"}
+        case ADD_WEATHER:
+            return {...state,data:action.weather}
+        default:
+            break;
+    }
+    
 }
+export {we}

@@ -14,7 +14,7 @@ export function addWeather(json) {
   console.log(json);
   return {
     type: ADD_WEATHER,
-    weather: json.articles.map(child => child),
+    weather: json,
     receivedAt: Date.now(),
   }
 }
@@ -41,7 +41,7 @@ function shouldFetchWeather(state) {
   }
 }
 
-export function fetchPostsIfNeeded( querry) {
+export function fetchWeatherIfNeeded( querry) {
   return (dispatch, getState) => {
     if (shouldFetchWeather(getState())) {
       console.log("did weather Something")
