@@ -6,6 +6,7 @@ export default function NewsCard(props){
       minWidth: "20rem",
       maxWidth: "21rem",
       maxHeight: "25rem",
+      padding:"20px",
       background : "rgba(255,255,255,1)",
     };
     return(
