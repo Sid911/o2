@@ -8,6 +8,7 @@ import M from "../../../assets/ulalala.jpg";
 import Home from "./agriculturehome";
 import Info from "./info";
 import map from "./map"
+import healthcare from "./healthcare"
 export default function Agriculture() {
     return (
         <div>
@@ -24,6 +25,7 @@ export default function Agriculture() {
                <Route exact path="/agriculture/" component={Home}/>
                <Route exact path="/agriculture/info/" component={Info}/>
                <Route exact path="/agriculture/map/" component={map}/>
+               <Route exact path="/agriculture/healthcare/" component={map}/>
             </Switch>
             </Router>
         </div>
