@@ -25,7 +25,7 @@ export function addNews(json, PAGE) {
 function fetchNews(querry, page) {
   const st = "https://newsapi.org/v2/everything?q=" + querry + "&apiKey=86f69e266e9544ea9dd42a0bae92252d"
   return dispatch => {
-    dispatch(requestNews("home"))
+    dispatch(requestNews(page))
     fetch(st)
       .then(Response => Response.json())
       .then(json => dispatch(addNews(json, page)))
