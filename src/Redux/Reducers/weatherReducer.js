@@ -4,18 +4,18 @@ import {
 } from "../Actions/weather";
 
 const initWeather = {
-    isFetching : false,
-    data:null
+    isFetched : false,
+    data:{}
 }
-function we(state=initWeather,action) {
+function weatherfun(state=initWeather,action) {
     switch (action.type) {
         case REQUEST_WEATHER:
-            return {...state, isFetching:"true"}
+            return {...state, isFetched:"true"}
         case ADD_WEATHER:
             return {...state,data:action.weather}
         default:
-            break;
+            return state;
     }
     
 }
-export {we}
+export default weatherfun

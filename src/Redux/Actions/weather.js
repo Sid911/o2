@@ -27,15 +27,16 @@ function fetchWeather(querry) {
       .then(Response => Response.json())
       .then(json => dispatch(addWeather(json)))
   }
+
 }
 
 function shouldFetchWeather(state) {
   var current = state.weather.isFetched
   var dir = state.weather 
   if (!current) {
-    return true
+    return false
   } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 15)) >= 1) {
-    return true
+    return false
   } else {
     return false
   }

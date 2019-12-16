@@ -7,7 +7,7 @@ export default function agricultureNews(state = initAgriNews, action) {
             case REQUEST_NEWS:
                 return { ...state, isFetching: true };
             case ADD_NEWS:
-                return { ...state, isFetching: false, items: action.news, lastUpdated: action.receivedAt };
+                return { ...state, isFetched: true, items: action.news, lastUpdated: action.receivedAt };
             default:
                 return state;
         }

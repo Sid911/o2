@@ -44,12 +44,15 @@ function shouldFetchPosts(state, page) {
       posts = state.agricultureNews.items
       dir = state.agricultureNews
     default:
-      posts = state.agricultureNews.items
+      posts = state.homeNews.items
       dir = state.homeNews
   }
   if (!posts) {
+    console.log("!post");
+    
     return true
-  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 30)) >= 1) {
+  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 15)) >= 1) {
+    console.log("!postnext");
     return true
   } else {
     return false

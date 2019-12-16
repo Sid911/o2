@@ -1,6 +1,4 @@
 import { ADD_NEWS,REQUEST_NEWS} from "../Actions/news";
-import {combineReducers} from 'redux';
-import { agricultureNews } from "./agricultureNews";
 const initHomeNews = {
     isFetching : false,
     lastUpdated : 0,
@@ -8,6 +6,7 @@ const initHomeNews = {
     items:[]
 }
 export const initAgriNews = {
+    isFetched : false,
     isFetching : false,
     lastUpdated : 0,
     error:false,
