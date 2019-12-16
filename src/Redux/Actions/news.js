@@ -23,7 +23,7 @@ export function addNews(json, PAGE) {
 }
 
 function fetchNews(querry, page) {
-  const st = "https://newsapi.org/v2/everything?q=" + querry + "&apiKey=0f241c7bc5ca4b0082f59f3d5b9a65eb"
+  const st = "https://newsapi.org/v2/everything?q=" + querry + "&sources=google-news-in&apiKey=0f241c7bc5ca4b0082f59f3d5b9a65eb"
   return dispatch => {
     dispatch(requestNews(page))
     fetch(st)

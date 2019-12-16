@@ -12,7 +12,7 @@ export default function Agriculture() {
     const dispatch = useDispatch()
     var x = 0;
     while (x<1) {
-        dispatch(fetchPostsIfNeeded("agriculture","farming"))
+        dispatch(fetchPostsIfNeeded("agriculture","'agriculture'"))
         x+=1
     } 
     const item = useSelector(state=> state.agricultureNews.items)
@@ -39,41 +39,8 @@ return (
                         </Button>
                     </CardBody>
                 </Card>
-            <br />
-            <Card style={{ width: "26rem" }}>
-                <CardImg alt="..." src={M} top />
-                <CardBody>
-                    <CardTitle>Card title</CardTitle>
-                    <CardText>
-                        Some quick example text to build on the card title and make up
-                        the bulk of the card's content.
-                    </CardText>
-                    <Button color="primary" href="#pablo" onClick={e=> e.preventDefault()}
-                        >
-                        Go somewhere
-                    </Button>
-                </CardBody>
-            </Card><br />
-            <Card style={{ width: "26rem" }}>
-                <CardImg alt="..." src={M} top />
-                <CardBody>
-                    <CardTitle>Card title</CardTitle>
-                    <CardText>
-                        Some quick example text to build on the card title and make up
-                        the bulk of the card's content.
-                    </CardText>
-                    <Button color="primary" href="#pablo" onClick={e=> e.preventDefault()}
-                        >
-                        Go somewhere
-                    </Button>
-                </CardBody>
-            </Card>
-        </span>
-        </Col>
-        <Col className="col-sm">
-        <span>
-        </span>
-        </Col>
+                </span>
+                </Col>  
     </Row>
     </div>
     )

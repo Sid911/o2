@@ -9,7 +9,7 @@ export default function WeatherCard() {
     var weather = useSelector(state=>state.weather.data)
     console.log(weather)
     return (
-        <Card className="shadow" style={{padding:"10%"}}>
+        <Card className="bg-transparent border-blue" style={{padding:"10%"}}>
             {weather.name}
         </Card>
     )

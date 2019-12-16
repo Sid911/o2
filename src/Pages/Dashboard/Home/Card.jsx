@@ -7,6 +7,7 @@ export default function NewsCard(props){
       maxWidth: "21rem",
       maxHeight: "25rem",
       padding:"20px",
+      fontSize:"20px",
       background : "rgba(255,255,255,1)",
     };
     return(
@@ -18,7 +19,7 @@ export default function NewsCard(props){
             style={{maxWidth: "600px", background : "rgba(0,0,0,.9)"}}/>:<></>}
           <div className={props.showImage?"card-img-overlay" :"container card"} style={{background : "rgba(255,255,255,.6)"}}>
           >
-            <div className="display-4">{props.title}</div>
+            <div className="h4">{props.title}</div>
 
               {props.description}
           </div>
