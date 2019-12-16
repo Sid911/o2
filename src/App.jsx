@@ -17,14 +17,13 @@ class App extends Component {
         const logged = this.props.logged
         return(
            <div style={{height:"inherit"}}>
-               <TitleBar show={logged} />
+               <TitleBar show={true} />
                <Scrollbars autoHide style={{position:"fixed"}} universal={true}>
-                   <div style={{padding:"3%", height:"100%",}}>
+                   <div style={{padding:"3%", height:"100%"}}>
                        <Router>
                            <Switch>
-                               <Route exact path="/"/>
+                               <Route exact path="/" component={HomePage}/>
                                <Route exact path="/agriculture" component={Agr}/>
-
                                <Route exact path="/roads" component={Roads}/>
                            </Switch>
                        </Router>

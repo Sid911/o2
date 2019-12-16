@@ -5,7 +5,7 @@ import {
 
 const initWeather = {
     isFetching = false,
-    coord: {
+    data:{coord: {
         lon: null,
         lat: null
     },
