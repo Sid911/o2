@@ -22,7 +22,7 @@ class App extends Component {
                    <div style={{padding:"3%", height:"100%",}}>
                        <Router>
                            <Switch>
-                               <Route exact path="/" component={HomePage} />
+                               <Route exact path="/"/>
                                <Route exact path="/agriculture" component={Agr}/>
                                <Route exact path="/roads" component={Roads}/>
                            </Switch>
