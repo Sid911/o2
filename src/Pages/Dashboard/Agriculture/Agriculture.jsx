@@ -3,7 +3,7 @@ import {Button,ButtonGroup} from "reactstrap";
 import { BrowserRouter as Router,Route,Link, Switch } from "react-router-dom";
 import "../../../assets/agriculture.css";
 import {Card,CardBody,CardImg,CardTitle,CardText,Row,Col,Container} from "reactstrap";
-import M from "../../../assets/ulalala.jpg";
+import m from "../../../assets/ulalala.jpg";
 
 import Home from "./agriculturehome";
 import Info from "./info";

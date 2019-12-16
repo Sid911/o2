@@ -1,5 +1,6 @@
 import React from 'react';
 import {Button,ButtonGroup,Card,CardImg,CardBody,CardTitle,CardText} from "reactstrap";
+import M from "../../../assets/ulalala.jpg";
 
 
 export default function Agriculture() {
