@@ -18,17 +18,7 @@ class App extends Component {
         return(
            <div style={{height:"inherit"}}>
                <TitleBar show={logged} />
-               <Scrollbars autoHide style={{position:"fixed"}} universal={true}>
-                   <div style={{padding:"3%", height:"100%",}}>
-                       <Router>
-                           <Switch>
-                               <Route exact path="/" component={logged?HomePage:LoginPage} />
-                               <Route exact path="/agriculture" component={Agr}/>
-                               <Route exact path="/roads" component={Roads}/>
-                           </Switch>
-                       </Router>
-                   </div>
-               </Scrollbars>
+
            </div>
         )
     }
@@ -39,5 +29,16 @@ const mapStatetoProps=(state)=>{
         logged : !state.firebase.auth.isEmpty
     }
 }
+{/* <Scrollbars autoHide style={{position:"fixed"}} universal={true}>
+<div style={{padding:"3%", height:"100%",}}>
+    <Router>
+        <Switch>
+            <Route exact path="/" component={logged?HomePage:LoginPage} />
+            <Route exact path="/agriculture" component={Agr}/>
+            <Route exact path="/roads" component={Roads}/>
+        </Switch>
+    </Router>
+</div>
+</Scrollbars> */}
 
 export default connect(mapStatetoProps)(App)

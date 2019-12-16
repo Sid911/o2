@@ -4,10 +4,9 @@ export const REQUEST_WEATHER = "REQUEST_WEATHER"
 
 
 
-export function requestWeather(PAGE) {
+export function requestWeather() {
   return {
-    type: REQUEST_WEATHER,
-    page: PAGE
+    type: REQUEST_WEATHER
   }
 }
 
@@ -17,17 +16,16 @@ export function addWeather(json) {
     type: ADD_WEATHER,
     weather: json.articles.map(child => child),
     receivedAt: Date.now(),
-    page: PAGE
   }
 }
 
-function fetchWeather(querry, page) {
+function fetchWeather(querry) {
   const st = "http://api.openweathermap.org/data/2.5/weather?q="+querry+"&APPID=d0eb2760016b4cf1c3e55e818f9b17bb"
   return dispatch => {
-    dispatch(requestWeather("home"))
+    dispatch(requestWeather())
     fetch(st)
       .then(Response => Response.json())
-      .then(json => dispatch(addWeather(json, page)))
+      .then(json => dispatch(addWeather(json)))
   }
 }
 
@@ -46,11 +44,11 @@ function shouldFetchWeather(state) {
 export function fetchPostsIfNeeded( querry) {
   return (dispatch, getState) => {
     if (shouldFetchWeather(getState())) {
-      console.log("did something")
+      console.log("did weather Something")
       return dispatch(fetchWeather(querry))
     } else {
       // Let the calling code know there's nothing to wait for.
-      console.log("Wait for 15 min to get new content")
+      console.log("Wait for 15 min to get new weather")
       return Promise.resolve()
     }
   }
