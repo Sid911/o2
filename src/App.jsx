@@ -24,6 +24,7 @@ class App extends Component {
                            <Switch>
                                <Route exact path="/"/>
                                <Route exact path="/agriculture" component={Agr}/>
+
                                <Route exact path="/roads" component={Roads}/>
                            </Switch>
                        </Router>

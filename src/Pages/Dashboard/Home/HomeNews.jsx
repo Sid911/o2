@@ -6,7 +6,7 @@ import { useSelector,useDispatch } from "react-redux"
 
 export default function HomeNews(props) {
     const dispatch = useDispatch()
-    dispatch(fetchPostsIfNeeded("home","'india'"))
+    //dispatch(fetchPostsIfNeeded("home","'india'"))
     const item = useSelector(state=> state.homeNews.items)
     const newses= item.map((n)=> <Excard title={n.title} image={n.urlToImage} description={n.description}/>)
     return (
