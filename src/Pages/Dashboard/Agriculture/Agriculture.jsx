@@ -15,7 +15,7 @@ export default function Agriculture() {
              <ButtonGroup vertical>
             <Button color="primary" type="button" className="fa fa-address-card" onClick={()=>document.location.href="/agriculture/"}></Button>
             <Button color="primary" type="button" className="fa fa-info-circle" onClick={()=>document.location.href="/agriculture/info"}></Button>
-            <Button color="primary" type="button" className="fa fa-map" onClick={()=>document.location.href="/agriculture/maps"} ></Button>
+            <Button color="primary" type="button" className="fa fa-map" onClick={()=>document.location.href="/agriculture/map"} ></Button>
             <Button color="primary" type="button" className="fa fa-heartbeat" onClick={()=>document.location.href="/agriculture/healthcare"}></Button>
             </ButtonGroup>
             </div>

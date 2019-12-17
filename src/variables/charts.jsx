@@ -352,11 +352,11 @@ let chartExample1 = {
   },
   data2: canvas => {
     return {
-      labels: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+      labels: ["2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18"],
       datasets: [
         {
           label: "Performance",
-          data: [0, 20, 5, 25, 10, 30, 15, 40, 40]
+          data: [16820.9,16750.1,16949.6,17372.3,16735.9,6705.5,16959.3]
         }
       ]
     };

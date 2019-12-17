@@ -12,9 +12,19 @@ return (
   <Container>
     <Row>
       <Col className="col-sm">
-
+          <div className="display-3 text-center">Nitrogen Data</div>
           <Charts/>
- 
+          <div className="text-default"> scale: per 1000 tons Of Nitrogen</div>
+      </Col>
+      <Col className="col-sm">
+          <div className="display-3 text-center">P<sub>2</sub>O<sub>5</sub> Data</div>
+          <Charts/>
+          <div className="text-default"> scale: per 1000 tons Of Nitrogen</div>
+      </Col>
+      <Col className="col-sm">
+          <div className="display-3 text-center">K<sub>2</sub>O Data</div>
+          <Charts/>
+          <div className="text-default"> scale: per 1000 tons Of Nitrogen</div>
       </Col>
       </Row>
       <Row>

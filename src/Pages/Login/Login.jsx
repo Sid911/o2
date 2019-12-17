@@ -13,6 +13,7 @@ import { useSelector} from "react-redux";
 
 import * as firebase from "firebase/app";
 import "firebase/auth"
+import Auto from "./auto"
 
 function Login (){
 function emailandpass(e,p){
@@ -29,14 +30,10 @@ const fire = useSelector(state=>state.firebase)
 
 return (
 <Card color="secondary" className="shadow-sm--hover rounded-top border-0 full" style={{padding:"15%"}}>
-  <Form>
+
     <div className="flex-row cen">
-      <FormGroup>
-        <Input className="form-control-alternative" id="emailInput" placeholder="EG: Jaipur,in" type="email"
-          datatype="string" />
-      </FormGroup>
+        <Auto className="border-blue hover shadow-lg--hover"/>
     </div>
-  </Form>
   <div className="justify-content-center flex-row">
     {/* <Button color="neutral" onClick={googlePop}><i className="ni ni-planet" />Google Login</Button>
 
