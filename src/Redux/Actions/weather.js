@@ -31,7 +31,7 @@ function fetchWeather(querry) {
 }
 
 function shouldFetchWeather(state) {
-  var current = state.weather.isFetched
+  var current = state.weather.data
   var dir = state.weather 
   if (!current) {
     return true

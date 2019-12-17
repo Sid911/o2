@@ -48,8 +48,7 @@ function shouldFetchPosts(state, page) {
       dir = state.homeNews
   }
   if (!posts) {
-    console.log("!post");
-    
+ 
     return true
   } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 15)) >= 1) {
     console.log("!postnext");
