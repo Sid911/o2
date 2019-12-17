@@ -10,11 +10,11 @@ export default function WeatherCard() {
     console.log(weather)
     return (
         <Card className="bg-transparent border-blue" style={{padding:"10%"}}>
-            <div className="display-4">Place Name : {weather.name} </div>
-            <div className="display-4">Place Name : {weather.main.temp} </div>
-            <div className="display-4">Place Name : {weather.main.feels_like} </div>
-            <div className="display-4">Place Name : {weather.main.temp_max} </div>
-            <div className="display-4">Place Name : {weather.main.temp_min} </div>
+            <div className="display-4">Place Name 🏢: {weather.name} </div>
+            <div className="display-4">Temp 🌡: {weather.main.temp - 273.15} </div>
+            <div className="display-4">Feels Like ❄: {weather.main.feels_like  - 273.15} </div>
+            <div className="display-4">Max Temp: {weather.main.temp_max  - 273.15} </div>
+            <div className="display-4">Least Temp : {weather.main.temp_min  - 273.15} </div>
         </Card>
     )
 }
