@@ -341,10 +341,10 @@ let chartExample1 = {
   },
   data1: canvas => {
     return {
-      labels: ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+      labels: ["2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18"],
       datasets: [
         {
-          label: "Usage",
+          label: "Production of P2O5",
           data: [0, 20, 10, 30, 15, 40, 20, 60, 60]
         }
       ]
@@ -355,7 +355,7 @@ let chartExample1 = {
       labels: ["2012-13", "2013-14", "2014-15", "2015-16", "2016-17", "2017-18"],
       datasets: [
         {
-          label: "Performance",
+          label: "Production of N",
           data: [16820.9,16750.1,16949.6,17372.3,16735.9,6705.5,16959.3]
         }
       ]
@@ -369,14 +369,7 @@ let chartExample2 = {
     scales: {
       yAxes: [
         {
-          ticks: {
-            callback: function(value) {
-              if (!(value % 10)) {
-                //return '$' + value + 'k'
-                return value;
-              }
-            }
-          }
+          
         }
       ]
     },

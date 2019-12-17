@@ -26,7 +26,7 @@ return (
         <div>
         <div className="container d-inline-flex p-2" style={{marginLeft:"10%"}}>
             <Card color="neutral" className="d-inline-flex p-2 shadow  border-blue" style={{padding :"10%"}}>
-            <h1>Hellow ther</h1>
+            <h1>Today's News 📰 </h1>
             </Card>
             </div>
             </div>
