@@ -15,7 +15,7 @@ return (
         <img src={logo} height="80px" width="80px" unselectable="on" alt="O2"/>
     </div>
     {props.show?
-    <div className="flex-column justify-content-between" style={{paddingTop:"2%",paddingLeft:"40%"}}>
+    <div className="flex-column justify-content-between" style={{paddingTop:"2%",paddingLeft:"20%"}}>
         <ButtonGroup className="nodrag">
             <Button outline color="primary" className="border-secondary border-right-0 shadow-none shadow-lg--hover" onClick={()=>document.location.href="/"}>Home</Button>
             <Button outline color="primary" className="border-secondary border-left-0 border-right-0 shadow-none shadow-lg--hover" onClick={()=>document.location.href="/agriculture"}>Agriculture</Button>
