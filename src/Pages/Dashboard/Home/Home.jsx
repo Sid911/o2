@@ -18,13 +18,13 @@ export default function Home() {
             
             <Row style={{marginTop:"10%"}}><Col><div className="flex-row justify-content-around">
            
-                {/* <Button color="neutral" onClick={() => firebase.logout()}>Logout</Button> */}
                 <NewsCard newseElement={newses}/>
                 
             </div>
             </Col>
             <Col>
             <WeatherCard/>
+            <Button color="neutral" onClick={() => firebase.logout()}>Logout</Button>
             </Col>
             </Row>
         </Card>

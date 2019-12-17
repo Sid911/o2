@@ -35,7 +35,7 @@ function shouldFetchWeather(state) {
   var dir = state.weather 
   if (!current) {
     return true
-  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 5)) >= 1) {
+  } else if (Math.floor((Date.now() - dir.lastUpdated) / (60000 * 1)) >= 1) {
     return true
   } else {
     return false

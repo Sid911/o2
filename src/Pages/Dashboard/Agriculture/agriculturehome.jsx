@@ -18,30 +18,18 @@ export default function Agriculture() {
     const item = useSelector(state=> state.agricultureNews.items)
     const newses= item.map((n)=> <Excard title={n.title} image={n.urlToImage} description={n.description}/>)
 return (
-    <div className="Y">
-    <Row>
-        <Col className="col-sm">
-            <NewsCards newseElement={newses}/>
-        </Col>
-        <Col className="col-sm">
-        <span>
-                <Card style={{ width: "rem" }}>
-                    <CardImg alt="..." src={M} top /><br />
-                    <CardBody>
-                        <CardTitle>Card title</CardTitle>
-                        <CardText>
-                            Some quick example text to build on the card title and make up
-                            the bulk of the card's content.
-                        </CardText>
-                        <Button color="primary" href="#pablo" onClick={e=> e.preventDefault()}
-                            >
-                            Go somewhere
-                        </Button>
-                    </CardBody>
-                </Card>
-                </span>
-                </Col>  
-    </Row>
+
+        <div>
+        <div className="d-inline-flex p-2">
+        <NewsCards newseElement={newses}  style={{marginLeft:"10%"}}/>
+        </div>
+        <div>
+        <div className="container d-inline-flex p-2" style={{marginLeft:"10%"}}>
+            <Card color="neutral" className="d-inline-flex p-2 shadow  border-blue" style={{padding :"10%"}}>
+            <h1>Hellow ther</h1>
+            </Card>
+            </div>
+            </div>
     </div>
     )
     }

@@ -3,44 +3,25 @@ import {Button,ButtonGroup} from "reactstrap";
 import "../../../assets/agriculture.css";
 import {Card,CardBody,CardImg,CardTitle,CardText,Row,Col,Container} from "reactstrap";
 import M from "../../../assets/ulalala.jpg";
+import Charts from "./Chart"
 
 export default function Agriculture() {
-    return (
-        <div>
-          <Container>
-  <Row>
-    <Col className="col-sm">
-      <span>
-      <Card style={{ width: "63rem" }}>
-                <CardImg alt="..." src={M} top />
-                <CardBody>
-                   
-                </CardBody>
-            </Card>
-      </span>
-    </Col>
-    <Col className="col-sm">
-      <span>
-      <Card style={{ width: "26rem" }}>
-                <CardImg alt="..." src={M} top />
-                <CardBody>
-                   
-                </CardBody>
-            </Card>
-      </span>
-    </Col>
-    <Col className="col-sm">
-      <span>
-      <Card style={{ width: "26rem" }}>
-                <CardImg alt="..." src={M} top />
-                <CardBody>
-                  
-                </CardBody>
-            </Card>
-      </span>
-    </Col>
-  </Row>
-</Container>
-        </div>
-    )
+const Googlemaps = require("@google/maps").createClient({key: 'AIzaSyBRbGfNhsLe8wgQD1Gnm5RHUZqk38J1au4'})
+return (
+<div>
+  <Container>
+    <Row>
+      <Col className="col-sm">
+
+          <Charts/>
+ 
+      </Col>
+      </Row>
+      <Row>
+      <Col className="col-sm">
+      </Col>
+    </Row>
+  </Container>
+</div>
+)
 }
