@@ -345,7 +345,7 @@ let chartExample1 = {
       datasets: [
         {
           label: "Production of P2O5",
-          data: [0, 20, 10, 30, 15, 40, 20, 60, 60]
+          data: [6653.4, 5633.6,6098.9, 6978.8,6705.5,6854.4]
         }
       ]
     };
@@ -369,7 +369,14 @@ let chartExample2 = {
     scales: {
       yAxes: [
         {
-          
+          ticks: {
+            callback: function(value) {
+              if (!(value % 10)) {
+                //return '$' + value + 'k'
+                return value;
+              }
+            }
+          }
         }
       ]
     },
