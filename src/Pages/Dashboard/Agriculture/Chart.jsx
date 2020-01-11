@@ -13,6 +13,7 @@ import {
   chartExample1
 } from "../../../variables/charts.jsx";
 
+
 class Charts extends React.Component {
   componentWillMount() {
     if (window.Chart) {

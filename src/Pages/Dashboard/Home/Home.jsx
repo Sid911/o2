@@ -23,7 +23,6 @@ export default function Home() {
             </div>
             </Col>
             <Col>
-            <WeatherCard/>
             <Button color="neutral" onClick={() => firebase.logout()}>Logout</Button>
             </Col>
             </Row>
