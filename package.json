@@ -4,7 +4,7 @@
   "private": true,
   "main": "public/electron.js",
   "dependencies": {
-    "@google/maps": "^1.0.2",
+    "@google/maps": "^1.1.0",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "cross-fetch": "^3.0.4",
