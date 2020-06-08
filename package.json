@@ -32,7 +32,7 @@
     "redux-logger": "^3.0.6",
     "redux-persist": "^6.0.0",
     "redux-thunk": "^2.3.0",
-    "wait-on": "^4.0.0"
+    "wait-on": "^5.0.1"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
